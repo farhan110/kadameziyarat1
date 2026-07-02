@@ -1,0 +1,276 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --night: #0a0908;
+  --coal: #121110;
+  --charcoal: #1b1917;
+  --gold: #c9a24b;
+  --goldbright: #ebcb82;
+  --ivory: #f3edde;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: var(--night);
+  color: var(--ivory);
+  -webkit-font-smoothing: antialiased;
+}
+
+::selection {
+  background: rgba(201, 162, 75, 0.35);
+  color: #fff;
+}
+
+/* ---------- Gold shimmer heading text ---------- */
+.gold-text {
+  background: linear-gradient(
+    100deg,
+    #8f6e2b 0%,
+    #c9a24b 22%,
+    #f5e3ae 40%,
+    #ebcb82 50%,
+    #f5e3ae 60%,
+    #c9a24b 78%,
+    #8f6e2b 100%
+  );
+  background-size: 200% auto;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  animation: shimmer 7s linear infinite;
+}
+
+@keyframes shimmer {
+  0% { background-position: 200% center; }
+  100% { background-position: -200% center; }
+}
+
+/* ---------- Girih 8-point star pattern overlay ---------- */
+.girih {
+  background-image: url("data:image/svg+xml,%3Csvg width='72' height='72' viewBox='0 0 72 72' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' stroke='%23C9A24B' stroke-opacity='0.16' stroke-width='1'%3E%3Cpath d='M36 6 L44 28 L66 36 L44 44 L36 66 L28 44 L6 36 L28 28 Z'/%3E%3Cpath d='M36 18 L41 31 L54 36 L41 41 L36 54 L31 41 L18 36 L31 31 Z'/%3E%3Ccircle cx='36' cy='36' r='4'/%3E%3C/g%3E%3C/svg%3E");
+}
+
+.girih-dense {
+  background-image: url("data:image/svg+xml,%3Csvg width='48' height='48' viewBox='0 0 72 72' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' stroke='%23C9A24B' stroke-opacity='0.22' stroke-width='1.2'%3E%3Cpath d='M36 6 L44 28 L66 36 L44 44 L36 66 L28 44 L6 36 L28 28 Z'/%3E%3Cpath d='M36 18 L41 31 L54 36 L41 41 L36 54 L31 41 L18 36 L31 31 Z'/%3E%3C/g%3E%3C/svg%3E");
+}
+
+/* ---------- Scroll reveal ---------- */
+.reveal {
+  opacity: 0;
+  transform: translateY(28px);
+  transition: opacity 0.9s cubic-bezier(0.16, 1, 0.3, 1),
+    transform 0.9s cubic-bezier(0.16, 1, 0.3, 1);
+  will-change: opacity, transform;
+}
+.reveal.in-view {
+  opacity: 1;
+  transform: translateY(0);
+}
+.reveal-left {
+  opacity: 0;
+  transform: translateX(-36px);
+  transition: opacity 0.9s cubic-bezier(0.16, 1, 0.3, 1),
+    transform 0.9s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.reveal-left.in-view {
+  opacity: 1;
+  transform: translateX(0);
+}
+.reveal-right {
+  opacity: 0;
+  transform: translateX(36px);
+  transition: opacity 0.9s cubic-bezier(0.16, 1, 0.3, 1),
+    transform 0.9s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.reveal-right.in-view {
+  opacity: 1;
+  transform: translateX(0);
+}
+.reveal-scale {
+  opacity: 0;
+  transform: scale(0.94);
+  transition: opacity 0.9s cubic-bezier(0.16, 1, 0.3, 1),
+    transform 0.9s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.reveal-scale.in-view {
+  opacity: 1;
+  transform: scale(1);
+}
+
+/* stagger children */
+.stagger > * {
+  transition-delay: calc(var(--i, 0) * 90ms);
+}
+
+/* ---------- Gold divider ornament ---------- */
+.ornament-line {
+  height: 1px;
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(201, 162, 75, 0.7),
+    transparent
+  );
+}
+
+/* ---------- Gold card glow on hover ---------- */
+.card-gold {
+  position: relative;
+  background: linear-gradient(160deg, #1b1917 0%, #121110 100%);
+  border: 1px solid rgba(201, 162, 75, 0.18);
+  transition: transform 0.5s cubic-bezier(0.16, 1, 0.3, 1),
+    border-color 0.5s ease, box-shadow 0.5s ease;
+}
+.card-gold:hover {
+  transform: translateY(-6px);
+  border-color: rgba(235, 203, 130, 0.55);
+  box-shadow: 0 18px 50px -18px rgba(201, 162, 75, 0.35),
+    0 0 0 1px rgba(201, 162, 75, 0.12) inset;
+}
+
+/* ---------- Buttons ---------- */
+.btn-gold {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  overflow: hidden;
+  background: linear-gradient(120deg, #8f6e2b, #c9a24b 45%, #ebcb82 55%, #c9a24b);
+  background-size: 220% auto;
+  color: #0a0908;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  transition: background-position 0.6s ease, transform 0.3s ease,
+    box-shadow 0.3s ease;
+}
+.btn-gold:hover {
+  background-position: right center;
+  transform: translateY(-2px);
+  box-shadow: 0 12px 34px -10px rgba(201, 162, 75, 0.55);
+}
+
+.btn-outline-gold {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  gap: 0.5rem;
+  border: 1px solid rgba(201, 162, 75, 0.55);
+  color: #ebcb82;
+  letter-spacing: 0.04em;
+  transition: all 0.35s ease;
+  background: transparent;
+}
+.btn-outline-gold:hover {
+  background: rgba(201, 162, 75, 0.1);
+  border-color: #ebcb82;
+  transform: translateY(-2px);
+}
+
+/* ---------- Hero light particles ---------- */
+.particle {
+  position: absolute;
+  bottom: -10px;
+  border-radius: 9999px;
+  background: radial-gradient(circle, rgba(235, 203, 130, 0.9), rgba(201, 162, 75, 0) 70%);
+  animation: riseparticle linear infinite;
+  pointer-events: none;
+}
+@keyframes riseparticle {
+  0% { transform: translateY(0) scale(1); opacity: 0; }
+  8% { opacity: 0.85; }
+  85% { opacity: 0.2; }
+  100% { transform: translateY(-92vh) scale(0.35); opacity: 0; }
+}
+
+/* ---------- Dome glow ---------- */
+.dome-glow {
+  background: radial-gradient(
+    ellipse 60% 45% at 50% 62%,
+    rgba(201, 162, 75, 0.28) 0%,
+    rgba(201, 162, 75, 0.1) 40%,
+    transparent 70%
+  );
+  animation: glowpulse 7s ease-in-out infinite;
+}
+@keyframes glowpulse {
+  0%, 100% { opacity: 0.5; }
+  50% { opacity: 1; }
+}
+
+/* ---------- Marquee ---------- */
+.marquee-track {
+  display: flex;
+  width: max-content;
+  animation: marquee 40s linear infinite;
+}
+.marquee-track:hover {
+  animation-play-state: paused;
+}
+@keyframes marquee {
+  from { transform: translateX(0); }
+  to { transform: translateX(-50%); }
+}
+
+/* ---------- Underline sweep for nav links ---------- */
+.nav-link {
+  position: relative;
+}
+.nav-link::after {
+  content: "";
+  position: absolute;
+  left: 0;
+  bottom: -4px;
+  height: 1px;
+  width: 100%;
+  background: linear-gradient(90deg, #c9a24b, #ebcb82);
+  transform: scaleX(0);
+  transform-origin: right;
+  transition: transform 0.4s cubic-bezier(0.16, 1, 0.3, 1);
+}
+.nav-link:hover::after,
+.nav-link.active::after {
+  transform: scaleX(1);
+  transform-origin: left;
+}
+
+/* ---------- Scrollbar ---------- */
+::-webkit-scrollbar {
+  width: 10px;
+}
+::-webkit-scrollbar-track {
+  background: #0a0908;
+}
+::-webkit-scrollbar-thumb {
+  background: #3a3327;
+  border-radius: 8px;
+}
+::-webkit-scrollbar-thumb:hover {
+  background: #8f6e2b;
+}
+
+/* ---------- Reduced motion ---------- */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+  html {
+    scroll-behavior: auto;
+  }
+  .reveal,
+  .reveal-left,
+  .reveal-right,
+  .reveal-scale {
+    opacity: 1;
+    transform: none;
+  }
+}
