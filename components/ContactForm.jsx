@@ -11,6 +11,8 @@ const packageOptions = [
   "Custom / Private Tour",
 ];
 
+const FORM_ENDPOINT = "https://formsubmit.co/ajax/farhan.haider67@gmail.com";
+
 const inputClass =
   "w-full rounded-xl border border-gold/20 bg-night/70 px-4 py-3 text-sm text-ivory placeholder:text-sand/50 outline-none transition-all duration-300 focus:border-goldbright/70 focus:bg-night focus:shadow-[0_0_0_3px_rgba(201,162,75,0.15)]";
 
@@ -25,15 +27,45 @@ export default function ContactForm() {
     travellers: "",
     message: "",
   });
+  const [sending, setSending] = useState(false);
   const [sent, setSent] = useState(false);
 
   const set = (key) => (e) => setForm({ ...form, [key]: e.target.value });
 
-  const handleSubmit = () => {
+  const handleSubmit = async () => {
     if (!form.name.trim() || !form.phone.trim()) {
       alert("Please fill in at least your name and phone/WhatsApp number.");
       return;
     }
+
+    setSending(true);
+
+    // 1. Email the enquiry directly to our team.
+    try {
+      await fetch(FORM_ENDPOINT, {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          Accept: "application/json",
+        },
+        body: JSON.stringify({
+          _subject: `New Ziyarat Enquiry from ${form.name}`,
+          _template: "table",
+          Name: form.name,
+          Email: form.email || "-",
+          "Phone / WhatsApp": form.phone,
+          Country: form.country || "-",
+          "Package Interest": form.pkg,
+          "Preferred Travel Dates": form.dates || "-",
+          "Number of Travellers": form.travellers || "-",
+          Message: form.message || "-",
+        }),
+      });
+    } catch (err) {
+      // Even if email fails, continue to WhatsApp so the enquiry is not lost.
+    }
+
+    // 2. Also open WhatsApp with the pre-filled enquiry.
     const lines = [
       "Assalamu Alaikum, I would like to enquire about a Ziyarat package.",
       "",
@@ -48,6 +80,8 @@ export default function ContactForm() {
     ].filter(Boolean);
     const url = `https://wa.me/917007189274?text=${encodeURIComponent(lines.join("\n"))}`;
     window.open(url, "_blank", "noopener,noreferrer");
+
+    setSending(false);
     setSent(true);
   };
 
@@ -55,8 +89,8 @@ export default function ContactForm() {
     <div className="card-gold rounded-2xl p-7 sm:p-9">
       <h3 className="font-display text-2xl text-goldbright">Enquiry Form</h3>
       <p className="mt-2 text-sm text-sand">
-        Fill in your details and press send — your enquiry opens directly in
-        WhatsApp, ready to deliver to our team.
+        Fill in your details and press send — your enquiry is delivered to our
+        team instantly, and also opens in WhatsApp for a faster reply.
       </p>
       <div className="mt-7 grid gap-4 sm:grid-cols-2">
         <input className={inputClass} placeholder="Full Name *" value={form.name} onChange={set("name")} />
@@ -81,14 +115,19 @@ export default function ContactForm() {
           />
         </div>
       </div>
-      <button onClick={handleSubmit} className="btn-gold mt-6 w-full rounded-full px-8 py-3.5 text-sm sm:w-auto">
+      <button
+        onClick={handleSubmit}
+        disabled={sending}
+        className="btn-gold mt-6 w-full rounded-full px-8 py-3.5 text-sm disabled:cursor-not-allowed disabled:opacity-60 sm:w-auto"
+      >
         <svg viewBox="0 0 24 24" className="h-5 w-5" fill="currentColor"><path d="M12 2a10 10 0 0 0-8.6 15.1L2 22l5-1.3A10 10 0 1 0 12 2Zm5.4 14.1c-.2.6-1.2 1.2-1.7 1.2-.4.1-1 .1-1.6-.1-.4-.1-.9-.3-1.5-.5-2.6-1.1-4.3-3.8-4.4-4-.1-.2-1.1-1.4-1.1-2.7 0-1.3.7-1.9.9-2.2.2-.3.5-.3.7-.3h.5c.2 0 .4 0 .6.4.2.5.7 1.8.8 1.9.1.1.1.3 0 .5-.1.2-.2.3-.3.5l-.4.5c-.2.1-.3.3-.1.6.2.3.8 1.3 1.7 2.1 1.2 1 2.1 1.3 2.4 1.5.3.1.5.1.6-.1.2-.2.7-.8.9-1.1.2-.3.4-.2.6-.1.3.1 1.7.8 1.9.9.3.2.5.2.5.3.1.2.1.7-.1 1.2Z"/></svg>
-        Send Enquiry via WhatsApp
+        {sending ? "Sending..." : "Send Enquiry"}
       </button>
       {sent && (
         <p className="mt-4 text-sm text-goldbright">
-          WhatsApp opened in a new tab — press send there to deliver your
-          enquiry. We respond within 24 hours, In Sha Allah.
+          Your enquiry has been sent to our team. WhatsApp also opened in a new
+          tab — press send there for the fastest reply. We respond within 24
+          hours, In Sha Allah.
         </p>
       )}
       <p className="mt-4 text-xs text-sand/60">
