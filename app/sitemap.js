@@ -1,7 +1,7 @@
 import occasionPages from "@/lib/occasion-pages.json";
 
 export default function sitemap() {
-  const base = "https://kadameziyarat.com";
+  const base = "https://www.kadameziyarat.com";
   const routes = [
     "",
     "/about",
@@ -27,6 +27,7 @@ export default function sitemap() {
     ...occasionPages,
   ].map((page) => ({
     url: `https://www.kadameziyarat.com${page.path}`,
+    lastModified: new Date("2026-10-06"),
     changeFrequency: "monthly",
     priority: page.kind === "package" ? 0.8 : 0.6,
   }));
