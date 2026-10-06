@@ -25,7 +25,7 @@ export default function Footer() {
               <li><Link href="/packages/iraq" className="text-sand transition-colors hover:text-goldbright">Iraq Ziyarat Packages</Link></li>
               <li><Link href="/packages/iran" className="text-sand transition-colors hover:text-goldbright">Iran Ziyarat Packages</Link></li>
               <li><Link href="/packages/combined" className="text-sand transition-colors hover:text-goldbright">Iraq + Iran Combined</Link></li>
-              <li><Link href="/packages/arbaeen" className="text-sand transition-colors hover:text-goldbright">Arbaeen Special 2026</Link></li>
+              <li><Link href="/packages/arbaeen" className="text-sand transition-colors hover:text-goldbright">Arbaeen Special 2027</Link></li>
               <li><Link href="/destinations" className="text-sand transition-colors hover:text-goldbright">Destinations Guide</Link></li>
             </ul>
           </div>

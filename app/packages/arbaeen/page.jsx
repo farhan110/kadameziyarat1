@@ -6,11 +6,11 @@ import CtaBand from "@/components/CtaBand";
 import { arbaeenTiers } from "@/lib/data";
 
 export const metadata = {
-  title: "Arbaeen Ziyarat Packages 2026 | Walk to Karbala",
+  title: "Arbaeen Ziyarat Packages 2027 | Walk to Karbala",
   description:
-    "Book Arbaeen 2026 Ziyarat packages with flights, visa, hotels in Karbala & Najaf, and Arbaeen walk support. Budget to premium options for the world's largest peaceful gathering.",
+    "Book Arbaeen 2027 Ziyarat packages with flights, visa, hotels in Karbala & Najaf, and Arbaeen walk support. Budget to premium options for the world's largest peaceful gathering.",
   keywords: [
-    "arbaeen packages 2026",
+    "arbaeen packages 2027",
     "arbaeen ziyarat",
     "arbaeen walk package",
     "karbala arbaeen",
@@ -50,7 +50,7 @@ export default function ArbaeenPage() {
     <>
       <PageHero
         arabic="أربعين الإمام الحسين عليه السلام"
-        eyebrow="Arbaeen Special 2026"
+        eyebrow="Arbaeen Special 2027"
         title="Join the World's Largest Peaceful Gathering"
         lead="Arbaeen marks the 40th day after the martyrdom of Imam Hussain (A.S.). Millions of pilgrims from over 60 countries walk from Najaf to Karbala in a remarkable display of devotion and unity — and we handle everything from flights and visa to the walk itself."
       />
@@ -151,7 +151,7 @@ export default function ArbaeenPage() {
       </section>
 
       <CtaBand
-        title="Reserve Your Arbaeen 2026 Seat"
+        title="Reserve Your Arbaeen 2027 Seat"
         text="Arbaeen seats fill fast. Contact us early to secure your package, visa, and hotel near the Haram."
       />
     </>

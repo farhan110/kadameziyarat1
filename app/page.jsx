@@ -82,7 +82,7 @@ const packageCards = [
   },
   {
     href: "/packages/arbaeen",
-    label: "Arbaeen Special 2026",
+    label: "Arbaeen Special 2027",
     cities: "Najaf → Karbala Walk",
     price: "$800",
     desc: "Join the world's largest peaceful gathering. Flights, visa, hotels, and full logistical support for the 80 km walk of love.",
