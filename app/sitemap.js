@@ -1,3 +1,5 @@
+import occasionPages from "@/lib/occasion-pages.json";
+
 export default function sitemap() {
   const base = "https://kadameziyarat.com";
   const routes = [
@@ -14,10 +16,19 @@ export default function sitemap() {
     "/terms",
     "/privacy",
   ];
-  return routes.map((route) => ({
+  const existingEntries = routes.map((route) => ({
     url: `${base}${route}`,
     lastModified: new Date(),
     changeFrequency: route === "" ? "weekly" : "monthly",
     priority: route === "" ? 1 : route.startsWith("/packages") ? 0.9 : 0.7,
   }));
+  const additions = [
+    { path: "/ziyarat-occasions", kind: "directory" },
+    ...occasionPages,
+  ].map((page) => ({
+    url: `https://www.kadameziyarat.com${page.path}`,
+    changeFrequency: "monthly",
+    priority: page.kind === "package" ? 0.8 : 0.6,
+  }));
+  return [...existingEntries, ...additions];
 }
