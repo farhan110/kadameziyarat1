@@ -1,0 +1,595 @@
+{
+  "slug": "izn-dukhul",
+  "title": "Izn Dukhul: Permission to Enter a Shrine",
+  "urduTitle": "اذن دخول",
+  "group": "Ziyarat Etiquette & Prayers",
+  "aliases": "Izn Dukhool Idhn Dukhul",
+  "edition": "",
+  "path": "/ziyarat/izn-dukhul",
+  "intro": "The source collection’s entrance prayers and salutations for approaching the holy shrines.",
+  "description": "Read Izn Dukhul: Permission to Enter a Shrine with arabic text, transliteration and english meaning, recitation context and source references.",
+  "blocks": [
+    {
+      "kind": "heading",
+      "text": "Izn Dukhool"
+    },
+    {
+      "kind": "note",
+      "text": "ASKING PERMISSION FOR ENTERING THE HOLY SHRINES\n\nTwo forms of asking permission for entering the holy shrines (isti’dhan).\n\nFirst: In the word of Shaykh al-Kaf`ami, when you intend to enter the Holy Prophet’s Mosque in al-Madinah or any of the holy shrines of the Imams (‘a), you may say the following:"
+    },
+    {
+      "kind": "text",
+      "arabic": "اَللَّهُمَّ إِنِّي وَقَفْتُ عَلَىٰ بَابٍ",
+      "transliteration": "allahumma inni waqaftu `ala babin",
+      "english": "O Allah, I am standing at one of the doors"
+    },
+    {
+      "kind": "text",
+      "arabic": "مِنْ ابْوَابِ بُيُوتِ نَبِيِّكَ",
+      "transliteration": "min abwabi buyuti nabiyyika",
+      "english": "of Your Prophet’s Houses—"
+    },
+    {
+      "kind": "text",
+      "arabic": "صَلَوَاتُكَ عَلَيْهِ وَآلِهِ",
+      "transliteration": "salawatuka `alayhi wa alihi",
+      "english": "may Your blessings be upon him and his Household."
+    },
+    {
+      "kind": "text",
+      "arabic": "وَقَدْ مَنَعْتَ ٱلنَّاسَ انْ يَدْخُلُوٱ إِلاَّ بِإِذْنِهِ",
+      "transliteration": "wa qad mana`ta alnnasa an yadkhulu illa bi'idhnihi",
+      "english": "And You have prevented people to enter there before they obtain his permission."
+    },
+    {
+      "kind": "text",
+      "arabic": "فَقُلْتَ: ”يَا ايُّهَا ٱلَّذِينَ آمَنُوٱ",
+      "transliteration": "faqulta ya ayyuha alladhina amanu",
+      "english": "You have thus said, “O ye who believe!"
+    },
+    {
+      "kind": "text",
+      "arabic": "لاََ تَدْخُلُوٱ بُيُوتَ ٱلنَّبِيِّ إِلاَّ انْ يُؤْذَنَ لَكُمْ“",
+      "transliteration": "la tadkhulu buyuta alnnabiyyi illa an yu'dhana lakum",
+      "english": "Enter not the Prophet's houses until leave is given you.”"
+    },
+    {
+      "kind": "text",
+      "arabic": "اَللَّهُمَّ إِنِّي اعْتَقِدُ حُرْمَةَ صَاحِبِ هٰذَا ٱلْمَشْهَدِ ٱلشَّريفِ فِي غَيْبَتِهِ",
+      "transliteration": "allahumma inni a`taqidu hurmata sahibi hadha almashhadi alshsharifi fi ghaybatihi",
+      "english": "O Allah, I believe in the sanctity of the owner of this holy shrine in his absence"
+    },
+    {
+      "kind": "text",
+      "arabic": "كَمَا اعْتَقِدُهَا فِي حَضْرَتِهِ",
+      "transliteration": "kama a`taqiduha fi hadratihi",
+      "english": "as same as I believe in it in his presence."
+    },
+    {
+      "kind": "text",
+      "arabic": "وَاعْلَمُ انَّ رَسُولَكَ وَخُلَفَاءَكَ عَلَيْهِمُ ٱلسَّلاَمُ",
+      "transliteration": "wa a`lamu anna rasulaka wa khulafa'aka `alayhimu alssalamu",
+      "english": "I also know for sure that Your Messenger and Your Representatives—peace be upon them—"
+    },
+    {
+      "kind": "text",
+      "arabic": "احْيَاءٌ عِنْدَكَ يُرْزَقُونَ",
+      "transliteration": "ahya'un `indaka yurzaquna",
+      "english": "are live, finding their sustenance in the presence of You;"
+    },
+    {
+      "kind": "text",
+      "arabic": "يَرَوْنَ مَقَامِي",
+      "transliteration": "yarawna maqami",
+      "english": "they can see my place,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَيَسْمَعُوَن كَلاَمِي",
+      "transliteration": "wa yasma`una kalami",
+      "english": "hear my words,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَيَرُدُّونَ سَلاَمِي",
+      "transliteration": "wa yarudduna salami",
+      "english": "and respond to my greetings,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَاَنِّكَ حَجَبْتَ عَنْ سَمْعِي كَلاَمَهُمْ",
+      "transliteration": "wa annaka hajabta `an sam`i kalamahum",
+      "english": "but You have prevented my hearing from receiving their words"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَفَتَحْتَ بَابَ فَهْمِي بِلَذِيذِ مُنَاجَاتِهِمْ",
+      "transliteration": "wa fatahta baba fahmi biladhidhi munajatihim",
+      "english": "and You have opened the door of my understanding to taste the fine flavor of my confidential speech with"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَإِنِّي اسْتَاذِنُكَ يَا رَبِّ اوَّلاًَ",
+      "transliteration": "wa inni asta'dhinuka ya rabbi awwalan",
+      "english": "I thus ask Your permission—O my Lord—first of all,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَاسْتَاذِنُ رَسُولَكَ صَلَّىٰ ٱللَّهُ عَلَيْهِ وَآلِهِ ثَانِياً",
+      "transliteration": "wa asta'dhinu rasulaka salla allahu `alayhi wa alihi thaniyan",
+      "english": "the permission of Your Prophet—peace be upon him and his Household—secondly,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَاسْتَاذِنُ خَليفَتَكَ ٱلإِمَامَ",
+      "transliteration": "wa asta'dhinu khalifataka al'imama",
+      "english": "the permission of Your Representative, the Imam"
+    },
+    {
+      "kind": "text",
+      "arabic": "ٱلْمَفْرُوضَ عَلَيَّ طَاعَتُهُ…",
+      "transliteration": "almafruda `alayya ta`atuhu",
+      "english": "the obedience to whom is incumbent upon me…"
+    },
+    {
+      "kind": "note",
+      "text": "Mention the name of the Imam that you are visiting his holy shrine and also mention the name of his father. For instance, if you are visiting the holy shrine of Imam al-Husayn (‘a), you may say, “al-Husayn ibn `Ali—peace be upon him.” And if you are visiting the holy shrine of Imam al-Rida (‘a), you may say, “`Ali ibn Musa al-Rida—peace be upon him” and so on.\n\nYou may then say:"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلْمَلاَئِكَةَ ٱلْمُوَكَّلينَ بِهٰذِهِ ٱلْبُقْعَةِ ٱلْمُبَارَكَةِ ثَالِثاً",
+      "transliteration": "walmala'ikata almuwakkalina bihadhihi albuq`ati almubarakati thalithan",
+      "english": "…and the permission of the angels whom are commissioned to supervise this blessed area, thirdly."
+    },
+    {
+      "kind": "text",
+      "arabic": "اادْخُلُ يَا رَسُولَ ٱللَّهِ",
+      "transliteration": "a'adkhulu ya rasula allahi",
+      "english": "May I enter, O Messenger of Allah?"
+    },
+    {
+      "kind": "text",
+      "arabic": "اادْخُلُ يَا حُجَّةَ ٱللَّهِ",
+      "transliteration": "a'adkhulu ya hujjata allahi",
+      "english": "May I enter, O Argument of Allah?"
+    },
+    {
+      "kind": "text",
+      "arabic": "اادْخُلُ يَا مَلاَئِكَةَ ٱللَّهِ ٱلْمُقَرَّبِينَ",
+      "transliteration": "a'adkhulu ya mala'ikata allahi almuqarrabina",
+      "english": "May I enter, O angels of Allah—the intimate,"
+    },
+    {
+      "kind": "text",
+      "arabic": "ٱلْمُقِيمِينَ فِي هٰذَا ٱلْمَشْهَدِ",
+      "transliteration": "almuqimina fi hadha almashhadi",
+      "english": "the residing in this shrine?"
+    },
+    {
+      "kind": "text",
+      "arabic": "فَاذَنْ لِي يَا مَوْلاَيَ فِي ٱلدُّخُولِ",
+      "transliteration": "fa'dhan li ya mawlaya fi alddukhuli",
+      "english": "So, (please do) permit me to enter, O my Master,"
+    },
+    {
+      "kind": "text",
+      "arabic": "افْضَلَ مَا اذِنْتَ لاِحَدٍ مِنْ اوْلِيَائِكَ",
+      "transliteration": "afdala ma adhinta li'ahadin min awliya'ika",
+      "english": "in the best way of permission that you have ever conferred upon any of your intimate adherents."
+    },
+    {
+      "kind": "text",
+      "arabic": "فَإِنْ لَمْ اكُنْ اهْلاًَ لِذٰلِكَ",
+      "transliteration": "fa'in lam akun ahlan lidhalika",
+      "english": "If I do not deserve such permission,"
+    },
+    {
+      "kind": "text",
+      "arabic": "فَانْتَ اهْل ٌ لِذٰلِكَ",
+      "transliteration": "fa'anta ahlun lidhalika",
+      "english": "then you are worthy of conferring it upon me."
+    },
+    {
+      "kind": "note",
+      "text": "You may then kiss the holy doorstep (of the shrine) and enter, saying:"
+    },
+    {
+      "kind": "text",
+      "arabic": "بِسْمِ ٱللَّهِ وَبِٱللَّهِ",
+      "transliteration": "bismi allahi wa billahi",
+      "english": "In the Name of Allah (I begin), in Allah (I trust),"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَفِي سَبِيلِ ٱللَّهِ",
+      "transliteration": "wa fi sabili allahi",
+      "english": "on the way of Allah (I proceed),"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَعَلَىٰ مِلَّةِ رَسُولِ ٱللَّهِ",
+      "transliteration": "wa `ala millati rasuli allahi",
+      "english": "and on the norm of the Messenger of Allah,"
+    },
+    {
+      "kind": "text",
+      "arabic": "صَلَّىٰ ٱللَّهُ عَلَيْهِ وَآلِهِ",
+      "transliteration": "salla allahu `alayhi wa alihi",
+      "english": "may Allah bless him and his Household."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَللَّهُمَّ ٱغْفِرْ لِي",
+      "transliteration": "allahumma ighfir li",
+      "english": "O Allah, (please do) forgive me,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱرْحَمْنِي وَتُبْ عَلَيَّ",
+      "transliteration": "warhamni wa tub `alayya",
+      "english": "have mercy upon me, and accept my repentance,"
+    },
+    {
+      "kind": "text",
+      "arabic": "إِنَّكَ انْتَ ٱلتَّوَّابُ ٱلرَّحِيمُ",
+      "transliteration": "innaka anta alttawwabu alrrahimu",
+      "english": "for You are verily the Oft-Returning, the All-Merciful."
+    },
+    {
+      "kind": "note",
+      "text": "Second:\nFollowing is the form of asking permission that is reported by `Allamah al-Majlisi—may Allah sanctify his soul—from an old copy of a book written by one of our old scholars who had mentioned that it is a form of asking permission to enter the Holy Vault (Sirdab) and the illuminative shrines of the Holy Imams (‘a):"
+    },
+    {
+      "kind": "text",
+      "arabic": "اَللَّهُمَّ إِنَّ هٰذِهِ بُقْعَةٌ طَهَّرْتَهَا",
+      "transliteration": "allahumma inna hadhihi buq`atun tahhartaha",
+      "english": "O Allah, this is verily an area that You have purified,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَعَقْوَةٌ شَرَّفْتَهَا",
+      "transliteration": "wa `aqwatun sharraftaha",
+      "english": "a courtyard that You have honored,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَمَعَالِمُ زَكَّيْتَهَا",
+      "transliteration": "wa ma`alimu zakkaytaha",
+      "english": "and landmarks that You have ennobled"
+    },
+    {
+      "kind": "text",
+      "arabic": "حَيْثُ اظْهَرْتَ فِيهَا ادِلَّةَ ٱلتَّوْحِيدِ",
+      "transliteration": "haythu azharta fiha adillata alttawhidi",
+      "english": "when You have shown therein the proofs on Your Oneness"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَاشْبَاحَ ٱلْعَرْشِ ٱلْمَجِيدِ",
+      "transliteration": "wa ashbaha al`arshi almajidi",
+      "english": "and the ghosts of the Glorious Throne"
+    },
+    {
+      "kind": "text",
+      "arabic": "ٱلَّذينَ ٱِصْطَفَيْتَهُمْ مُلُوكاً لِحِفْظِ ٱلنِّظَامِ",
+      "transliteration": "alladhina istafaytahum mulukan lihifzi alnnzami",
+      "english": "whom You have selected as kings maintaining the System (of the universe),"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱخْتَرْتَهُمْ رُؤَسَاءَ لِجَمِيعِ ٱلانَامِ",
+      "transliteration": "wakhtartahum ru'asa'a lijami`i al-anami",
+      "english": "You have chosen them as chiefs of all beings,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَبَعَثْتَهُمْ لِقِيَامِ الْقِسْطِ",
+      "transliteration": "wa ba`athtahum liqiyami alqisti",
+      "english": "and You have sent them for standing out firmly for justice"
+    },
+    {
+      "kind": "text",
+      "arabic": "فِي ٱبْتِدَاءِ ٱلْوُجُودِ إِلَىٰ يَوْمِ ٱلْقِيَامَةِ",
+      "transliteration": "fi ibtida'i alwujudi ila yawmi alqiyamati",
+      "english": "since the beginning of existence and up to the Resurrection Day."
+    },
+    {
+      "kind": "text",
+      "arabic": "ثُمَّ مَنَنْتَ عَلَيْهِمْ بِٱسْتِنَابَةِ انْبِيَائِكَ",
+      "transliteration": "thumma mananta `alayhim bistinabati anbiya'ika",
+      "english": "You have then conferred upon them with the grace of their representing Your Prophets"
+    },
+    {
+      "kind": "text",
+      "arabic": "لِحِفْظِ شَرَايِعِكَ وَاحْكَامِكَ",
+      "transliteration": "lihifzi shara'i`ika wa ahkamika",
+      "english": "in the matters of maintaining Your rules and laws."
+    },
+    {
+      "kind": "text",
+      "arabic": "فَاكْمَلْتَ بِٱسْتِخْلاَفِهِمْ رِسَالَةَ ٱلْمُنْذِرِينَ",
+      "transliteration": "fa'akmalta bistikhlafihim risalata almundhirina",
+      "english": "You have thus perfected, through assigning them as successors of Your Prophets, the Mission of the warning Prophets"
+    },
+    {
+      "kind": "text",
+      "arabic": "كَمَا اوْجَبْتَ رِيَاسَتَهُمْ فِي فِطَرِ ٱلْمُكَلَّفِينَ",
+      "transliteration": "kama awjabta ri'asatahum fi fitari almukallafina",
+      "english": "in the same way as You have made their leadership incumbent since the first creation of all peoples who are responsible for carrying out Your duties."
+    },
+    {
+      "kind": "text",
+      "arabic": "فَسُبْحَانَكَ مِنْ إِلٰهٍ مَا ارْافَكَ",
+      "transliteration": "fasubhanaka min ilahin ma ar'afaka",
+      "english": "Glory be to You; what a Compassionate Lord Your are!"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَلاَ إِلٰهَ إِلاَّ انْتَ مِنْ مَلِكٍ مَا اعْدَلَكَ",
+      "transliteration": "wa la ilaha illa anta min malikin ma a`dalaka",
+      "english": "There is no god save You; what a Just King You are!"
+    },
+    {
+      "kind": "text",
+      "arabic": "حَيْثُ طَابَقَ صُنْعُكَ مَا فَطَرْتَ عَلَيْهِ ٱلْعُقُولَ",
+      "transliteration": "haythu tabaqa sun`uka ma fatarta `alayhi al`uqula",
+      "english": "Your making has corresponded with all that on which You have created the intellects,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَوَافَقَ حُكْمُكَ مَا قَرَّرْتَهُ فِي ٱلْمَعْقُولِ وَٱلْمَنْقُولِ",
+      "transliteration": "wa wafaqa hukmuka ma qarrartahu fi alma`quli walmanquli",
+      "english": "and Your laws have concurred with that which You have decided, including the logic and the narrated."
+    },
+    {
+      "kind": "text",
+      "arabic": "فَلَكَ ٱلْحَمْدُ عَلَىٰ تَقْدِيرِكَ ٱلْحَسَنِ ٱلْجَمِيلِ",
+      "transliteration": "falaka alhamdu `ala taqdirika alhasani aljamili",
+      "english": "Praise be to You for Your arrangement—the fine and excellent."
+    },
+    {
+      "kind": "text",
+      "arabic": "وَلَكَ ٱلشُّكْرُ عَلَىٰ قَضَائِكَ ٱلْمُعَلَّلِ بِاكْمَلِ ٱلتَّعْلِيلِ",
+      "transliteration": "wa laka alshshukru `ala qada'ika almu`allali bi'akmali altta`lili",
+      "english": "Thanks be to You for Your ordain that is outstandingly founded."
+    },
+    {
+      "kind": "text",
+      "arabic": "فَسُبْحَانَ مَنْ لاََ يُسْالُ عَنْ فِعْلِهِ",
+      "transliteration": "fasubhana man la yus'alu `an fi`lihi",
+      "english": "Glory be to Him Whom is not asked about whatever He does,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَلاَ يُنَازِعُ فِي امْرِهِ",
+      "transliteration": "wa la yunaza`u fi amrihi",
+      "english": "and Whom is not disputed about whatever He decides."
+    },
+    {
+      "kind": "text",
+      "arabic": "وَسُبْحَانَ مَنْ كَتَبَ عَلَىٰ نَفْسِهِ ٱلرَّحْمَةَ",
+      "transliteration": "wa subhana man kataba `ala nafsihi alrrahmata",
+      "english": "Glory be to Him Who has inscribed mercy for Himself"
+    },
+    {
+      "kind": "text",
+      "arabic": "قَبْلَ ٱبْتِدَاءِ خَلْقِهِ",
+      "transliteration": "qabla ibtida'i khalqihi",
+      "english": "before He started creation."
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلْحَمْدُ لِلَّهِ ٱلَّذِي مَنَّ عَلَيْنَا",
+      "transliteration": "walhamdu lillahi alladhi manna `alayna",
+      "english": "Praise be to Allah Who has conferred upon us"
+    },
+    {
+      "kind": "text",
+      "arabic": "بِحُكَّامٍ يَقُومُونَ مَقَامَهُ",
+      "transliteration": "bihukkamin yaqumuna maqamahu",
+      "english": "with the favor of assigning rulers who represent Him"
+    },
+    {
+      "kind": "text",
+      "arabic": "لَوْ كَانَ حَاضِراً فِي ٱلْمَكَانِ",
+      "transliteration": "law kana hadiran fi almakani",
+      "english": "as if He is present therein."
+    },
+    {
+      "kind": "text",
+      "arabic": "وَلاَ إِلٰهَ إِلاَّ ٱللَّهُ ٱلَّذِي شَرَّفَنَا بِاوْصِيَاءَ",
+      "transliteration": "wa la ilaha illa allahu alladhi sharrafana bi'awsiya'a",
+      "english": "There is no god save Allah Who has honored us with Successors"
+    },
+    {
+      "kind": "text",
+      "arabic": "يَحْفَظُونَ ٱلشَّرَايِعَ فِي كُلِّ ٱلازْمَانِ",
+      "transliteration": "yahfazuna alshshara'i`a fi kulli al'azmani",
+      "english": "maintaining the (Divine) laws in all ages."
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱللَّهُ اكْبَرُ ٱلَّذِي اظْهَرَهُمْ لَنَا",
+      "transliteration": "wallahu akbaru alladhi azharahum lana",
+      "english": "Allah is the Most Great for He has demonstrated them before us"
+    },
+    {
+      "kind": "text",
+      "arabic": "بِمُعْجِزَاتٍ يَعْجَزُ عَنْهَا ٱلثَّقَلاَنِ",
+      "transliteration": "bimu`jizatin ya`jazu `anha alththaqalani",
+      "english": "through miracles that neither men nor can the jinn do."
+    },
+    {
+      "kind": "text",
+      "arabic": "لاََ حَوْلَ وَلاَ قُوَّةَ إِلاَّ بِٱللَّهِ ٱلْعَلِيِّ ٱلْعَظيمِ",
+      "transliteration": "la hawla wa la quwwata illa billahi al`aliyyi al`azimi",
+      "english": "There is no power and no might save with Allah, the Most High, the All-great,"
+    },
+    {
+      "kind": "text",
+      "arabic": "ٱلَّذِي اجْرَانَا عَلَىٰ عَوَائِدِهِ ٱلْجَمِيلَةِ فِي ٱلامَمِ ٱلسَّالِفينَ",
+      "transliteration": "alladhi ajrana `ala `awa'idihi aljamilati fi al'umami alssalifina",
+      "english": "Who has accustomed us to receive His favorable donations that He did to the ancient nations."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَللَّهُمَّ فَلَكَ ٱلْحَمْدُ وَٱلثَّنَاءُ ٱلْعَلِيُّ",
+      "transliteration": "allahumma falaka alhamdu walththana'u al`aliyyu",
+      "english": "O Allah, all praise be to You and elevated thanks be to You"
+    },
+    {
+      "kind": "text",
+      "arabic": "كَمَا وَجَبَ لِوَجْهِكَ ٱلْبَقَاءُ ٱلسَّرْمَدِيُّ",
+      "transliteration": "kama wajaba liwajhika albaqa'u alssarmadiyyu",
+      "english": "as eternal existence has been confirmed for Your Face,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَكَمَا جَعَلْتَ نَبِيَّنَا خَيْرَ ٱلنَّبِيِّينَ",
+      "transliteration": "wa kama ja`alta nabiyyana khayra alnnabiyyina",
+      "english": "and as You have chosen our Prophet to be the best of Prophets"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَمُلُوكَنَا افْضَلَ ٱلْمَخْلُوقِينَ",
+      "transliteration": "wa mulukana afdala almakhluqina",
+      "english": "and our kings to be the best of the creatures,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱخْتَرْتَهُمْ عَلَىٰ عِلْمٍ عَلَىٰ ٱلْعَالَمِينَ",
+      "transliteration": "wakhtartahum `ala `ilmin `ala al`alamina",
+      "english": "and You have chosen them aforetime above the nations knowingly."
+    },
+    {
+      "kind": "text",
+      "arabic": "وَفِّقْنَا للِسَّعْيِ إِلَىٰ ابْوَابِهِمُ ٱلْعَامِرَةِ إِلَىٰ يَوْمِ ٱلدِّينِ",
+      "transliteration": "waffiqna lilssa`yi ila abwabihim al`amirati ila yawmi alddini",
+      "english": "(Please do) grant us prosperity to stand at the doorsteps of their flourishing shrines up to the Resurrection Day,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱجْعَلْ ارْوَاحَنَا تَحِنُّ إِلَىٰ مَوْطِئِ اقْدَامِهِمْ",
+      "transliteration": "waj`al arwahana tahinnu ila mawti'i aqdamihim",
+      "english": "make our souls long for the places of their feet,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَنُفُوسَنَا تَهْوَىٰ النَّظَرَ إِلَىٰ مَجَالِسِهِمْ وَعَرَصَاتِهِمْ",
+      "transliteration": "wa nufusana tahwa alnnazara ila majalisihim wa `arasatihim",
+      "english": "and make our spirits desire for looking at their sessions and courtyards"
+    },
+    {
+      "kind": "text",
+      "arabic": "حَتَّىٰ كَانَّنَا نُخَاطِبُهُمْ فِي حُضُورِ اشْخَاصِهِمْ",
+      "transliteration": "hatta ka'nnana nukhatibuhum fi huduri ashkhasihim",
+      "english": "as if we can talk to them in their presence."
+    },
+    {
+      "kind": "text",
+      "arabic": "فَصَلَّىٰ ٱللَّهُ عَلَيْهِمْ مِنْ سَادَةٍ غَائِبينَ",
+      "transliteration": "fasalla allahu `alayhim min sadatin gha'ibina",
+      "english": "May Allah bless them; they are absent masters,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَمِنْ سُلاَلَةٍ طَاهِرِينَ",
+      "transliteration": "wa min sulalatin tahirina",
+      "english": "immaculate progeny,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَمِنْ ائِمَّةٍ مَعْصُومِينَ",
+      "transliteration": "wa min a'immatin ma`sumina",
+      "english": "and infallible leaders."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَللَّهُمَّ فَاذَنْ لَنَا بِدُخُولِ هٰذِهِ ٱلْعَرَصَاتِ",
+      "transliteration": "allahumma fa'dhan lana bidukhuli hadhihi al`arasati",
+      "english": "O Allah, (please do) permit us to enter these courtyards"
+    },
+    {
+      "kind": "text",
+      "arabic": "ٱلَّتِي ٱسْتَعْبَدْتَ بِزِيَارَتِهَا اهْلَ ٱلارَضِينَ وَٱلسَّمَاوَاتِ",
+      "transliteration": "allati ista`badta biziyaratiha ahla al-aradina walssamawati",
+      "english": "that You have ordered the inhabitants of the heavens and the earth to visit them as sign of worship to You,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَارْسِلْ دُمُوعَنَا بِخُشُوعِ ٱلْمَهَابَةِ",
+      "transliteration": "wa arsil dumu`ana bikhushu`i almahabati",
+      "english": "make our eyes shed tears of reverence for their dignity,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَذَلِّلْ جَوَارِحَنَا بِذُلِّ ٱلْعُبُودِيِّةِ وَفَرْضِ ٱلطَّاعَةِ",
+      "transliteration": "wa dhallil jawarihana bidhulli al`ubudiyyati wa fardi altta`ati",
+      "english": "and make our organs show humility of servitude and of obligatory obedience (to You),"
+    },
+    {
+      "kind": "text",
+      "arabic": "حَتَّىٰ نُقِرَّ بِمَا يَجِبُ لَهُمْ مِنَ ٱلاوْصَافِ",
+      "transliteration": "hatta nuqirra bima yajibu lahum min al-awsafi",
+      "english": "so that we will confess of the qualities that are fixed for them"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَنَعْتَرِفَ بِانَّهُمْ شُفَعَاءُ ٱلْخَلاَيِقِ",
+      "transliteration": "wa na`tarifa bi'annahum shufa`a'u alkhala'iqi",
+      "english": "and to admit that they are the interceders for the creatures"
+    },
+    {
+      "kind": "text",
+      "arabic": "إِذَا نُصِبَتِ ٱلْمَوَازِينُ فِي يَوْمِ ٱلاعْرَافِ",
+      "transliteration": "idha nusibat almawazinu fi yawmi al-a`rafi",
+      "english": "when the Scale shall be set up on the Heights Day."
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلْحَمْدُ لِلَّهِ وَسَلاَمٌ عَلَىٰ عِبَادِهِ ٱلَّذِينَ ٱصْطَفَىٰ",
+      "transliteration": "walhamdu lillahi wa salamun `ala `ibadihi alladhina istafa",
+      "english": "All praise be to Allah and peace be upon His servants that He has chosen;"
+    },
+    {
+      "kind": "text",
+      "arabic": "مُحَمَّدٍ وَآلِهِ ٱلطَّاهِرِينَ",
+      "transliteration": "muhammadin wa alihi alttahirina",
+      "english": "Muhammad and His Immaculate Household."
+    },
+    {
+      "kind": "note",
+      "text": "You may then kiss the doorstep with submission and teary eyes, for this is the sign that you have been permitted by the Infallibles—peace be upon them—to enter."
+    }
+  ],
+  "urdu": [],
+  "hasUrduTranslation": false,
+  "scanned": false,
+  "images": [],
+  "sources": [
+    {
+      "label": "Duas.org — original recitation reference",
+      "url": "https://www.duas.org/mobile/izn-dukhool-etiquettes.html"
+    },
+    {
+      "label": "Ziaraat.Com — text edition and translations",
+      "url": "https://www.ziyaraat.net/ur/ziarat#jamea-general-ziaraat.126"
+    },
+    {
+      "label": "Ziaraat.Com — browse the Ziyarat collection",
+      "url": "https://www.ziyaraat.net/ur/ziarat"
+    }
+  ],
+  "urduGuidance": "یہ صفحہ اذن دخول کے لیے ہے۔ عربی متن اصل قراءت کے لیے ہے اور رومن تلفظ پڑھنے میں مدد دیتا ہے۔ انگریزی معنی الگ درج ہیں۔ ماخذ اور دوسری زیارات کے روابط صفحے کے آخر میں دیے گئے ہیں۔",
+  "translationNote": "Arabic text, transliteration and available translations are reproduced with credit to Ziaraat.Com and the original sources it identifies. Meanings are reading aids; the Arabic remains the reference text.",
+  "related": [
+    {
+      "title": "Farewell Ziyarat: Wida Recitations",
+      "path": "/ziyarat/farewell-ziyarat"
+    },
+    {
+      "title": "Prayer After Ziyarat Waritha",
+      "path": "/ziyarat/prayer-after-ziyarat"
+    }
+  ]
+}

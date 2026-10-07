@@ -1,0 +1,523 @@
+{
+  "slug": "ziyarat-aal-yasin",
+  "title": "Ziyarat Aal Yasin",
+  "urduTitle": "زیارت آل یاسین",
+  "group": "Major Ziyarats",
+  "aliases": "Ale Yaseen Aal e Yaseen",
+  "edition": "",
+  "path": "/ziyarat/ziyarat-aal-yasin",
+  "intro": "Salutations to Imam Mahdi and a testimony of faith, with the main visitation text kept separate from later commentary.",
+  "description": "Read Ziyarat Aal Yasin with arabic, transliteration, english and urdu meanings, recitation context and source references.",
+  "blocks": [
+    {
+      "kind": "heading",
+      "text": "Ziyarat Aal e Yaseen - Imam Mahdi (atfs)"
+    },
+    {
+      "kind": "note",
+      "text": "Ziarah Aal-e-Yaseen is an important Ziarah of Imam-e-Zaman (peace be upon him)."
+    },
+    {
+      "kind": "text",
+      "arabic": "سَلاَمٌ عَلَىٰ آلِ يـٰس",
+      "transliteration": "salamun `ala ale yasin",
+      "english": "Peace be upon the Household of Yasin."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا دَاعِيَ ٱللَّهِ وَرَبَّانِيَّ آيَاتِهِ",
+      "transliteration": "alssalamu `alayka ya da`iya allahi wa rabbaniyya ayatihi",
+      "english": "Peace be upon you, O caller to Allah and interpreter of His Verses."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا بَابَ ٱللَّهِ وَدَيَّانَ دِينِهِ",
+      "transliteration": "alssalamu `alayka ya baba allahi wa dayyana dinihi",
+      "english": "Peace be upon you, O door to Allah and applier of His religion."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا خَلِيفَةَ ٱللَّهِ وَنَاصِرَ حَقِّهِ",
+      "transliteration": "alssalamu `alayka ya khalifata allahi wa nasira haqqihi",
+      "english": "Peace be upon you, O viceroy of Allah and backer of His right."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا حُجَّةَ ٱللَّهِ وَدَلِيلَ إِرَادَتِهِ",
+      "transliteration": "alssalamu `alayka ya hujjata allahi wa dalila iradatihi",
+      "english": "Peace be upon you, O Argument of Allah and sign of His volition."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا تَالِيَ كِتَابِ ٱللَّهِ وَتَرْجُمَانَهُ",
+      "transliteration": "alssalamu `alayka ya taliya kitabi allahi wa tarjumanihi",
+      "english": "Peace be upon you, O reciter of the Book of Allah and its interpreter."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ فِي آنَاءِ لَيْلِكَ وَأَطْرَافِ نَهَارِكَ",
+      "transliteration": "alssalamu `alayka fi ana'i laylika wa atrafi naharika",
+      "english": "Peace be upon you at the hours of Your night and the two ends of Your day."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا بَقِيَّةَ ٱللَّهِ فِي أَرْضِهِ",
+      "transliteration": "alssalamu `alayka ya baqiyyata allahi fi ardihi",
+      "english": "Peace be upon you, O herald of Allah on His lands."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا مِيثَاقَ ٱللَّهِ ٱلَّذِي أَخَذَهُ وَوَكَّدَهُ",
+      "transliteration": "alssalamu `alayka ya mithaqa allahi alladhi akhadhahu wa wakkadahu",
+      "english": "Peace be upon you, O covenant of Allah that He has made and confirmed."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا وَعْدَ ٱللَّهِ ٱلَّذِي ضَمِنَهُ",
+      "transliteration": "alssalamu `alayka ya wa`da allahi alladhi daminahu",
+      "english": "Peace be upon you, O Promise of Allah that He has assured."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ أَيُّهَا ٱلْعَلَمُ ٱلْمَنْصُوبُ",
+      "transliteration": "alssalamu `alayka ayyuha al`alamu almansubu",
+      "english": "Peace be upon you, O appointed pennon,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلْعِلْمُ ٱلْمَصْبُوبُ",
+      "transliteration": "wal`ilmu almasbubu",
+      "english": "poured knowledge,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلْغَوْثُ وَٱلرَّحْمَةُ ٱلْوَاسِعَةُ",
+      "transliteration": "walghawthu walrrahmatu alwasi`atu",
+      "english": "aid, and expansive mercy."
+    },
+    {
+      "kind": "text",
+      "arabic": "وَعْداً غَيْرَ مَكْذُوبٍ",
+      "transliteration": "wa`dan ghayra makdhubin",
+      "english": "This is verily a promise that shall never be belied."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ حِينَ تَقوُمُ",
+      "transliteration": "alssalamu `alayka hina taqumu",
+      "english": "Peace be upon you whenever you rise (to undertake the mission)."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ حِينَ تَقْعُدُ",
+      "transliteration": "alssalamu `alayka hina taq`udu",
+      "english": "Peace be upon you whenever you sit."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ حِينَ تَقْرَأُ وَتُبَيِّنُ",
+      "transliteration": "alssalamu `alayka hina taqra'u wa tubayyinu",
+      "english": "Peace be upon you whenever you recite and elucidate."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ حِينَ تُصَلِّي وَتَقْنُتُ",
+      "transliteration": "alssalamu `alayka hina tusalli wa taqnutu",
+      "english": "Peace be upon you whenever you offer prayer and supplicate."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ حِينَ تَرْكَعُ وَتَسْجُدُ",
+      "transliteration": "alssalamu `alayka hina tarka`u wa tasjudu",
+      "english": "Peace be upon you whenever you genuflect and prostrate (yourself for Allah)."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ حِينَ تُهَلِّلُ وَتُكَبِّرُ",
+      "transliteration": "alssalamu `alayka hina tuhallilu wa tukabbiru",
+      "english": "Peace be upon you whenever you profess Allah’s Godhead and profess His All-greatness."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ حِينَ تَحْمَدُ وَتَسْتَغْفِرُ",
+      "transliteration": "alssalamu `alayka hin tahmadu wa tastaghfiru",
+      "english": "Peace be upon you whenever you praise Allah and implore for His forgiveness."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ حِينَ تُصْبِحُ وَتُمْسِي",
+      "transliteration": "alssalamu `alayka hina tusbihu wa tumsi",
+      "english": "Peace be upon you whenever you begin and end your day."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ فِي ٱللَّيْلِ إِذَا يَغْشَىٰ",
+      "transliteration": "alssalamu `alayka fi allayli idha yaghsha",
+      "english": "Peace be upon you in the night when it draws a veil"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلنَّهَارِ إِذَا تَجَلَّىٰ",
+      "transliteration": "walnnahari idha tajalla",
+      "english": "and the day when it shines in brightness."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ أَيُّهَا ٱلإِمَامُ ٱلْمَأْمُونُ",
+      "transliteration": "alssalamu `alayka ayyuha al-imamu alma'munu",
+      "english": "Peace be upon you, O entrusted leader."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ أَيُّهَا ٱلْمُقَدَّمُ ٱلْمَأْمُولُ",
+      "transliteration": "alssalamu `alayka ayyuha almuqaddamu alma'mulu",
+      "english": "Peace be upon you, O favored and expected."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ بِجَوَامِعِ ٱلسَّلاَمِ",
+      "transliteration": "alssalamu `alayka bijawami`i alssalami",
+      "english": "Peace be upon you to the ultimate meaning of peace."
+    },
+    {
+      "kind": "text",
+      "arabic": "أُشْهِدُكَ يَا مَوْلاَيَ",
+      "transliteration": "ushhiduka ya mawlaya",
+      "english": "I solicit you, O my master,"
+    },
+    {
+      "kind": "text",
+      "arabic": "أَنِّي أَشْهَدُ أَنْ لاَ إِلٰهَ إِلاَّ ٱللَّهُ",
+      "transliteration": "anni ashhadu an la ilaha illa allahu",
+      "english": "to testify to me that I bear witness that there is no god but Allah;"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَحْدَهُ لاَ شَرِيكَ لَهُ",
+      "transliteration": "wahdahu la sharika lahu",
+      "english": "One and Only Lord and having no associate,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَأَنَّ مُحَمَّداً عَبْدُهُ وَرَسُولُهُ",
+      "transliteration": "wa anna muhammadan `abduhu wa rasuluhu",
+      "english": "and that Muhammad is His servant and messenger."
+    },
+    {
+      "kind": "text",
+      "arabic": "لاَ حَبِيبَ إِلاَّ هُوَ وَأَهْلُهُ",
+      "transliteration": "la habiba illa huwa wa ahluhu",
+      "english": "There is no one more beloved by Allah than him and his household."
+    },
+    {
+      "kind": "text",
+      "arabic": "وَأُشْهِدُكَ يَا مَوْلاَيَ",
+      "transliteration": "wa ushhiduka ya mawlaya",
+      "english": "And I solicit you, O my master, to testify to me that I bear witness"
+    },
+    {
+      "kind": "text",
+      "arabic": "أَنَّ عَلِيّاً أَمِيرَ ٱلْمُؤْمِنِينَ حُجَّتُهُ",
+      "transliteration": "anna `aliyyan amira almu'minina hujjatuhu",
+      "english": "that `Ali the Commander of the Faithful is His argument,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلْحَسَنَ حُجَّتُهُ",
+      "transliteration": "walhasana hujjatuhu",
+      "english": "al-Hasan is His argument,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلْحُسَيْنَ حُجَّتُهُ",
+      "transliteration": "walhusayna hujjatuhu",
+      "english": "al-Husayn is His argument,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَعَلِيَّ بْنَ ٱلْحُسَيْنِ حُجَّتُهُ",
+      "transliteration": "wa `aliyya bna alhusayni hujjatuhu",
+      "english": "`Ali the son of al-Husayn is His argument,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَمُحَمَّدَ بْنَ عَلِيٍّ حُجَّتُهُ",
+      "transliteration": "wa muhammada bna `aliyyin hujjatuhu",
+      "english": "Muhammad the son of `Ali is His argument,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَجَعْفَرَ بْنَ مُحَمَّدٍ حُجَّتُهُ",
+      "transliteration": "wa ja`fara bna muhammadin hujjatuhu",
+      "english": "Ja`far the son of Muhammad is His argument,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَموُسَىٰ بْنَ جَعْفَرٍ حُجَّتُهُ",
+      "transliteration": "wa musa bna ja`farin hujjatuhu",
+      "english": "Musa the son of Ja`far is His argument,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَعَلِيَّ بْنَ مُوسَىٰ حُجَّتُهُ",
+      "transliteration": "wa `aliyya bna musa hujjatuhu",
+      "english": "`Ali the son of Musa is His argument,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَمُحَمَّدَ بْنَ عَلِيٍّ حُجَّتُهُ",
+      "transliteration": "wa muhammada bna `aliyyin hujjatuhu",
+      "english": "Muhammad the son of `Ali is His argument,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَعَلِيَّ بْنَ مُحَمَّدٍ حُجَّتُهُ",
+      "transliteration": "wa `aliyya bna muhammadin hujjatuhu",
+      "english": "`Ali the son of Muhammad is His argument,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلْحَسَنَ بْنَ عَلِيٍّ حُجَّتُهُ",
+      "transliteration": "walhasana bna `aliyyin hujjatuhu",
+      "english": "and al-Hasan the son of `Ali is His argument."
+    },
+    {
+      "kind": "text",
+      "arabic": "وَأَشْهَدُ أَنَّكَ حُجَّةُ ٱللَّهِ",
+      "transliteration": "wa ashhadu annaka hujjatu allahi",
+      "english": "I also bear witness that you are verily the argument of Allah."
+    },
+    {
+      "kind": "text",
+      "arabic": "أَنْتُمُ ٱلأَوَّلُ وَٱلآخِرُ",
+      "transliteration": "antum al-awwalu wal-akhiru",
+      "english": "You all are the first and the last."
+    },
+    {
+      "kind": "text",
+      "arabic": "وَأَنَّ رَجْعَتَكُمْ حَقٌّ لاَ رَيْبَ فِيهَا",
+      "transliteration": "wa anna raj`atakum haqqun la rayba fiha",
+      "english": "And (I bear witness) that your (promised) Return is undoubtedly true"
+    },
+    {
+      "kind": "text",
+      "arabic": "يَوْمَ لاَ يَنْفَعُ نَفْساً إِيـمَانُهَا",
+      "transliteration": "yawma la yanfa`u nafsan imanuha",
+      "english": "“On the day when its belief avails not a soul"
+    },
+    {
+      "kind": "text",
+      "arabic": "لَمْ تَكُنْ آمَنَتْ مِنْ قَبْلُ",
+      "transliteration": "lam takun amanat min qablu",
+      "english": "which theretofore believed not,"
+    },
+    {
+      "kind": "text",
+      "arabic": "أَوْ كَسَبَتْ فِي إِيـمَانِهَا خَيْراً",
+      "transliteration": "aw kasabat fi imaniha khayran",
+      "english": "nor in its belief earned good by works,”"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَأَنَّ ٱلْمَوْتَ حَقٌّ",
+      "transliteration": "wa anna almawta haqqun",
+      "english": "death is true,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَأَنَّ نَاكِراً وَنَكيراً حَقٌّ",
+      "transliteration": "wa anna nakiran wa nakiran haqqun",
+      "english": "and Nakir and Nakir are true."
+    },
+    {
+      "kind": "text",
+      "arabic": "وَأَشْهَدُ أَنَّ ٱلنَّشْرَ حَقٌّ",
+      "transliteration": "wa ashhadu anna alnnashra haqqun",
+      "english": "And I bear witness that the Raising for death is true,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلْبَعَثَ حَقٌّ",
+      "transliteration": "walba`tha haqqun",
+      "english": "the Resurrection is true,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَأَنَّ ٱلصِّرَاطَ حَقٌّ",
+      "transliteration": "wa anna alssirata haqqun",
+      "english": "the Discriminating Bridge is true,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلْمِرْصَادَ حَقٌّ",
+      "transliteration": "walmirsada haqqun",
+      "english": "the Watchtower is true,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلْمِيزَانَ حَقٌّ",
+      "transliteration": "walmizana haqqun",
+      "english": "the Balance (of deeds) is true,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلْحَشْرَ حَقٌّ",
+      "transliteration": "walhashra haqqun",
+      "english": "the Gathering is true,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلْحِسَابَ حَقٌّ",
+      "transliteration": "walhisaba haqqun",
+      "english": "the Reckoning is true,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلْجَنَّةَ وَٱلنَّارَ حَقٌّ",
+      "transliteration": "waljannata walnnara haqqun",
+      "english": "Paradise and Hell are true,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلْوَعْدَ وَٱلْوَعِيدَ بِهِمَا حَقٌّ",
+      "transliteration": "walwa`da walwa`ida bihima haqqun",
+      "english": "and the promise of Paradise and the threat with Hell are true."
+    },
+    {
+      "kind": "text",
+      "arabic": "يَا مَوْلاَيَ شَقِيَ مَنْ خَالَفَكُمْ",
+      "transliteration": "ya mawlaya shaqiya man khalafakum",
+      "english": "O My master! Certainly wretched is he who opposes you"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَسَعِدَ مَنْ أَطَاعَكُمْ",
+      "transliteration": "wa sa`ida man ata`akum",
+      "english": "and certainly happy is he who obeys you."
+    },
+    {
+      "kind": "text",
+      "arabic": "فَٱشْهَدْ عَلَىٰ مَا أَشْهَدْتُكَ عَلَيْهِ",
+      "transliteration": "fashhad `ala ma ashhadtuka `alayhi",
+      "english": "So, testify to me all that which I have besought you to testify."
+    },
+    {
+      "kind": "text",
+      "arabic": "وَأَنَا وَلِيٌّ لَكَ",
+      "transliteration": "wa ana waliyyun laka",
+      "english": "I am verily an ally of you"
+    },
+    {
+      "kind": "text",
+      "arabic": "بَرِيءٌ مِنْ عَدُوِّكَ",
+      "transliteration": "bari'un min `aduwwika",
+      "english": "and denouncing your enemy."
+    },
+    {
+      "kind": "text",
+      "arabic": "فَٱلْحَقُّ مَا رَضِيتُمُوهُ",
+      "transliteration": "falhaqqu ma raditumuhu",
+      "english": "The truth is only that which you accept,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلْبَاطِلُ مَا أَسْخَطْتُمُوهُ",
+      "transliteration": "walbatilu ma askhattumuhu",
+      "english": "the wrong is only that which you disallow,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلْمَعْرُوفُ مَا أَمَرْتُمْ بِهِ",
+      "transliteration": "walma`rufu ma amartum bihi",
+      "english": "the good is only that which you enjoin,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلْمُنْكَرُ مَا نَهَيْتُمْ عَنْهُ",
+      "transliteration": "walmunkaru ma nahaytum `anhu",
+      "english": "and the evil is only that which you forbid."
+    },
+    {
+      "kind": "text",
+      "arabic": "فَنَفْسِي مُؤْمِنَةٌ بِٱللَّهِ",
+      "transliteration": "fanafsi mu'minatun billahi",
+      "english": "My soul is thus believing in Allah;"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَحْدَهُ لاَ شَريكَ لَهُ",
+      "transliteration": "wahdahu la sharika lahu",
+      "english": "One and Only Lord and having no associate,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَبِرَسُولِهِ وَبِأَمِيرِ ٱلْمُؤْمِنِينَ",
+      "transliteration": "wa birasulihi wa bi'amiri almu'minina",
+      "english": "and also in His Messenger, in the Commander of the Faithful,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَبِكُمْ يَا مَوْلاَيَ أَوَّلِكُمْ وَآخِرِكُمْ",
+      "transliteration": "wa bikum ya mawlaya awwalikum wa akhirikum",
+      "english": "and in you all, O my master, from the beginning to the end."
+    },
+    {
+      "kind": "text",
+      "arabic": "وَنُصْرَتِي مُعَدَّةٌ لَكُمْ",
+      "transliteration": "wa nusrati mu`addatun lakum",
+      "english": "I have prepared myself to back you"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَمَوَدَّتِي خَالِصَةٌ لَكُمْ",
+      "transliteration": "wa mawaddati khalisatun lakum",
+      "english": "and my love is sincerely dedicated to you."
+    },
+    {
+      "kind": "text",
+      "arabic": "آمِينَ آمِينَ",
+      "transliteration": "amina amina",
+      "english": "Respond! Respond!"
+    }
+  ],
+  "urdu": [
+    "سلام ہو آلِ یاسین پر۔ آپ پر سلام ہو، اے اللہ کی طرف بلانے والے اور اس کی آیات کے ترجمان! آپ پر سلام ہو، اے اللہ تک پہنچنے کا دروازہ اور اس کے دین کو قائم کرنے والے! آپ پر سلام ہو، اے اللہ کے خلیفہ اور اس کے حق کے مددگار! آپ پر سلام ہو، اے اللہ کی حجت اور اس کے ارادے کی نشانی! آپ پر سلام ہو، اے اللہ کی کتاب پڑھنے والے اور اس کی ترجمانی کرنے والے! آپ پر سلام ہو رات کی ساعتوں میں اور دن کے دونوں کناروں پر۔ آپ پر سلام ہو، اے اللہ کی زمین میں اس کی نشانی! آپ پر سلام ہو، اے اللہ کے اس عہد جسے اس نے لیا اور مضبوط کیا! آپ پر سلام ہو، اے اللہ کے اس وعدے جس کی اس نے ضمانت دی! آپ پر سلام ہو، اے نصب کردہ پرچم، عطا کردہ علم، فریاد رس اور وسیع رحمت! یہ ایسا وعدہ ہے جس میں جھوٹ نہیں۔",
+    "آپ پر سلام ہو جب آپ قیام کرتے ہیں، اور جب بیٹھتے ہیں، جب پڑھتے اور بیان کرتے ہیں، جب نماز اور دعا کرتے ہیں، جب رکوع اور سجدہ کرتے ہیں، جب توحید اور تکبیر کہتے ہیں، جب حمد اور استغفار کرتے ہیں، جب صبح اور شام کرتے ہیں۔ آپ پر سلام ہو رات میں جب وہ چھا جاتی ہے اور دن میں جب وہ روشن ہوتا ہے۔ آپ پر سلام ہو، اے امانت دار امام! آپ پر سلام ہو، اے مقدم کیے گئے اور منتظر! آپ پر سلام ہو سلام کی کامل حقیقت کے ساتھ۔",
+    "اے میرے مولا! میں آپ کو گواہ بناتا ہوں کہ میں گواہی دیتا ہوں کہ اللہ کے سوا کوئی معبود نہیں، وہ یکتا ہے اور اس کا کوئی شریک نہیں، اور حضرت محمد اس کے بندے اور رسول ہیں۔ اللہ کو ان سے اور ان کے اہل بیت سے بڑھ کر کوئی محبوب نہیں۔ اے میرے مولا! میں آپ کو گواہ بناتا ہوں کہ علی امیر المؤمنین اس کی حجت ہیں، حسن اس کی حجت ہیں، حسین اس کی حجت ہیں، علی بن حسین اس کی حجت ہیں، محمد بن علی اس کی حجت ہیں، جعفر بن محمد اس کی حجت ہیں، موسیٰ بن جعفر اس کی حجت ہیں، علی بن موسیٰ اس کی حجت ہیں، محمد بن علی اس کی حجت ہیں، علی بن محمد اس کی حجت ہیں، حسن بن علی اس کی حجت ہیں، اور میں گواہی دیتا ہوں کہ آپ اللہ کی حجت ہیں۔ آپ ہی ابتدا اور انتہا ہیں۔",
+    "میں گواہی دیتا ہوں کہ آپ کی رجعت حق ہے اور اس میں کوئی شک نہیں، اس دن جب کسی ایسے شخص کو اس کا ایمان فائدہ نہ دے گا جو پہلے ایمان نہ لایا ہو یا اپنے ایمان کے ساتھ نیکی نہ کمائی ہو۔ موت حق ہے اور منکر و نکیر حق ہیں۔ میں گواہی دیتا ہوں کہ دوبارہ زندہ ہونا حق ہے، اٹھایا جانا حق ہے، پل صراط حق ہے، مرصاد حق ہے، میزان حق ہے، حشر حق ہے، حساب حق ہے، جنت اور دوزخ حق ہیں اور ان دونوں کا وعدہ اور وعید حق ہیں۔",
+    "اے میرے مولا! آپ کی مخالفت کرنے والا بدبخت ہے اور آپ کی اطاعت کرنے والا خوش بخت ہے۔ جس بات پر میں نے آپ کو گواہ بنایا ہے اس کی گواہی دیجیے۔ میں آپ کا دوست اور آپ کے دشمن سے بیزار ہوں۔ حق وہ ہے جسے آپ پسند کریں، باطل وہ ہے جسے آپ ناپسند کریں، نیکی وہ ہے جس کا آپ حکم دیں اور برائی وہ ہے جس سے آپ منع کریں۔ میری جان اس اللہ پر ایمان رکھتی ہے جو یکتا ہے اور جس کا کوئی شریک نہیں، اس کے رسول پر، امیر المؤمنین پر اور اے میرے مولا، آپ سب کی ابتدا اور انتہا پر۔ میری مدد آپ کے لیے تیار ہے اور میری محبت آپ ہی کے لیے خالص ہے۔ قبول فرمائیے، قبول فرمائیے۔"
+  ],
+  "hasUrduTranslation": true,
+  "scanned": false,
+  "images": [],
+  "sources": [
+    {
+      "label": "Duas.org — original recitation reference",
+      "url": "https://www.duas.org/ziyarat-aal-e-yasin.html"
+    },
+    {
+      "label": "Ziaraat.Com — text edition and translations",
+      "url": "https://www.ziyaraat.net/ur/ziarat#imam-mahdi.64"
+    },
+    {
+      "label": "Ziaraat.Com — browse the Ziyarat collection",
+      "url": "https://www.ziyaraat.net/ur/ziarat"
+    }
+  ],
+  "urduGuidance": "یہ صفحہ زیارت آل یاسین کے لیے ہے۔ عربی متن اصل قراءت کے لیے ہے اور رومن تلفظ پڑھنے میں مدد دیتا ہے۔ انگریزی معنی الگ درج ہیں۔ ماخذ اور دوسری زیارات کے روابط صفحے کے آخر میں دیے گئے ہیں۔",
+  "translationNote": "English and Urdu meanings are explanatory renderings; consult the Arabic text and cited edition. Urdu meanings on this page were prepared for this library.",
+  "related": [
+    {
+      "title": "Ziyarat Ashura",
+      "path": "/ziyarat/ziyarat-ashura"
+    },
+    {
+      "title": "Ziyarat Waritha",
+      "path": "/ziyarat/ziyarat-waritha"
+    },
+    {
+      "title": "Ziyarat Aminullah",
+      "path": "/ziyarat/ziyarat-aminullah"
+    }
+  ]
+}

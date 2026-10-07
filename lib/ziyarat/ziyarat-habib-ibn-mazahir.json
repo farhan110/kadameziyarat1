@@ -1,0 +1,83 @@
+{
+  "slug": "ziyarat-habib-ibn-mazahir",
+  "title": "Ziyarat of Habib ibn Mazahir",
+  "urduTitle": "زیارت حبیب بن مظاہر",
+  "group": "Ahlul Bayt & Companions",
+  "aliases": "Habib Mazaher",
+  "edition": "",
+  "path": "/ziyarat/ziyarat-habib-ibn-mazahir",
+  "intro": "A brief visitation of Habib ibn Mazahir, a companion of Imam Husayn martyred at Karbala.",
+  "description": "Read Ziyarat of Habib ibn Mazahir with arabic text, transliteration and english meaning, recitation context and source references.",
+  "blocks": [
+    {
+      "kind": "heading",
+      "text": "Ziyarah"
+    },
+    {
+      "kind": "note",
+      "text": "Ḥabīb b. Muẓāhir al-Asadī (Arabic: حبیب بن مُظاهر الاسدي) was one of Imam Ali's (a) special companions. He was from Banu Asad tribe and lived in Kufa. When he saw that people of Kufa have broken their allegiance to Imam al-Husayn (a), he left Kufa, joined Imam, and was martyred at the age of 75 while fighting in Imam al-Husayn's (a) army."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ اَيُّهَا الْعَبْدُ الصَّالِحُ الْمُطِيْعُ لِللهِ وَلِرَسُولِهٖ وَلِاَمِيْرِ الْمُؤمِنِينَ وَلِفَاطِمَةَ الزَّهْرَآءِ وَ الْحَسَنِ وَ الْحُسَينِ عَلَيْهِمُ السَّلاَمُ",
+      "transliteration": "assalaamo a'layka ayyohal a'bdus saalehul motee-o' lillaahe wa lerasoolehi wa le-ameeril moameneena wa lefaatemataz zahraaa-e wal hasane wal husayne a'layhemus salaamo",
+      "english": "Peace be upon you, O righteous servant, obedient to God, His Messenger, the Commander of the Faithful, Fatimah Al-Zahra, Al-Hassan Al-Hussian,"
+    },
+    {
+      "kind": "text",
+      "arabic": "الْغَرِيْبُ الْمَوَاسِىْ اَشْهَدُ اَنَّكَ جَاهَدْتَّ فِىْ سَبِيْلِ اللهِ وَ نُصْرَتَ الْحُسَيْنَ ابْنَ بِنْتِ رَسُوْلِ اللهِ\nوَ وَاسِیْتَ بِنَفْسِكَ وَ بَذَلْتَ مُهْجَتَكَ فَعَلَيْكَ مِنَ اللهِ اَلسَّلاَمُ اتَّآمُّ",
+      "transliteration": "al-ghareebul mawaaseeash-hado annaka jaahadta fee sabeelil laahe wa nasartal husaynabna binte rasoolil laahe wa waasayta benafseka wa bazalta mohjataka fa-a'layka menal laahe assalaamut taaammo",
+      "english": "I bear witness that you have strived for the way of God, and the help of the son of the daughter of the Holy Prophet(saws)And you made your sacrifice, so peace be upon you from God."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ اَيُّهَا الْقَمَرُ الزَّاهِرُ",
+      "transliteration": "assalaamo a'layka ayyohal qamaruz zaahero",
+      "english": "Peace be upon you, O supporter of Lady Zahra(sa)"
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا حَبِيْبَ ابْنَ مَظَاهِرِ اَلْاَسَدِىِّ وَ رَحْمَةُ اللهِ وَ بَرَكَاتُةُ-",
+      "transliteration": "assalaamo a'layka yaa habeebab na mazaahere al-asadiyye wa rahmatul laahe wa barakaatohu.",
+      "english": "Peace be upon you, Habib Ibn Mazahir al-Asadi, and God's mercy and blessings."
+    },
+    {
+      "kind": "note",
+      "text": "About Habib Ibn Mazahir"
+    }
+  ],
+  "urdu": [],
+  "hasUrduTranslation": false,
+  "scanned": false,
+  "images": [],
+  "sources": [
+    {
+      "label": "Duas.org — original recitation reference",
+      "url": "https://www.duas.org/mobile/ziyarat-habib-mazahir.html"
+    },
+    {
+      "label": "Ziaraat.Com — text edition and translations",
+      "url": "https://www.ziyaraat.net/ur/ziarat#z19.121"
+    },
+    {
+      "label": "Ziaraat.Com — browse the Ziyarat collection",
+      "url": "https://www.ziyaraat.net/ur/ziarat"
+    }
+  ],
+  "urduGuidance": "یہ صفحہ زیارت حبیب بن مظاہر کے لیے ہے۔ عربی متن اصل قراءت کے لیے ہے اور رومن تلفظ پڑھنے میں مدد دیتا ہے۔ انگریزی معنی الگ درج ہیں۔ ماخذ اور دوسری زیارات کے روابط صفحے کے آخر میں دیے گئے ہیں۔",
+  "translationNote": "Arabic text, transliteration and available translations are reproduced with credit to Ziaraat.Com and the original sources it identifies. Meanings are reading aids; the Arabic remains the reference text.",
+  "related": [
+    {
+      "title": "Ziyarat of Hazrat Abbas",
+      "path": "/ziyarat/ziyarat-hazrat-abbas"
+    },
+    {
+      "title": "Ziyarat of Ali Akbar",
+      "path": "/ziyarat/ziyarat-ali-akbar"
+    },
+    {
+      "title": "Ziyarat of Muslim ibn Aqil & Hani ibn Urwa",
+      "path": "/ziyarat/ziyarat-muslim-ibn-aqil"
+    }
+  ]
+}

@@ -1,0 +1,57 @@
+{
+  "slug": "ziyarat-ali-akbar",
+  "title": "Ziyarat of Ali Akbar",
+  "urduTitle": "زیارت حضرت علی اکبر علیہ السلام",
+  "group": "Ahlul Bayt & Companions",
+  "aliases": "",
+  "edition": "",
+  "path": "/ziyarat/ziyarat-ali-akbar",
+  "intro": "The shrine ziyarat of Ali Akbar, son of Imam Husayn, preserved in the source’s Arabic and Urdu scanned edition.",
+  "description": "Read Ziyarat of Ali Akbar with arabic and urdu scanned text, recitation context and source references.",
+  "blocks": [],
+  "urdu": [],
+  "hasUrduTranslation": false,
+  "scanned": true,
+  "images": [
+    {
+      "url": "https://www.ziyaraat.net/images/ziarat/z_akb01.gif",
+      "width": 400,
+      "height": 570
+    },
+    {
+      "url": "https://www.ziyaraat.net/images/ziarat/z_akb02.gif",
+      "width": 400,
+      "height": 275
+    }
+  ],
+  "sources": [
+    {
+      "label": "Ziaraat.Com — original recitation reference",
+      "url": "https://www.ziaraat.com/karakb03.php"
+    },
+    {
+      "label": "Ziaraat.Com — text edition and translations",
+      "url": "https://www.ziyaraat.net/ur/ziarat#z18.37"
+    },
+    {
+      "label": "Ziaraat.Com — browse the Ziyarat collection",
+      "url": "https://www.ziyaraat.net/ur/ziarat"
+    }
+  ],
+  "urduGuidance": "یہ صفحہ زیارت حضرت علی اکبر علیہ السلام کے لیے ہے۔ عربی متن اصل قراءت کے لیے ہے اور رومن تلفظ پڑھنے میں مدد دیتا ہے۔ انگریزی معنی الگ درج ہیں۔ ماخذ اور دوسری زیارات کے روابط صفحے کے آخر میں دیے گئے ہیں۔",
+  "translationNote": "Arabic text, transliteration and available translations are reproduced with credit to Ziaraat.Com and the original sources it identifies. Meanings are reading aids; the Arabic remains the reference text.",
+  "related": [
+    {
+      "title": "Ziyarat of Hazrat Abbas",
+      "path": "/ziyarat/ziyarat-hazrat-abbas"
+    },
+    {
+      "title": "Ziyarat of Muslim ibn Aqil & Hani ibn Urwa",
+      "path": "/ziyarat/ziyarat-muslim-ibn-aqil"
+    },
+    {
+      "title": "Ziyarat of Lady Zainab",
+      "path": "/ziyarat/ziyarat-lady-zainab"
+    }
+  ]
+}

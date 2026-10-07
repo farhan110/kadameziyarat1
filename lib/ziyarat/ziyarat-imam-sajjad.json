@@ -1,0 +1,113 @@
+{
+  "slug": "ziyarat-imam-sajjad",
+  "title": "Ziyarat of Imam Sajjad",
+  "urduTitle": "زیارت امام سجاد علیہ السلام",
+  "group": "Prophet & Imams",
+  "aliases": "Zainul Abideen Zayn al Abidin",
+  "edition": "",
+  "path": "/ziyarat/ziyarat-imam-sajjad",
+  "intro": "The visitation of Imam Ali Zayn al-Abidin, the fourth Imam, whose resting place is in Jannat al-Baqi.",
+  "description": "Read Ziyarat of Imam Sajjad with arabic text, transliteration and english meaning, recitation context and source references.",
+  "blocks": [
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلامُ عَلَيْكَ يَا سَيَّدَ السَّاجِدِيْنَ",
+      "transliteration": "assalaamo a’layka yaa sayyedas saajedeena",
+      "english": "Peace be on you, O leader of Those who prostrate!"
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلامُ عَلَيْكَ يَا زَيْنَ الْعَابِدِيْنَ",
+      "transliteration": "assalaamo a’layka yaa zainal aabedeena",
+      "english": "Peace be on you, O prestige of Worshipping ones!"
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلامُ عَلَيْكَ يَا حَلِيْفَ الْحَسَرَاتْ",
+      "transliteration": "assalaamo a’layka yaa halifal hasaraat",
+      "english": "Peace be on you, O participant Of unhappiness and sadness!"
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلامُ عَلَيْكَ يَا ذَا الثَّفَنَاتْ",
+      "transliteration": "assalaamo a’layka yaa zassafanaat",
+      "english": "Peace be on you, O the Imam, Who got sores on spots which Touched during sijda!"
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلامُ عَلَيْكَ يَا صَاحِبَ الْعَبْرَاتِ",
+      "transliteration": "assalaamo a’layka yaa saahebal a’braate..",
+      "english": "Peace be on you, O one who Wept and mourned!"
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلامُ عَلَيْكَ يَا أسِيْرَ الْكُرُبَاتْ",
+      "transliteration": "assalaamo a’layka yaa aseeral korobaat..",
+      "english": "Peace be on you, one who was Captive of hardships!"
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلامُ عَلَيْكَ يَا أعْظَمَ آلِ الْعِبَاءِ",
+      "transliteration": "assalaamo a’layka yaa aadama aalil e’baae",
+      "english": "Peace be on you, O one from The great worshippers!"
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلامُ عَلَيْكَ يَا ابْنَ خَامِسِ أصْحَابِ أَهْلِ الْكِسَاءِ",
+      "transliteration": "assalaamo a’layka yabna khaamese ahlil kesaae..",
+      "english": "Peace be on you , O the son of The fifth of the people of the Cloak (Husayn)"
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلامُ عَلَيْكَ يَا ابْنَ سَيِِّدِ الشُّهَدَاءِ",
+      "transliteration": "assalaamo a’layka yabna sayyedish shohadaae",
+      "english": "Peace be on you, O son of the Leader of the martyrs!"
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلامُ عَلَيْكَ يَا عِمَادَ الْأَتْقِيَاءِ",
+      "transliteration": "assalaamo a’layka yaa e’maadal atqeyaae",
+      "english": "Peace be on you , O support of Pious ones!"
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلامُ عَلَيْكَ وَرَحْمَةُ اللهِ وَبَرَكَاتُهُ",
+      "transliteration": "assalaamo a’layka wa rahmatullaahe wa barakaatohu..",
+      "english": "Peace be on you, and Allah’s Blessings and bounties on you!"
+    }
+  ],
+  "urdu": [],
+  "hasUrduTranslation": false,
+  "scanned": false,
+  "images": [],
+  "sources": [
+    {
+      "label": "Duas.org — original recitation reference",
+      "url": "https://www.duas.org/mobile/imam-ali-zainulabideen-as.html"
+    },
+    {
+      "label": "Ziaraat.Com — text edition and translations",
+      "url": "https://www.ziyaraat.net/ur/ziarat#imam-zainul-abideen.94"
+    },
+    {
+      "label": "Ziaraat.Com — browse the Ziyarat collection",
+      "url": "https://www.ziyaraat.net/ur/ziarat"
+    }
+  ],
+  "urduGuidance": "یہ صفحہ زیارت امام سجاد علیہ السلام کے لیے ہے۔ عربی متن اصل قراءت کے لیے ہے اور رومن تلفظ پڑھنے میں مدد دیتا ہے۔ انگریزی معنی الگ درج ہیں۔ ماخذ اور دوسری زیارات کے روابط صفحے کے آخر میں دیے گئے ہیں۔",
+  "translationNote": "Arabic text, transliteration and available translations are reproduced with credit to Ziaraat.Com and the original sources it identifies. Meanings are reading aids; the Arabic remains the reference text.",
+  "related": [
+    {
+      "title": "Ziyarat of Prophet Muhammad",
+      "path": "/ziyarat/ziyarat-prophet-muhammad"
+    },
+    {
+      "title": "Ziyarat of Lady Fatima Zahra",
+      "path": "/ziyarat/ziyarat-fatima-zahra"
+    },
+    {
+      "title": "Ziyarat of Imam Ali at Najaf",
+      "path": "/ziyarat/ziyarat-imam-ali"
+    }
+  ]
+}

@@ -1,0 +1,355 @@
+{
+  "slug": "ziyarat-rajabiyya",
+  "title": "Ziyarat Rajabiyya",
+  "urduTitle": "زیارت رجبیہ",
+  "group": "Major Ziyarats",
+  "aliases": "Rajabiyah Rajabiya",
+  "edition": "",
+  "path": "/ziyarat/ziyarat-rajabiyya",
+  "intro": "A ziyarat for visiting the holy shrines during Rajab, the seventh month of the Islamic calendar.",
+  "description": "Read Ziyarat Rajabiyya with arabic text, transliteration and english meaning, recitation context and source references.",
+  "blocks": [
+    {
+      "kind": "note",
+      "text": "Shaykh al-Tusi has also reported the following words from Abu’l-Qasim ibn Ruh, the special Representative of Imam al-Mahdi (atfs):\n“In Rajab, you may visit any of the shrines (of the Holy Infallibles) that are possible for you to visit, and say the ziyarah therein:\n\n×"
+    },
+    {
+      "kind": "note",
+      "text": "from Sahifa Mahdivia(atfs)\n\nRecited at any shrine of Ahlulbayt(as) in month of Rajab"
+    },
+    {
+      "kind": "heading",
+      "text": "Dua"
+    },
+    {
+      "kind": "note",
+      "text": "Shaykh al-Tusi(ar) has also reported the following words from Abu’l-Qasim ibn Ruh, the special Representative of Imam al-Mahdi (atfs):\n“In Rajab, you may visit any of the shrines (of the Holy Infallibles) that are possible for you to visit, and say the following therein:"
+    },
+    {
+      "kind": "text",
+      "arabic": "الْحَمْدُ لِلَّهِ ٱلَّذِي اشْهَدَنَا مَشْهَدَ اوْلِيَائِهِ فِي رَجَبٍ",
+      "transliteration": "alhamdu lillahi alladhi ashhadana mashhada awliya'ihi fi rajabin",
+      "english": "All praise be to Allah Who has allowed us to visit the shrine of His Saints in Rajab"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَاوْجَبَ عَلَيْنَا مِنْ حَقِّهِمْ مَا قَدْ وَجَبَ",
+      "transliteration": "wa awjaba `alayna min haqqihim ma qad wajaba",
+      "english": "and made obligatory upon us fulfilling our duties towards them."
+    },
+    {
+      "kind": "text",
+      "arabic": "وَصَلَّىٰ ٱللَّهُ عَلَىٰ مُحَمَّدٍ ٱلْمُنْتَجَبِ",
+      "transliteration": "wa salla allahu `ala muhammadin almuntajabi",
+      "english": "May Allah send blessings to Muhammad, the divinely selected,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَعَلَىٰ اوْصِيَائِهِ ٱلْحُجُبِ",
+      "transliteration": "wa `ala awsiya'ihi alhujubi",
+      "english": "and upon his Successors—the doors to Him."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَللَّهُمَّ فَكَمَا اشْهَدْتَنَا مَشْهَدَهُمْ",
+      "transliteration": "allahumma fakama ashhadtana mashhadahum",
+      "english": "O Allah, just as You have allowed us to visit their shrines,"
+    },
+    {
+      "kind": "text",
+      "arabic": "فَانْجِزْ لَنَا مَوْعِدَهُمْ",
+      "transliteration": "fa-anjiz lana maw`idahum",
+      "english": "please do fulfill for us the promises You have made with them,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَاوْرِدْنَا مَوْرِدَهُمْ",
+      "transliteration": "wa awridna mawridahum",
+      "english": "include us with them,"
+    },
+    {
+      "kind": "text",
+      "arabic": "غَيْرَ مُحَلَّئِينَ عَنْ وِرْدٍ",
+      "transliteration": "ghayra muhalla'ina `an wirdin",
+      "english": "and include us with those whom shall not be prevented from drinking from the (Divine) Pool"
+    },
+    {
+      "kind": "text",
+      "arabic": "فِي دَارِ ٱلْمُقَامَةِ وَٱلْخُلْدِ",
+      "transliteration": "fi dari almuqamati walkhuldi",
+      "english": "in the abode of eternity and perpetuity."
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلسَّلاَمُ عَلَيْكُمْ",
+      "transliteration": "walssalamu `alaykum",
+      "english": "Peace be upon you all."
+    },
+    {
+      "kind": "text",
+      "arabic": "إِنِّي قَدْ قَصَدْتُكُمْ وَٱعْتَمَدْتُكُمْ",
+      "transliteration": "inni qad qasadtukum wa`tamadtukum",
+      "english": "I have turned my face towards you and directed to you"
+    },
+    {
+      "kind": "text",
+      "arabic": "بِمَسْالَتِي وَحَاجَتِي",
+      "transliteration": "bimas'alati wa hajati",
+      "english": "carrying my request and need with me,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَهِيَ فَكَاكُ رَقَبَتِي مِنَ ٱلنَّارِ",
+      "transliteration": "wa hiya fakaku raqabati mina alnnari",
+      "english": "which is the release of my neck from Hellfire"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلْمَقَرُّ مَعَكُمْ فِي دَارِ ٱلْقَرَارِ",
+      "transliteration": "walmaqarru ma`akum fi dari alqarari",
+      "english": "and the settlement with you in the Abode of Final Settlement"
+    },
+    {
+      "kind": "text",
+      "arabic": "مَعَ شِيعَتِكُمُ ٱلابْرَارِ",
+      "transliteration": "ma`a shi`atikumu al-abrari",
+      "english": "with your pious adherents (Shi`ah)."
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلسَّلامُ عَلَيْكُمْ بِمَا صَبَرْتُمْ",
+      "transliteration": "walssalamu `alaykum bima sabartum",
+      "english": "Peace be upon you all for that you persevered in patience."
+    },
+    {
+      "kind": "text",
+      "arabic": "فَنِعْمَ عُقْبَىٰ ٱلدَّارِ",
+      "transliteration": "fani`ma `uqba alddari",
+      "english": "Now how excellent is the final home!"
+    },
+    {
+      "kind": "text",
+      "arabic": "انَا سَائِلُكُمْ وَآمِلُكُمْ فِيمَا إِلَيْكُمُ ٱلتَّفْوِيضُ",
+      "transliteration": "ana sa'ilukum wa amilukum fima ilaykumu alttafwidu",
+      "english": "I hereby beg you and put my hope in you as regards the matters in which you have the right to act"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَعَلَيْكُمُ ٱلتَّعْوِيضُ",
+      "transliteration": "wa `alaykumu altta`widu",
+      "english": "and recompense."
+    },
+    {
+      "kind": "text",
+      "arabic": "فَبِكُمْ يُجْبَرُ ٱلْمَهِيضُ",
+      "transliteration": "fabikum yujbaru almahidu",
+      "english": "Truly, through you only are the hopeless restored to good condition,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَيُشْفَىٰ ٱلْمَرِيضُ",
+      "transliteration": "wa yushfa almaridu",
+      "english": "the ailed healed,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَمَا تَزْدَادُ ٱلارْحَامُ وَمَا تَغِيضُ",
+      "transliteration": "wa ma tazdadu al-arhamu wa ma taghidu",
+      "english": "and that which the wombs absorb and that which they grow."
+    },
+    {
+      "kind": "text",
+      "arabic": "إنِّي بِسِرِّكُمْ مُؤْمِنٌ",
+      "transliteration": "inni bisirrikum mu'minun",
+      "english": "Verily, I have full faith in your Secret"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَلِقَوْلِكُمْ مُسَلِّمٌ",
+      "transliteration": "wa liqawlikum musallimun",
+      "english": "and I am fully submissive to your words;"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَعَلَىٰ ٱللَّهِ بِكُمْ مُقْسِمٌ",
+      "transliteration": "wa `ala allahi bikum muqsimun",
+      "english": "I thus beg you in the name of Allah"
+    },
+    {
+      "kind": "text",
+      "arabic": "فِي رَجْعِي بِحَوَائِجِي",
+      "transliteration": "fi raj`i bihawa'iji",
+      "english": "to make me return having my requests responded,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَقَضَائِهَا وَإِمْضَائِهَا",
+      "transliteration": "wa qada'iha wa imda'iha",
+      "english": "met, accepted,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَإِنْجَاحِهَا وَإِبْرَاحِهَا",
+      "transliteration": "wa injahiha wa ibrahiha",
+      "english": "given success, and settled,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَبِشُؤُونِي لَدَيْكُمْ وَصَلاحِهَا",
+      "transliteration": "wa bishu'uni ladaykum wa salahiha",
+      "english": "and set aright all my needs and all my affairs towards you."
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلسَّلامُ عَلَيْكُمْ سَلامَ مُوَدِّعٍ",
+      "transliteration": "walssalamu `alaykum salama muwaddi`in",
+      "english": "Peace be upon you from one who bids you farewell"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَلَكُمْ حَوَائِجَهُ مُودِعٌ",
+      "transliteration": "wa lakum hawa'ijahu mudi`un",
+      "english": "and puts all his needs with you,"
+    },
+    {
+      "kind": "text",
+      "arabic": "يَسْالُ ٱللَّهَ إِلَيْكُمُ ٱلْمَرْجِعَ",
+      "transliteration": "yas'alu allaha ilaykumu almarji`a",
+      "english": "praying to Allah for another visit to you,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَسَعْيُهُ إِلَيْكُمْ غَيْرَ مُنْقَطِعٍ",
+      "transliteration": "wa sa`yuhu ilaykum ghayra munqati`in",
+      "english": "since his hope is never cut off from you."
+    },
+    {
+      "kind": "text",
+      "arabic": "وَانْ يَرْجِعَنِي مِنْ حَضْرَتِكُمْ خَيْرَ مَرْجِعٍ",
+      "transliteration": "wa an yarji`ani min hadratikum khayra marji`in",
+      "english": "I also pray Him to make my departure successful"
+    },
+    {
+      "kind": "text",
+      "arabic": "إِلَىٰ جَنَابٍ مُمْرِعٍ",
+      "transliteration": "ila janabin mumri`in",
+      "english": "to a productive place,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَخَفْضٍ مُوَسَّعٍ",
+      "transliteration": "wa khafdin muwassa`in",
+      "english": "a fruitful area,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَدَعَةٍ وَمَهَلٍ إِلَىٰ حِينِ ٱلاجَلِ",
+      "transliteration": "wa da`atin wa mahalin ila hini al-ajali",
+      "english": "comfort, and luxurious up to the befalling of death."
+    },
+    {
+      "kind": "text",
+      "arabic": "وَخَيْرِ مَصِيرٍ وَمَحَلٍّ فِي ٱلنَّعِيمِ ٱلازَلِ",
+      "transliteration": "wa khayri masirin wa mahallin fi alnna`imi al-azali",
+      "english": "I also pray Him for the best destiny and abode in the Eternal Bliss,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلْعَيْشِ ٱلْمُقْتَبَلِ",
+      "transliteration": "wal`ayshi almuqtabali",
+      "english": "the affluent living,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَدَوَامِ ٱلاكُلِ",
+      "transliteration": "wa dawami al-ukuli",
+      "english": "the perpetual fruit,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَشُرْبِ ٱلرَّحِيقِ وَٱلسَّلْسَلِ",
+      "transliteration": "wa shurbi alrrahiqi walssalsali",
+      "english": "the drinking from the pure drink,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَعَلٍّ وَنَهَلٍ لا سَامَ مِنْهُ وَلاَ مَلَلَ",
+      "transliteration": "wa `allin wa nahalin la sa'ama minhu wa la malala",
+      "english": "and the divine spring whose drink is refreshing and thirst-quenching that is never bored or fed up."
+    },
+    {
+      "kind": "text",
+      "arabic": "وَرَحْمَةُ ٱللَّهِ وَبَرَكَاتُهُ وَتَحِيَّاتُهُ عَلَيْكُمْ",
+      "transliteration": "wa rahmatu allahi wa barakatuhu wa tahiyyatuhu `alaykum",
+      "english": "Allah’s mercy, blessings, and salutations be upon you incessantly"
+    },
+    {
+      "kind": "text",
+      "arabic": "حَتَّىٰ ٱلْعَوْدِ إِلَىٰ حَضْرَتِكُمْ",
+      "transliteration": "hatta al`awdi ila hadratikum",
+      "english": "until I return to your presence"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلْفَوْزِ فِي كَرَّتِكُمْ",
+      "transliteration": "walfawzi fi karratikum",
+      "english": "and win the honor of visiting you again"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلْحَشْرِ فِي زُمْرَتِكُمْ",
+      "transliteration": "walhashri fi zumratikum",
+      "english": "and the honor of being resurrected with your group."
+    },
+    {
+      "kind": "text",
+      "arabic": "وَرَحْمَةُ ٱللَّهِ وَبَرَكَاتُهُ عَلَيْكُمْ وَصَلَوَاتُهُ وَتَحِيَّاتُهُ",
+      "transliteration": "wa rahmatu allahi wa barakatuhu `alaykum wa salawatuhu wa tahiyyatuhu",
+      "english": "Allah’s mercy, blessings, benedictions, and salutations be upon you,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَهُوَ حَسْبُنَا وَنِعْمَ ٱلْوَكِيلُ",
+      "transliteration": "wa huwa hasbuna wa ni`ma alwakilu",
+      "english": "for Allah alone is Sufficient for us! Most Excellent is He in Whom we trust!"
+    },
+    {
+      "kind": "heading",
+      "text": "Resources"
+    }
+  ],
+  "urdu": [],
+  "hasUrduTranslation": false,
+  "scanned": false,
+  "images": [],
+  "sources": [
+    {
+      "label": "Duas.org — original recitation reference",
+      "url": "https://www.duas.org/mobile/ziyarat-imam-ali-rajabiyah.html"
+    },
+    {
+      "label": "Ziaraat.Com — text edition and translations",
+      "url": "https://www.ziyaraat.net/ur/ziarat#imam-ali.86"
+    },
+    {
+      "label": "Ziaraat.Com — browse the Ziyarat collection",
+      "url": "https://www.ziyaraat.net/ur/ziarat"
+    }
+  ],
+  "urduGuidance": "یہ صفحہ زیارت رجبیہ کے لیے ہے۔ عربی متن اصل قراءت کے لیے ہے اور رومن تلفظ پڑھنے میں مدد دیتا ہے۔ انگریزی معنی الگ درج ہیں۔ ماخذ اور دوسری زیارات کے روابط صفحے کے آخر میں دیے گئے ہیں۔",
+  "translationNote": "Arabic text, transliteration and available translations are reproduced with credit to Ziaraat.Com and the original sources it identifies. Meanings are reading aids; the Arabic remains the reference text.",
+  "related": [
+    {
+      "title": "Ziyarat Ashura",
+      "path": "/ziyarat/ziyarat-ashura"
+    },
+    {
+      "title": "Ziyarat Waritha",
+      "path": "/ziyarat/ziyarat-waritha"
+    },
+    {
+      "title": "Ziyarat Aminullah",
+      "path": "/ziyarat/ziyarat-aminullah"
+    }
+  ]
+}
