@@ -1,0 +1,159 @@
+{
+  "slug": "ziyarat-abu-talib",
+  "title": "Ziyarat of Abu Talib",
+  "urduTitle": "زیارت حضرت ابو طالب علیہ السلام",
+  "group": "Ahlul Bayt & Companions",
+  "aliases": "",
+  "edition": "",
+  "path": "/ziyarat/ziyarat-abu-talib",
+  "intro": "The salutation to Abu Talib in the selected devotional source, remembering his protection of Prophet Muhammad.",
+  "description": "Read Ziyarat of Abu Talib with arabic text, transliteration and english meaning, recitation context and source references.",
+  "blocks": [
+    {
+      "kind": "heading",
+      "text": "Ziyarat"
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا سَيِّدَ الْبَطْحَآءِ وَابْنَ رَئِيْسِهَا",
+      "transliteration": "assalaamu alayka ya sayeedul bathaae wabna raisiha.",
+      "english": "Peace be on you , O the leader of Mecca and the son of its chief"
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا وَارِثَ الْكَعْبَةِ بَعْدَ تَاْسِيْسِهَا",
+      "transliteration": "assalaamu alayka ya waresal kaabate baada taasisiha…",
+      "english": "Peace be on you, O the inheritor of the Holy Ka’bah after its foundation …."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا كَافِلَ رَسُوْلِ اللهِ",
+      "transliteration": "assalamu alayka yakafila rasulillah,",
+      "english": "Peace be on you, O the guardian of the Apostle of Allah"
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا حَافِظَ دِيْنِ اللهِ",
+      "transliteration": "assalamu alayka ya hafiza dinillah.",
+      "english": "Peace be on you, O the protector of the religion of Allah"
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا عَمَّ الْمُصْطَفٰى",
+      "transliteration": "assalaamu alayka ya ammal mustafa. ..",
+      "english": "Peace be on you, O the uncle of Al-Mustafa"
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا اَبَا الْمُرْتَضٰى",
+      "transliteration": "assalaamu alyaka ya abal murtaza.",
+      "english": "Peace be on you, O the father of Al–Murtaza…"
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا وَالِدَ الْاَئِمَّةِ الْهُدٰى",
+      "transliteration": "assalaamu alayka ya walidal aimaatil huda,",
+      "english": "Peace be on you , O the father of the guiding leaders"
+    },
+    {
+      "kind": "text",
+      "arabic": "كَفَاكَ بِمَا اَوْلاَكَ اللهُ شَرَفًا وَّ نَسَبًا وَّ حَسْبُكَ بِمَا اَعْطَاكَ اللهُ عِزًّا وَّ حَسَبًا",
+      "transliteration": "kafaaka bimaa awlaakallahu sharafan wa nasaban wa hasbuka bimaa aataakallahu izzan wa hasaba.",
+      "english": "Sufficient for you is the nobility and lineage which Allah has rendered you and enough for you is the honour and esteem that He has granted you"
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا شَرَفَ الْوُجُوْدِ",
+      "transliteration": "assalamu alayka ya sharafal wujud.",
+      "english": "Peace be on you, O the one noble of existence.."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا وَ لِىَّ الْمَعْبُوْدِ",
+      "transliteration": "assalamu alayka ya …harisannabiyyil maw-ud",
+      "english": "Peace be on you, O the friend of worshipped one"
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا حَارِسَ النَّبِىِّ الْمَوْعُوْدِ",
+      "transliteration": "assalamu alayka ya waliyyal maabud.",
+      "english": "Peace be on you, O the protector of the Promised Prophet.."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا مَنْ رُزِقَ وَلَدٌ هُوَ خَيْرُ مَوْلُوْدٍ",
+      "transliteration": "assalamu alayka yaman ruziqa waladan huwa khairu mawluud.",
+      "english": "Peace be on you, O the one who was granted a son, who is the best of the new-born ones"
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا مَنْ خُصِّصَ بِالْوَلَدِ الزَّكِىِّ الطَّاهِرِ الْمُطَهَّرِ الْعَلِىٍّ اشْتُقَّ اسْمُهُ مِنَ الْعَلِىِّ",
+      "transliteration": "assalaamu alyka yaman khussisa bil walidiz-zakiyattahiril mutahharil aliye.aliyun ushtuka ismuhu minal aliye",
+      "english": "Peace be on you, O the one who was designated for a chaste, pure, purified and lofty son (Ali) whose name is derived from that of Allah’s (Ali)"
+    },
+    {
+      "kind": "text",
+      "arabic": "هَنِيْئًا لَّكَ ثُمَّ هَنِيْئًا لَّكَ مِنْ وَّلَدٍ هُوَ الْمُرْتَضٰى مِنْ رَسُوْلٍ وَّ اَخُ الرَّسُوْلِ وَ زَوْجُ الْبَتُوْلِ وَ سَيْفُ اللهِ الْمَسْلُوْلُ",
+      "transliteration": "hanian laka summa min waladin huwal murtaza min rusulin wa akhsaruli wa zawjul batul wasaifullahi maslul,",
+      "english": "Congratulations be to you for your son who is the satisfied one of the Apostles, the brother of the Apostle, the husband of Batool (Lady-Fatemah) and the ever drawnsword of Allah. <"
+    },
+    {
+      "kind": "text",
+      "arabic": "هَنِيْئًا لَّكَ ثُمَّ هَنِيْئًا لَّكَ مِنْ وَّلَدٍ هُوَ مِنْ مُّحَمَّدٍ الْمُصْطَفٰى بِمَنْزِلَةِ هَارُوْنَ مِنْ مُوْسٰى",
+      "transliteration": "hanian laka summa hanian min waladin huwa min muhammadinil mustafa bi mazilayi harun bin musa,",
+      "english": "Again congratulations be to you for your son whose position with Mohammad al-Mustafa is like the one with Hazrat Horroon had with Hazrat Moosa"
+    },
+    {
+      "kind": "text",
+      "arabic": "هَنِيْئًا لَّكَ مِنْ وَّلَدٍ هُوَ شَرِيْكُ النُّبُوَّةِ وَ الْمَخْصُوْصُ بِا لْاُخُوَّةِ وَ كَاشِفُ الْغُمَّةِ وَ اِمَامُ الْاُمَّةِ وَ اَبُوْ الْاَئِمَّةِ",
+      "transliteration": "hanian laka min waladin huwa sharikun nabuwwati was makhsusu bil ukhuwwah, wa kaashiful ghummaha wa imamul ummah, wa abul aimmah",
+      "english": "Congratulations be to you for your son who is a partner in prophethood. The chosen one for brotherhood (with the Holy Prophet). The removal of sorrow, the leader ofthe nation and the father of the Imams.</h"
+    },
+    {
+      "kind": "text",
+      "arabic": "هَنِيْئًا لَّكَ مِنْ وَّ لَدٍ هُوَ قَسِيْمُ الْجَنَّةِ وَ النَّارِ وَ نِعْمَةُ اللهِ عَلَى الْاَبْرَارِ وَ نَقِمَةُ اللهِ عَلَى الْفُجَّارِ",
+      "transliteration": "hanian laka min waladin huwa qasimul jannati wannar, wa niamatullahi alal abrar, wa nikmatullahi alal fujjar.",
+      "english": "Congratulations be to you, for your son who is the distributor of Paradise and Hell, the Bounty of Allah upon the righteous and His Wrath upon the debauchers"
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ وَ عَلَيْهِ وَ عَلَيْهِمْ اَجْمَعِيْنَ وَ رَحْمَةُ اللهِ وَ بَرَكَاتُهُ",
+      "transliteration": "assalaamu alyk wa alaihi wa alaihim warahmatullahi wa barakatuh",
+      "english": "Peace be on you and on him and on them all (Imams) and the Mercy of Allah and His Blessings…."
+    }
+  ],
+  "urdu": [],
+  "hasUrduTranslation": false,
+  "scanned": false,
+  "images": [],
+  "sources": [
+    {
+      "label": "Duas.org — original recitation reference",
+      "url": "https://www.duas.org/mobile/abutalib.html"
+    },
+    {
+      "label": "Ziaraat.Com — text edition and translations",
+      "url": "https://www.ziyaraat.net/ur/ziarat#z36.118"
+    },
+    {
+      "label": "Ziaraat.Com — browse the Ziyarat collection",
+      "url": "https://www.ziyaraat.net/ur/ziarat"
+    }
+  ],
+  "urduGuidance": "یہ صفحہ زیارت حضرت ابو طالب علیہ السلام کے لیے ہے۔ عربی متن اصل قراءت کے لیے ہے اور رومن تلفظ پڑھنے میں مدد دیتا ہے۔ انگریزی معنی الگ درج ہیں۔ ماخذ اور دوسری زیارات کے روابط صفحے کے آخر میں دیے گئے ہیں۔",
+  "translationNote": "Arabic text, transliteration and available translations are reproduced with credit to Ziaraat.Com and the original sources it identifies. Meanings are reading aids; the Arabic remains the reference text.",
+  "related": [
+    {
+      "title": "Ziyarat of Hazrat Abbas",
+      "path": "/ziyarat/ziyarat-hazrat-abbas"
+    },
+    {
+      "title": "Ziyarat of Ali Akbar",
+      "path": "/ziyarat/ziyarat-ali-akbar"
+    },
+    {
+      "title": "Ziyarat of Muslim ibn Aqil & Hani ibn Urwa",
+      "path": "/ziyarat/ziyarat-muslim-ibn-aqil"
+    }
+  ]
+}

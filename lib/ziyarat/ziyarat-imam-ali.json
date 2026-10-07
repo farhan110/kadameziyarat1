@@ -1,0 +1,1399 @@
+{
+  "slug": "ziyarat-imam-ali",
+  "title": "Ziyarat of Imam Ali at Najaf",
+  "urduTitle": "زیارت امام علی علیہ السلام",
+  "group": "Prophet & Imams",
+  "aliases": "Amir al Muminin Ameerul Momineen",
+  "edition": "",
+  "path": "/ziyarat/ziyarat-imam-ali",
+  "intro": "The first main form of ziyarat of Imam Ali at Najaf; entrance and other alternative visitations remain separate.",
+  "description": "Read Ziyarat of Imam Ali at Najaf with arabic text, transliteration and english meaning, recitation context and source references.",
+  "blocks": [
+    {
+      "kind": "heading",
+      "text": "Ziarat 1"
+    },
+    {
+      "kind": "heading",
+      "text": "First Main Form of Ziarat"
+    },
+    {
+      "kind": "note",
+      "text": "When you face and are opposite to the holy tomb, stop there before reaching the tomb, and say the following:"
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ مِنَ ٱللَّهِ عَلَىٰ مُحَمَّدٍ رَسُولِ ٱللَّهِ",
+      "transliteration": "alssalamu min allahi `ala muhammadin rasuli allahi",
+      "english": "Peace of Allah be upon Muhammad the Messenger of Allah,"
+    },
+    {
+      "kind": "text",
+      "arabic": "أَمِينِ ٱللَّهِ عَلَىٰ وَحْيِهِ وَرِسَالاَتِهِ",
+      "transliteration": "amini allahi `ala wahyihi wa risalatihi",
+      "english": "the trustee of Allah over His Revelations, Messages,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَعَزَائِمِ أَمْرِهِ",
+      "transliteration": "wa `aza'imi amrihi",
+      "english": "and determined commandments,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَمَعْدِنِ ٱلْوَحْيِ وَٱلتَّنْزِيلِ",
+      "transliteration": "wa ma`dini alwahyi walttanzili",
+      "english": "the core of the Divine Inspiration and Revelation,"
+    },
+    {
+      "kind": "text",
+      "arabic": "ٱلْخَاتِمِ لِمَا سَبَقَ",
+      "transliteration": "alkhatimi lima sabaqa",
+      "english": "who sealed the previous Messages,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلْفَاتِحِ لِمَا ٱسْتُقْبِلَ",
+      "transliteration": "walfatihi lima istuqbila",
+      "english": "paved the way to the coming blessings,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلْمُهَيْمِنِ عَلَىٰ ذٰلِكَ كُلِّهِ",
+      "transliteration": "walmuhaymini `ala dhalika kullihi",
+      "english": "who prevails over all that,"
+    },
+    {
+      "kind": "text",
+      "arabic": "ٱلشَّاهِدِ عَلَىٰ ٱلْخَلْقِ",
+      "transliteration": "alshshahidi `ala alkhalqi",
+      "english": "the witness over the creatures,"
+    },
+    {
+      "kind": "text",
+      "arabic": "ٱلسِّرَاجِ ٱلْمُنِيرِ",
+      "transliteration": "alssiraji almuniri",
+      "english": "and the luminous torch."
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلسَّلاَمُ عَلَيْهِ وَرَحْمَةُ ٱللَّهُ وَبَرَكَاتُهُ",
+      "transliteration": "wa alssalamu `alayhi wa rahmatu allahi wa barakatuhu",
+      "english": "Peace and Allah’s mercy and blessings be upon him."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَأَهْلِ بَيْتِهِ ٱلْمَظْلُومِينَ",
+      "transliteration": "allahumma salli `ala muhammadin wa ahli baytihi almazlumina",
+      "english": "O Allah, (please do) send blessings upon Muhammad and his Household, the oppressed ones,"
+    },
+    {
+      "kind": "text",
+      "arabic": "أَفْضَلَ وَأَكْمَلَ وَأَرْفَعَ",
+      "transliteration": "afdala wa akmala wa arfa`a",
+      "english": "with the best, most perfect, most exalted,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَأَشْرَفَ مَا صَلَّيْتَ عَلَىٰ أَحَدٍ",
+      "transliteration": "wa ashrafa ma sallayta `ala ahadin",
+      "english": "and most honored blessings that You have ever showed on any"
+    },
+    {
+      "kind": "text",
+      "arabic": "مِنْ أَنْبِيَائِكَ وَرُسُلِكَ وَأَصْفِيَائِكَ",
+      "transliteration": "min anbiya'ika wa rusulika wa asfiya'ika",
+      "english": "of Your Prophets, Messengers, and Chosen servants."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَللَّهُمَّ صَلِّ عَلَىٰ أَمِيرِ ٱلْمُؤْمِنِينَ",
+      "transliteration": "allahumma salli `ala amiri almu'minina",
+      "english": "O Allah, (please do) send blessings upon the Commander of the Faithful,"
+    },
+    {
+      "kind": "text",
+      "arabic": "عَبْدِكَ وَخَيْرِ خَلْقِكَ بَعْدَ نَبِيِّكَ",
+      "transliteration": "`abdika wa khayri khalqika ba`da nabiyyika",
+      "english": "Your servant, the best of Your creatures after Your Prophet,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَأَخِي رَسُولِكَ",
+      "transliteration": "wa akhi rasulika",
+      "english": "the brother of Your Messenger,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَوَصِيِّ حَبِيبِكَ",
+      "transliteration": "wa wasiyyi habibika",
+      "english": "the Successor of Your most-beloved one,"
+    },
+    {
+      "kind": "text",
+      "arabic": "ٱلَّذِي ٱنْتَجَبْتَهُ مِنْ خَلْقِكَ",
+      "transliteration": "alladhi intajabtahu min khalqika",
+      "english": "whom You have selected from among Your beings,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلدَّلِيلِ عَلَىٰ مَنْ بَعَثْتَهُ بِرِسَالاَتِكَ",
+      "transliteration": "walddalili `ala man ba`athtahu birisalatika",
+      "english": "the guide to those whom You sent with Your messages,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَدَيَّانِ ٱلدِّينِ بِعَدْلِكَ",
+      "transliteration": "wa dayyani alddini bi`adlika",
+      "english": "the establisher of the true religion by means of Your justice,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَفَصْلِ قَضَائِكَ بَيْنَ خَلْقِكَ",
+      "transliteration": "wa fasli qada'ika bayna khalqika",
+      "english": "and the decisive judge among Your beings."
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلسَّلاَمُ عَلَيْهِ وَرَحْمَةُ ٱللَّهِ وَبَرَكَاتُهُ",
+      "transliteration": "wa alssalamu `alayhi wa rahmatu allahi wa barakatuhu",
+      "english": "Peace and Allah’s mercy and blessings be upon him."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَللَّهُمَّ صَلِّ عَلَىٰ ٱلأَئِمَّةِ مِنْ وُلْدِهِ",
+      "transliteration": "allahumma salli `ala al-a'immati min wuldihi",
+      "english": "O Allah, (please do) send blessings upon the Imams from his offspring,"
+    },
+    {
+      "kind": "text",
+      "arabic": "ٱلْقَوَّامِينَ بِأَمْرِكَ مِنْ بَعْدِهِ",
+      "transliteration": "alqawwamina bi'amrika min ba`dihi",
+      "english": "(who are) the holders of Your commandments after him,"
+    },
+    {
+      "kind": "text",
+      "arabic": "ٱلْمُطَهَّرِينَ ٱلَّذينَ ٱرْتَضَيْتَهُمْ أَنْصَاراً لِدِينِكَ",
+      "transliteration": "almutahharina alladhina irtadaytahum ansaran lidinika",
+      "english": "and the immaculate ones whom You have accepted as supporters of Your religion,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَحَفَظَةً لِسِرِّكَ",
+      "transliteration": "wa hafazatan lisirrika",
+      "english": "keepers of Your secret,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَشُهَدَاءَ عَلَىٰ خَلْقِكَ",
+      "transliteration": "wa shuhada'a `ala khalqika",
+      "english": "witnesses over Your created beings,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَأَعْلاَماً لِعِبَادِكَ",
+      "transliteration": "wa a`laman li`ibadika",
+      "english": "and signs (of example) for Your servants."
+    },
+    {
+      "kind": "text",
+      "arabic": "صَلَوَاتُكَ عَلَيْهِمْ أَجْمَعِينَ",
+      "transliteration": "salawatuka `alayhim ajma`ina",
+      "english": "May Your blessings be upon them all."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَىٰ أَميِرِ ٱلْمُؤْمِنِينَ",
+      "transliteration": "alssalamu `ala amiri almu'minina",
+      "english": "Peace be upon the Commander of the Faithful,"
+    },
+    {
+      "kind": "text",
+      "arabic": "عَلِيِّ بْنِ أَبِي طَالِبٍ",
+      "transliteration": "`aliyyi bni abi talibin",
+      "english": "`Ali the son of Abu-Talib,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَصِيِّ رَسُولِ ٱللَّهِ وَخَلِيفَتِهِ",
+      "transliteration": "wasiyyi rasuli allahi wa khalifatihi",
+      "english": "the successor of Allah’s Messenger, his representative,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلْقَائِمِ بِأَمْرِهِ مِنْ بَعْدِهِ",
+      "transliteration": "walqa'imi bi'amrihi min ba`dihi",
+      "english": "who managed his affairs after him,"
+    },
+    {
+      "kind": "text",
+      "arabic": "سَيِّدِ ٱلْوَصِيِّينَ وَرَحْمَةُ ٱللَّهِ وَبَرَكَاتُهُ",
+      "transliteration": "sayyidi alwasiyyina wa rahmatu allahi wa barakatuhu",
+      "english": "and the master of all Prophet’s successors. May Allah’s mercy and blessings be upon him, too."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَىٰ فَاطِمَةَ بِنْتِ رَسُولِ ٱللَّهِ",
+      "transliteration": "alssalamu `ala fatimata binti rasuli allahi",
+      "english": "Peace be upon Fatimah, the daughter of Allah’s Messenger,"
+    },
+    {
+      "kind": "text",
+      "arabic": "صَلَّىٰ ٱللَّهُ عَلَيْهِ وَآلِهِ",
+      "transliteration": "salla allahu `alayhi wa alihi",
+      "english": "may Allah’s blessings be upon him,"
+    },
+    {
+      "kind": "text",
+      "arabic": "سَيِّدَةِ نِسَاءِ ٱلْعَالَمِينَ",
+      "transliteration": "sayyidati nisa'i al`alamina",
+      "english": "(she is) the doyenne of all the women of this world."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَىٰ ٱلْحَسَنِ وَٱلْحُسَيْنِ",
+      "transliteration": "alssalamu `ala alhasani walhusayni",
+      "english": "Peace be upon al-Hasan and al-Husayn,"
+    },
+    {
+      "kind": "text",
+      "arabic": "سَيِّدَيْ شَبَابِ أَهْلِ ٱلْجَنَّةِ مِنَ ٱلْخَلْقِ أَجْمَعِينَ",
+      "transliteration": "sayyiday shababi ahli aljannati min alkhalqi ajma`ina",
+      "english": "the chiefs of the youth of Paradise among all beings."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَىٰ ٱلأَئِمَّةِ ٱلرَّاشِدِينَ",
+      "transliteration": "alssalamu `ala al-a'immati alrrashidina",
+      "english": "Peace be upon the Guiding Imams."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَىٰ ٱلأَنْبِيَاءِ وَٱلْمُرْسَلِينَ",
+      "transliteration": "alssalamu `ala al-anbiya'i walmursalina",
+      "english": "Peace be upon the Prophets and the Messengers."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَىٰ ٱلأَئِمَّةِ ٱلْمُسْتَوْدَعِينَ",
+      "transliteration": "alssalamu `ala al-a'immati almustawda`ina",
+      "english": "Peace be upon the Imams whom are entrusted (with the religion by Allah)."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَىٰ خَاصَّةِ ٱللَّهِ مِنْ خَلْقِهِ",
+      "transliteration": "alssalamu `ala khassati allahi min khalqihi",
+      "english": "Peace be upon the elite creatures of Allah."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَىٰ ٱلْمُتَوَسِّمِينَ",
+      "transliteration": "alssalamu `ala almutawassimina",
+      "english": "Peace be upon those who understand by tokens."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَىٰ ٱلْمُؤْمِنِينَ",
+      "transliteration": "alssalamu `ala almu'minina",
+      "english": "Peace be upon the faithful believers"
+    },
+    {
+      "kind": "text",
+      "arabic": "ٱلَّذينَ قَامُوٱ بِأَمْرِهِ",
+      "transliteration": "alladhina qamu bi'amrihi",
+      "english": "who have carried out His orders,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَوَازَرُوٱ أَوْلِيَاءَ ٱللَّهِ",
+      "transliteration": "wa wazaru awliya'a allahi",
+      "english": "supported the saints of Allah,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَخَافُوٱ بِخَوْفِهِمْ",
+      "transliteration": "wa khafu bikhawfihim",
+      "english": "and have feared for their fear."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَىٰ ٱلْمَلاَئِكَةِ ٱلْمُقَرَّبِينَ",
+      "transliteration": "alssalamu `ala almala'ikati almuqarrabina",
+      "english": "Peace be upon the Favorite Angels."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْنَا وَعَلَىٰ عِبَادِ ٱللَّهِ ٱلصَالِحِينَ",
+      "transliteration": "alssalamu `alayna wa `ala `ibadi allahi alssalihina",
+      "english": "Peace be upon us and upon the righteous servants of Allah."
+    },
+    {
+      "kind": "note",
+      "text": "You may then draw near the tomb, face it, make the kiblah direction behind you, and say the following words:"
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا أَمِيرَ ٱلْمُؤْمِنِينَ",
+      "transliteration": "alssalamu `alayka ya amira almu'minina",
+      "english": "Peace be upon you, O Commander of the Faithful."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا حَبِيبَ ٱللَّهِ",
+      "transliteration": "alssalamu `alayka ya habiba allahi",
+      "english": "Peace be upon you, O beloved by Allah."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا صَفْوَةَ ٱللَّهِ",
+      "transliteration": "alssalamu `alayka ya safwata allahi",
+      "english": "Peace be upon you, O choice of Allah."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا وَلِيَّ ٱللَّهِ",
+      "transliteration": "alssalamu `alayka ya waliyya allahi",
+      "english": "Peace be upon you, O intimate servant of Allah."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا حُجَّةَ ٱللَّهِ",
+      "transliteration": "alssalamu `alayka ya hujjata allahi",
+      "english": "Peace be upon you, O Argument of Allah (against His creatures)."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا إِمَامَ ٱلْهُدَىٰ",
+      "transliteration": "alssalamu `alayka ya imama alhuda",
+      "english": "Peace be upon you, O leader of true guidance."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا عَلَمَ ٱلتُّقَىٰ",
+      "transliteration": "alssalamu `alayka ya `alama alttuqa",
+      "english": "Peace be upon you, O sign of piety."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ أَيُّهَا ٱلْوَصِيُّ",
+      "transliteration": "alssalamu `alayka ayyuha alwasiyyu",
+      "english": "Peace be upon you, O successor,"
+    },
+    {
+      "kind": "text",
+      "arabic": "ٱلْبَرُّ ٱلتَّقِيُّ",
+      "transliteration": "albarru alttaqiyyu",
+      "english": "religious, pious,"
+    },
+    {
+      "kind": "text",
+      "arabic": "ٱلنَّقِيُّ ٱلْوَفِيُّ",
+      "transliteration": "alnnaqiyyu alwafiyyu",
+      "english": "pure, and loyal."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا أَبَا ٱلْحَسَنِ وَٱلْحُسَيْنِ",
+      "transliteration": "alssalamu `alayka ya aba alhasani walhusayni",
+      "english": "Peace be upon you, O father of al-Hasan and al-Husayn."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا عَمُودَ ٱلدِّينِ",
+      "transliteration": "alssalamu `alayka ya `amuda alddini",
+      "english": "Peace be upon you, O pillar of the religion."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا سَيِّدَ ٱلْوَصِيِّينَ",
+      "transliteration": "alssalamu `alayka ya sayyida alwasiyyina",
+      "english": "Peace be upon you, O chief of the successors (of Prophets),"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَأَمِينَ رَبِّ ٱلْعَالَمِينَ",
+      "transliteration": "wa amina rabbi al`alamina",
+      "english": "trustee of the Lord of the worlds,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَدَيَّانَ يَوْمِ ٱلدِّينِ",
+      "transliteration": "wa dayyana yawmi alddini",
+      "english": "judge on the Judgment Day,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَخَيْرَ ٱلْمُؤْمِنِينَ",
+      "transliteration": "wa khayra almu'minina",
+      "english": "best of the believers,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَسَيِّدَ ٱلصِّدِّيقِينَ",
+      "transliteration": "wa sayyida alssiddiqina",
+      "english": "chief of the most truthful ones,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلصَّفْوَةَ مِنْ سُلاَلَةِ ٱلنَّبِيِّينَ",
+      "transliteration": "walssafwata min sulalati alnnabiyyina",
+      "english": "elite of the Prophets’ lineage,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَبَابَ حِكْمَةِ رَبِّ ٱلْعَالَمِينَ",
+      "transliteration": "wa baba hikmati rabbi al`alamina",
+      "english": "door to the wisdom of the Lord of the worlds,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَخَازِنَ وَحْيِهِ",
+      "transliteration": "wa khazina wahyihi",
+      "english": "keeper of His Revelation,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَعَيْبَةَ عِلْمِهِ",
+      "transliteration": "wa `aybata `ilmihi",
+      "english": "container of His knowledge,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلنَّاصِحَ لأُمَّةِ نَبِيِّهِ",
+      "transliteration": "walnnasiha li'ummati nabiyyihi",
+      "english": "advisor of His Prophet’s people,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلتَّالِي لِرَسُولِهِ",
+      "transliteration": "walttaliya lirasulihi",
+      "english": "next to His Messenger,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلْمُوَاسِي لَهُ بِنَفْسِهِ",
+      "transliteration": "walmuwasiya lahu binafsihi",
+      "english": "who sacrificed himself for him (i.e. for the Messenger),"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلنَّاطِقَ بِحُجَّتِهِ",
+      "transliteration": "walnnatiqa bihujjatihi",
+      "english": "speaker with his arguments,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلدَّاعِي إِلَىٰ شَريِعَتِهِ",
+      "transliteration": "waldda`iya ila shari`atihi",
+      "english": "inviter to his principles,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلْمَاضِي عَلَىٰ سُنَّتِهِ",
+      "transliteration": "walmadiya `ala sunnatihi",
+      "english": "and steadfast on his instructions."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَللَّهُمَّ إِنِّي أَشْهَدُ",
+      "transliteration": "allahumma inni ashhadu",
+      "english": "O Allah, I do bear witness"
+    },
+    {
+      "kind": "text",
+      "arabic": "أَنَّهُ قَدْ بَلَّغَ عَنْ رَسُولِكَ مَا حُمِّلَ",
+      "transliteration": "annahu qad ballagha `an rasulika ma hummila",
+      "english": "that he carried out the mission conveyed to him by Your Messenger,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَرَعَىٰ مَا ٱسْتُحْفِظَ",
+      "transliteration": "wa ra`a ma istuhfiza",
+      "english": "achieved what he was ordered to keep,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَحَفِظَ مَا ٱسْتُودِعَ",
+      "transliteration": "wa hafiza ma istudi`a",
+      "english": "kept what has been stored with him,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَحَلَّلَ حَلاَلَكَ",
+      "transliteration": "wa hallala halalaka",
+      "english": "deemed lawful that which You deem lawful,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَحَرَّمَ حَرَامَكَ",
+      "transliteration": "wa harrama haramaka",
+      "english": "deemed unlawful that which You deem unlawful,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَأَقَامَ أَحْكَامَكَ",
+      "transliteration": "wa aqama ahkamaka",
+      "english": "put into practice Your laws,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَجَاهَدَ ٱلنَّاكِثِينَ فِي سَبِيلِكَ",
+      "transliteration": "wa jahada alnnakithina fi sabilika",
+      "english": "strove against the contraveners for Your sake,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلْقَاسِطِينَ فِي حُكْمِكَ",
+      "transliteration": "walqasitina fi hukmika",
+      "english": "against the wrongdoers according to Your laws,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلْمَارِقِينَ عَنْ أَمْرِكَ",
+      "transliteration": "walmariqina `an amrika",
+      "english": "and against the apostates from Your decree,"
+    },
+    {
+      "kind": "text",
+      "arabic": "صَابِراً مُحْتَسِباً",
+      "transliteration": "sabiran muhtasiban",
+      "english": "did all that with steadfastness, expecting Your reward,"
+    },
+    {
+      "kind": "text",
+      "arabic": "لاََ تَأْخُذُهُ فِيكَ لَوْمَةُ لاَئِمٍ",
+      "transliteration": "la ta'khudhuhu fika lawmatu la'imin",
+      "english": "and no blame of any blamer could ever influence him."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَللَّهُمَّ صَلِّ عَلَيْهِ أَفْضَلَ مَا صَلَّيْتَ",
+      "transliteration": "allahumma salli `alayhi afdala ma sallayta",
+      "english": "O Allah, (please do) send blessings upon him with the best way"
+    },
+    {
+      "kind": "text",
+      "arabic": "عَلَىٰ أَحَدٍ مِنْ أَوْلِيَائِكَ وَأَصْفِيَائِكَ",
+      "transliteration": "`ala ahadin min awliya'ika wa asfiya'ika",
+      "english": "You have ever blessed any of Your intimate servants, Your choicest ones,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَأَوْصِيَاءِ أَنْبِيَائِكَ",
+      "transliteration": "wa awsiya'i anbiya'ika",
+      "english": "and Your Prophet’s successors."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَللَّهُمَّ هٰذَا قَبْرُ وَلِيِّكَ",
+      "transliteration": "allahumma hadha qabru waliyyika",
+      "english": "O Allah, this is the tomb of Your representative"
+    },
+    {
+      "kind": "text",
+      "arabic": "ٱلَّذِي فَرَضْتَ طَاعَتَهُ",
+      "transliteration": "alladhi faradta ta`atahu",
+      "english": "the obedience to whom has been made by You incumbent (upon us),"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَجَعَلْتَ فِي أَعْنَاقِ عِبَادِكَ مُبَايَعَتَهُ",
+      "transliteration": "wa ja`alta fi a`naqi `ibadika mubaya`atahu",
+      "english": "the loyalty to whom has been made by You in the necks of Your servants,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَخَلِيفَتِكَ ٱلَّذِي بِهِ تَأْخُذُ وَتُعْطِي",
+      "transliteration": "wa khalifatika alladhi bihi ta'khudhu wa tu`ti",
+      "english": "and (it is the tomb of) Your viceroy through whom You will give and take,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَبِهِ تُثِيبُ وَتُعَاقِبُ",
+      "transliteration": "wa bihi tuthibu wa tu`aqibu",
+      "english": "and through whom You will reward and punish."
+    },
+    {
+      "kind": "text",
+      "arabic": "وَقَدْ قَصَدْتُهُ طَمَعاً لِمَا أَعْدَدْتَهُ لأَوْلِيَائِكَ",
+      "transliteration": "wa qad qasadtuhu tama`an lima a`dadtahu li'awliya'ika",
+      "english": "I have directed to him, seeking for what You have prepared for Your intimate servants."
+    },
+    {
+      "kind": "text",
+      "arabic": "فَبِعَظيِمِ قَدْرِهِ عِنْدَكَ",
+      "transliteration": "fabi`azimi qadrihi `indaka",
+      "english": "So, (I beseech You) in the name of his eminent standing with You,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَجَلِيلِ خَطَرِهِ لَدَيْكَ",
+      "transliteration": "wa jalili khatarihi ladayka",
+      "english": "in the name of his great status in Your view,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَقُرْبِ مَنْزِلَتِهِ مِنْكَ",
+      "transliteration": "wa qurbi manzilatihi minka",
+      "english": "and in the name of the closeness of his position to You,"
+    },
+    {
+      "kind": "text",
+      "arabic": "صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
+      "transliteration": "salli `ala muhammadin wa ali muhammadin",
+      "english": "to bless Muhammad and the Household of Muhammad"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱفْعَلْ بِي مَا أَنْتَ أَهْلُهُ",
+      "transliteration": "waf`al bi ma anta ahluhu",
+      "english": "and to do to me that which is expected from You,"
+    },
+    {
+      "kind": "text",
+      "arabic": "فَإِنَّكَ أَهْلُ ٱلْكَرَمِ وَٱلْجُودِ",
+      "transliteration": "fa'innaka ahlu alkarami waljudi",
+      "english": "for You are verily worthy of honoring and generous granting."
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلسَّلاَمُ عَلَيْكَ يَا مَوْلاَيَ",
+      "transliteration": "wa alssalamu `alayka ya mawlaya",
+      "english": "Peace be upon you, O my master,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَعَلىٰ ضَجِيعَيْكَ آدَمَ وَنُوحٍ",
+      "transliteration": "wa `ala daji`ayka adama wa nuhin",
+      "english": "and upon your partners in the place, (Prophet) Adam and (Prophet) Noah."
+    },
+    {
+      "kind": "text",
+      "arabic": "وَرَحْمَةُ ٱللَّهِ وَبَرَكَاتُهُ",
+      "transliteration": "wa rahmatu allahi wa barakatuhu",
+      "english": "May Allah’s mercy and blessings be upon you, too."
+    },
+    {
+      "kind": "note",
+      "text": "You may then kiss the tomb from the head’s side and say the following words:"
+    },
+    {
+      "kind": "text",
+      "arabic": "يَا مَوْلاَيَ إِلَيْكَ وُفُودِي",
+      "transliteration": "ya mawlaya ilayka wufudi",
+      "english": "O my master, to You is my coming"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَبِكَ أَتَوَسَّلُ إِلَىٰ رَبِّي",
+      "transliteration": "wa bika atawassalu ila rabbi",
+      "english": "and in your name do I beseech my Lord"
+    },
+    {
+      "kind": "text",
+      "arabic": "فِي بُلُوغِ مَقْصُودِي",
+      "transliteration": "fi bulughi maqsudi",
+      "english": "so that I may achieve my goal."
+    },
+    {
+      "kind": "text",
+      "arabic": "وَأَشْهَدُ أَنَّ ٱلْمُتَوَسِّلَ بِكَ غَيْرُ خَائِبٍ",
+      "transliteration": "wa ashhadu anna almutawassila bika ghayru kha'ibin",
+      "english": "I bear witness that he who beseeches (Allah) in your name shall never be disappointed"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلطَّالِبَ بِكَ عَنْ مَعْرِفَةٍ",
+      "transliteration": "walttaliba bika `an ma`rifatin",
+      "english": "and he who implores (Allah) in your name, with full cognizance,"
+    },
+    {
+      "kind": "text",
+      "arabic": "غَيْرُ مَرْدوُدٍ إِلاَّ بِقَضَاءِ حَوَائِجِهِ",
+      "transliteration": "ghayru mardudin illa biqada'i hawa'ijihi",
+      "english": "shall never be rejected; rather, all his needs shall be settled."
+    },
+    {
+      "kind": "text",
+      "arabic": "فَكُنْ لِي شَفيعاً إِلَىٰ ٱللَّهِ",
+      "transliteration": "fakun li shafi`an ila allahi",
+      "english": "So, (please) be my interceder to Allah—"
+    },
+    {
+      "kind": "text",
+      "arabic": "رَبِّكَ وَرَبِّي فِي قَضَاءِ حَوَائِجِي",
+      "transliteration": "rabbika wa rabbi fi qada'i hawa'iji",
+      "english": "my and your Lord—for purpose of settling my needs,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَتَيْسِيرِ أُمُورِي",
+      "transliteration": "wa taysiri umuri",
+      "english": "making easy my affairs,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَكَشْفِ شِدَّتِي",
+      "transliteration": "wa kashfi shiddati",
+      "english": "relieving my depressions,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَغُفْرَانِ ذَنْبِي",
+      "transliteration": "wa ghufrani dhanbi",
+      "english": "forgiving my sins,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَسَعَةِ رِزْقِي",
+      "transliteration": "wa sa`ati rizqi",
+      "english": "expanding my sustenance sources,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَتَطْوِيلِ عُمْرِي",
+      "transliteration": "wa tatwili `umri",
+      "english": "extending my lifetime,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَإِعْطَاءِ سُؤْلِي فِي آخِرَتِي وَدُنْيَايَ",
+      "transliteration": "wa i`ta'i su'li fi akhirati wa dunyaya",
+      "english": "and granting me all my requests for the world to come as well as this world."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَللَّهُمَّ ٱلْعَنْ قَتَلَةَ أَمِيرِ ٱلْمُؤْمِنِينَ",
+      "transliteration": "allahumma il`an qatalata amiri almu'minina",
+      "english": "O Allah, curse the killers of the Commander of the Faithful."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَللَّهُمَّ ٱلْعَنْ قَتَلَةَ ٱلْحَسَنِ وَٱلْحُسَيْنِ",
+      "transliteration": "allahumma il`an qatalata alhasani walhusayni",
+      "english": "O Allah, curse the killers of al-Hasan and al-Husayn."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَللَّهُمَّ ٱلْعَنْ قَتَلَةَ ٱلأَئِمَّةِ",
+      "transliteration": "allahumma il`an qatalata al-a'immati",
+      "english": "O Allah, curse the killers of the Imams,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَعَذِّبْهُمْ عَذَاباً أَلِيماً",
+      "transliteration": "wa `adhdhibhum `adhaban aliman",
+      "english": "and subject them to such a painful chastisement"
+    },
+    {
+      "kind": "text",
+      "arabic": "لاََ تُعَذِّبُهُ أَحَداً مِنَ ٱلْعَالَمِينَ",
+      "transliteration": "la tu`adhdhibuhu ahadan min al`alamina",
+      "english": "that You have never subjected any of Your creatures to it,"
+    },
+    {
+      "kind": "text",
+      "arabic": "عَذَاباً كَثيراً لاََ ٱنْقِطَاعَ لَهُ",
+      "transliteration": "`adhaban kathiran la inqita`a lahu",
+      "english": "such an enormous chastisement that never ceases,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَلاَ أَجَلَ وَلاَ أَمَدَ",
+      "transliteration": "wa la ajala wa la amada",
+      "english": "nor comes to an end, nor reaches a deadline,"
+    },
+    {
+      "kind": "text",
+      "arabic": "بِمَا شَاقُّوٱ وُلاَةَ أَمْرِكَ",
+      "transliteration": "bima shaqqu wulata amrika",
+      "english": "for what they contended against Your authorities."
+    },
+    {
+      "kind": "text",
+      "arabic": "وَأَعِدَّ لَهُمْ عَذَاباً",
+      "transliteration": "wa a`idda lahum `adhaban",
+      "english": "And (please do) prepare for them such an intense torture"
+    },
+    {
+      "kind": "text",
+      "arabic": "لَمْ تُحِلَّهُ بِأَحَدٍ مِنْ خَلْقِكَ",
+      "transliteration": "lam tuhillahu bi'ahadin min khalqika",
+      "english": "that You have not decided for any of Your creatures."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَللَّهُمَّ وَأَدْخِلْ عَلَىٰ قَتَلَةِ أَنْصَارِ رَسُولِكَ",
+      "transliteration": "allahumma wa adkhil `ala qatalati ansari rasulika",
+      "english": "O Allah, (please do) impose upon the killers of Your Messenger’s supporters,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَعَلَىٰ قَتَلَةِ أَمِيرِ ٱلْمُؤْمِنِينَ",
+      "transliteration": "wa `ala qatalati amiri almu'minina",
+      "english": "the killers of the Commander of the Faithful,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَعَلَىٰ قَتَلَةِ ٱلْحَسَنِ وَٱلْحُسَيْنِ",
+      "transliteration": "wa `ala qatalati alhasani walhusayni",
+      "english": "the killers of al-Hasan and al-Husayn,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَعَلَىٰ قَتَلَةِ أَنْصَارِ ٱلْحَسَنِ وَٱلْحُسَيْنِ",
+      "transliteration": "wa `ala qatalati ansari alhasani walhusayni",
+      "english": "the killers of the supporters of al-Hasan and al-Husayn,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَقَتَلَةِ مَنْ قُتِلَ فِي وِلاَيَةِ آلِ مُحَمَّدٍ أَجْمَعِينَ",
+      "transliteration": "wa qatalati man qutila fi wilayati ali muhammadin ajma`ina",
+      "english": "and the killers of all those whom were killed because of their loyalty to the Household of Muhammad,"
+    },
+    {
+      "kind": "text",
+      "arabic": "عَذَاباً أَلِيماً مُضَاعَفاً",
+      "transliteration": "`adhaban aliman muda`afan",
+      "english": "a painful, cyclic punishment"
+    },
+    {
+      "kind": "text",
+      "arabic": "فِي أَسْفَلِ دَرَكٍ مِنَ ٱلْجَحِيمِ",
+      "transliteration": "fi asfali darakin min aljahimi",
+      "english": "in the lowest class of Hellfire"
+    },
+    {
+      "kind": "text",
+      "arabic": "لاََ يُخَفَّفُ عَنْهُمُ الْعَذَابُ",
+      "transliteration": "la yukhaffafu `anhum al`adhabu",
+      "english": "that the punishment shall not be lightened for them"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَهُمْ فِيهِ مُبْلِسُونَ مَلْعُونُونَ",
+      "transliteration": "wa hum fihi mublisuna mal`ununa",
+      "english": "and they shall lay therein in utter despair and endless curse;"
+    },
+    {
+      "kind": "text",
+      "arabic": "نَاكِسُو رُؤُوسِهِمْ عِنْدَ رَبِّهِمْ",
+      "transliteration": "nakisu ru'usihim `inda rabbihim",
+      "english": "they shall be hanging down their heads before their Lord"
+    },
+    {
+      "kind": "text",
+      "arabic": "قَدْ عَايَنُوٱ ٱلنَّدَامَةَ وَٱلْخِزْيَ ٱلطَّوِيلَ",
+      "transliteration": "qad `ayanu alnnadamata walkhizya alttawila",
+      "english": "after they shall find out with certainty regret and long-lasting disgrace,"
+    },
+    {
+      "kind": "text",
+      "arabic": "لِقَتْلِهِمْ عِتْرَةَ أَنْبِيَائِكَ وَرُسُلِكَ",
+      "transliteration": "liqatlihim `itrata anbiya'ika wa rusulika",
+      "english": "for they killed the members of the household of Your Prophets and Messengers"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَأَتْبَاعَهُمْ مِنْ عِبَادِكَ ٱلصَّالِحِينَ",
+      "transliteration": "wa atba`ahum min `ibadika alssalihina",
+      "english": "and the righteous servants from their followers."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَللَّهُمَّ ٱلْعَنْهُمْ فِي مُسْتَسِرِّ ٱلسِّرِّ",
+      "transliteration": "allahumma il`anhum fi mustasirri alssirri",
+      "english": "O Allah, (do) curse them in the most concealed secrecy"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَظَاهِرِ ٱلْعَلاَنِيَةِ",
+      "transliteration": "wa zahiri al`alaniyati",
+      "english": "and in the most apparent openness,"
+    },
+    {
+      "kind": "text",
+      "arabic": "فِي أَرْضِكَ وَسَمَائِكَ",
+      "transliteration": "fi ardika wa sama'ika",
+      "english": "in Your lands and in Your heavens."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَللَّهُمَّ ٱجْعَلْ لِي قَدَمَ صِدْقٍ فِي أَوْلِيَائِكَ",
+      "transliteration": "allahumma ij`al li qadama sidqin fi awliya'ika",
+      "english": "O Allah, (please do) decide for me a truthful step with Your intimate servants"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَحَبِّبْ إِلَيَّ مَشَاهِدَهُمْ وَمُسْتَقَرَّهُمْ",
+      "transliteration": "wa habbib ilayya mashahidahum wa mustaqarrahum",
+      "english": "and make me long for their shrines and their residing-places"
+    },
+    {
+      "kind": "text",
+      "arabic": "حَتَّىٰ تُلْحِقَنِي بِهِمْ",
+      "transliteration": "hatta tulhiqani bihim",
+      "english": "until You include me with them"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَتَجْعَلَنِي لَهُمْ تَبَعاً فِي ٱلدُّنْيَا وَٱلآخِرَةِ",
+      "transliteration": "wa taj`alani lahum taba`an fi alddunya wal-akhirati",
+      "english": "and make me among their followers in this world as well as the world to come."
+    },
+    {
+      "kind": "text",
+      "arabic": "يَا أَرْحَمَ ٱلرَّاحِمِينَ",
+      "transliteration": "ya arhama alrrahimina",
+      "english": "O most Merciful of all those who show mercy!"
+    },
+    {
+      "kind": "note",
+      "text": "You may then kiss the tomb, face the tomb of Imam al-Husayn ibn `Ali (‘a), make the kiblah direction seem to be between your shoulders, and say the following words:"
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا أَبَا عَبْدِ ٱللَّهِ",
+      "transliteration": "alssalamu `alayka ya aba `abdillahi",
+      "english": "Peace be upon you, O Abu-`Abdullah."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا بْنَ رَسُولِ ٱللَّهِ",
+      "transliteration": "alssalamu `alayka yabna rasuli allahi",
+      "english": "Peace be upon you, O son of Allah’s Messenger."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا بْنَ أَمِيرِ ٱلْمُؤْمِنِينَ",
+      "transliteration": "alssalamu `alayka yabna amiri almu'minina",
+      "english": "Peace be upon you, O son of the Commander of the Faithful."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا بْنَ فَاطِمَةَ ٱلزَّهْرَاءِ",
+      "transliteration": "alssalamu `alayka yabna fatimata alzzahra'i",
+      "english": "Peace be upon you, O son of Fatimah, the luminous lady,"
+    },
+    {
+      "kind": "text",
+      "arabic": "سَيِّدَةِ نِسَاءِ ٱلْعَالَمِينَ",
+      "transliteration": "sayyidati nisa'i al`alamina",
+      "english": "the doyenne of all women of the worlds."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا أَبَا ٱلأَئِمَّةِ ٱلْهَادِينَ ٱلْمَهْدِيِّينَ",
+      "transliteration": "alssalamu `alayka ya aba al-a'immati alhadina almahdiyyina",
+      "english": "Peace be upon you, O father of the Imams—the guides and well-guided."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا صَرِيعَ ٱلدَّمْعَةِ ٱلسَّاكِبَةِ",
+      "transliteration": "alssalamu `alayka ya sari`a alddam`ati alssakibati",
+      "english": "Peace be upon you, O victim of the pouring tears."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا صَاحِبَ ٱلْمُصِيبَةِ ٱلرَّاتِبَةِ",
+      "transliteration": "alssalamu `alayka ya sahiba almusibati alrratibati",
+      "english": "Peace be upon you, O man of the disastrous misfortune."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ وَعَلَىٰ جَدِّكَ وَأَبِيكَ",
+      "transliteration": "alssalamu `alayka wa `ala jaddika wa abika",
+      "english": "Peace be upon you and upon your grandfather and father."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ وَعَلَىٰ أُمِّكَ وَأَخِيكَ",
+      "transliteration": "alssalamu `alayka wa `ala ummika wa akhika",
+      "english": "Peace be upon you and upon your mother and brother."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ وَعَلَىٰ ٱلأَئِمَّةِ مِنْ ذُرِيَّتِكَ وَبَنِيكَ",
+      "transliteration": "alssalamu `alayka wa `ala al-a'immati min dhurriyyatika wa banika",
+      "english": "Peace be upon you and upon the Imams from your offspring and descendants."
+    },
+    {
+      "kind": "text",
+      "arabic": "أَشْهَدُ لَقَدْ طَيَّبَ ٱللَّهُ بِكَ ٱلتُّرَابَ",
+      "transliteration": "ashhadu laqad tayyaba allahu bika altturaba",
+      "english": "I bear witness that Allah has purified the soil (on which you fell down) through you,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَأَوْضَحَ بِكَ ٱلْكِتَابَ",
+      "transliteration": "wa awdaha bika alkitaba",
+      "english": "has made clear His Book through you,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَجَعَلَكَ وَأَبَاكَ وَجَدَّكَ",
+      "transliteration": "wa ja`alaka wa abaka wa jaddaka",
+      "english": "and has made you, your father, your grandfather,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَأَخَاكَ وَبَنِيكَ عِبْرَةً لأُوُلِي ٱلأَلْبَابِ",
+      "transliteration": "wa akhaka wa banika `ibratan li'uli al-albabi",
+      "english": "your brother, and your descendants examples for the owners of intellects."
+    },
+    {
+      "kind": "text",
+      "arabic": "يَا بْنَ ٱلْمَيَامِينِ ٱلأَطْيَابِ",
+      "transliteration": "yabna almayamini al-atyabi",
+      "english": "O son of the blessed, purified ones"
+    },
+    {
+      "kind": "text",
+      "arabic": "ٱلتَّالِينَ ٱلْكِتَابَ",
+      "transliteration": "alttalina alkitaba",
+      "english": "who recite (and apply) the Book utterly,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَجَّهْتُ سَلاَمِي إِلَيْكَ",
+      "transliteration": "wajjahtu salami ilayka",
+      "english": "I direct my greetings to you."
+    },
+    {
+      "kind": "text",
+      "arabic": "صَلَوَاتُ ٱللَّهِ وَسَلاَمُهُ عَلَيْكَ",
+      "transliteration": "salawatu allahi wa salamuhu `alayka",
+      "english": "May Allah make His peace and blessings to be upon you"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَجَعَلَ أَفْئِدَةً مِنَ ٱلنَّاسِ تَهْوِي إِلَيْكَ",
+      "transliteration": "wa ja`ala af'idatan min alnnasi tahwi ilayka",
+      "english": "and may He make the hearts of some people yearn toward you."
+    },
+    {
+      "kind": "text",
+      "arabic": "مَا خَابَ مَنْ تَمَسَّكَ بِكَ وَلَجَأَ إِلَيْكَ",
+      "transliteration": "ma khaba man tamassaka bika wa laja'a ilayka",
+      "english": "Disappointment shall never chase him who adheres to you and resorts to you."
+    },
+    {
+      "kind": "note",
+      "text": "You may then move to the side of the feet and say the following words:"
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَىٰ أَبِي ٱلأَئِمَّةِ",
+      "transliteration": "alssalamu `ala abi al-a'immati",
+      "english": "Peace be upon the father of the Imams,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَخَلِيلِ ٱلنُّبُوَّةِ",
+      "transliteration": "wa khalili alnnubuwwati",
+      "english": "the intimate friend of Prophethood,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلْمَخْصُوصِ بِٱلأُخُوَّةِ",
+      "transliteration": "walmakhsusi bil'ukhuwwati",
+      "english": "and the marked, exclusively, by fraternity (with the Holy Prophet)."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَىٰ يَعْسُوبِ ٱلدِّينِ وَٱلإِيـمَانِ",
+      "transliteration": "alssalamu `ala ya`subi alddini wal'imani",
+      "english": "Peace be upon the head of the religion and faith,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَكَلِمَةِ ٱلرَّحْمٰنِ",
+      "transliteration": "wa kalimati alrrahmani",
+      "english": "and the word of the All-beneficent Lord."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَىٰ مِيزَانِ ٱلأَعْمَالِ",
+      "transliteration": "alssalamu `ala mizani al-a`mali",
+      "english": "Peace be upon the Scale of the deeds"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَمُقَلِّبِ ٱلأَحْوَالِ",
+      "transliteration": "wa muqallibi al-ahwali",
+      "english": "the turner over of manners,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَسَيْفِ ذِي ٱلْجَلاَلِ",
+      "transliteration": "wa sayfi dhi aljalali",
+      "english": "the sword of the Lord of Majesty,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَسَاقِي ٱلسَّلْسَبِيلِ ٱلزُّلاَلِ",
+      "transliteration": "wa saqi alssalsabili alzzulali",
+      "english": "and who supplies with the fresh water of Salsabil."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَىٰ صَالِحِ ٱلْمُؤْمِنِينَ",
+      "transliteration": "alssalamu `ala salihi almu'minina",
+      "english": "Peace be upon the most righteous of the believers,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَوَارِثِ عِلْمِ ٱلنَّبِيِّينَ",
+      "transliteration": "wa warithi `ilmi alnnabiyyina",
+      "english": "the inheritor of the Prophet’s knowledge,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلْحَاكِمِ يَوْمَ ٱلدِّينِ",
+      "transliteration": "walhakimi yawma alddini",
+      "english": "and the judge on the Judgment Day."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَىٰ شَجَرَةِ ٱلتَّقْوَىٰ",
+      "transliteration": "alssalamu `ala shajarati alttaqwa",
+      "english": "Peace be upon the tree of piety"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَسَامِعِ ٱلسِّرِّ وَٱلنَّجْوَىٰ",
+      "transliteration": "wa sami`i alssirri walnnajwa",
+      "english": "and the hearer of hidden and confidential speeches."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَىٰ حُجَّةِ ٱللَّهِ ٱلْبَالِغَةِ",
+      "transliteration": "alssalamu `ala hujjati allahi albalighati",
+      "english": "Peace be upon Allah’s conclusive argument,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَنِعْمَتِهِ ٱلسَّابِغَةِ",
+      "transliteration": "wa ni`matihi alssabighati",
+      "english": "His flowing boon,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَنِقْمَتِهِ ٱلدَّامِغَةِ",
+      "transliteration": "wa niqmatihi alddamighati",
+      "english": "and His forceful punishment."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَىٰ ٱلصِّرَاطِ ٱلْوَاضِحِ",
+      "transliteration": "alssalamu `ala alssirati alwadihi",
+      "english": "Peace be upon the clear-cut path,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلنَّجْمِ ٱللاَّئِحِ",
+      "transliteration": "walnnajmi alla'ihi",
+      "english": "the patent star,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلإِمَامِ ٱلنَّاصِحِ",
+      "transliteration": "wal-imami alnnasihi",
+      "english": "the advising leader,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلزِّنَادِ ٱلْقَادِحِ",
+      "transliteration": "walzzinadi alqadihi",
+      "english": "and the igniting firelock."
+    },
+    {
+      "kind": "text",
+      "arabic": "وَرَحْمَةُ ٱللَّهِ وَبَرَكَاتُهُ",
+      "transliteration": "wa rahmatu allahi wa barakatuhu",
+      "english": "May Allah’s mercy and blessings be upon him."
+    },
+    {
+      "kind": "note",
+      "text": "You may then say the following:"
+    },
+    {
+      "kind": "text",
+      "arabic": "اَللَّهُمَّ صَلِّ عَلَىٰ أَمِيرِ ٱلْمُؤْمِنِينَ",
+      "transliteration": "allahumma salli `ala amiri almu'minina",
+      "english": "O Allah, (please do) send blessings upon the Commander of the Faithful,"
+    },
+    {
+      "kind": "text",
+      "arabic": "عَلِيِّ بْنِ أَبِي طَالِبٍ",
+      "transliteration": "`aliyyi bni abi talibin",
+      "english": "`Ali the son of Abu-Talib:"
+    },
+    {
+      "kind": "text",
+      "arabic": "أَخِي نَبِيِّكَ وَوَلِيِّهِ",
+      "transliteration": "akhi nabiyyika wa waliyyihi",
+      "english": "the brother, ally,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَنَاصِرِهِ وَوَصِيِّهِ وَوَزِيرِهِ",
+      "transliteration": "wa nasirihi wa wasiyyihi wa wazirihi",
+      "english": "supporter, successor, and patron of Your Prophet,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَمُسْتَوْدَعِ عِلْمِهِ",
+      "transliteration": "wa mustawda`i `ilmihi",
+      "english": "the store of his knowledge,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَمَوْضِعِ سِرِّهِ",
+      "transliteration": "wa mawdi`i sirrihi",
+      "english": "the depot of his secrets,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَبَابِ حِكْمَتِهِ",
+      "transliteration": "wa babi hikmatihi",
+      "english": "the door to his wisdom,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلنَّاطِقِ بِحُجَّتِهِ",
+      "transliteration": "walnnatiqi bihujjatihi",
+      "english": "the spokesman with his arguments,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلدَّاعي إِلَىٰ شَرِيعَتِهِ",
+      "transliteration": "waldda`i ila shari`atihi",
+      "english": "the caller to his code of law,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَخَلِيفَتِهِ فِي أُمَّتِهِ",
+      "transliteration": "wa khalifatihi fi ummatihi",
+      "english": "his viceroy in his community,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَمُفَرِّجِ ٱلْكَرْبِ عَنْ وَجْهِهِ",
+      "transliteration": "wa mufarriji alkarbi `an wajhihi",
+      "english": "the reliever of agony from his face,"
+    },
+    {
+      "kind": "text",
+      "arabic": "قَاصِمِ ٱلْكَفَرَةِ",
+      "transliteration": "wa qasimi alkafarati",
+      "english": "the terminator of the infidels,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَمُرْغِمِ ٱلْفَجَرَةِ",
+      "transliteration": "wa murghimi alfajarati",
+      "english": "the conqueror on the wicked ones,"
+    },
+    {
+      "kind": "text",
+      "arabic": "ٱلَّذِي جَعَلْتَهُ مِنْ نَبِيِّكَ",
+      "transliteration": "alladhi ja`altahu min nabiyyika",
+      "english": "whom You have made, with regard to his position to Your Prophet,"
+    },
+    {
+      "kind": "text",
+      "arabic": "بِمَنْزِلَةِ هَاروُنَ مِنْ مُوسَىٰ",
+      "transliteration": "bimanzilati haruna min musa",
+      "english": "to occupy the same position that (Prophet) Aaron enjoyed with (Prophet) Moses."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَللَّهُمَّ وَالِ مَنْ وَالاَهُ",
+      "transliteration": "allahumma wali man walahu",
+      "english": "O Allah, (please do) give support to any one who supports him,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَعَادِ مَنْ عَادَاهُ",
+      "transliteration": "wa `adi man `adahu",
+      "english": "be the enemy of every one who antagonizes him,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱنْصُرْ مَنْ نَصَرَهُ",
+      "transliteration": "wansur man nasarahu",
+      "english": "give victory to any one who gives him his victory,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱخْذُلْ مَنْ خَذَلَهُ",
+      "transliteration": "wakhdhul man khadhalahu",
+      "english": "disappoint every one who disappoints him,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلْعَنْ مَنْ نَصَبَ لَهُ",
+      "transliteration": "wal`an man nasaba lahu",
+      "english": "and lay curse on any one who incurs the hostility of him"
+    },
+    {
+      "kind": "text",
+      "arabic": "مِنَ ٱلأَوَّلِينَ وَٱلآخِرِينَ",
+      "transliteration": "min al-awwalina wal-akhirina",
+      "english": "from the past and the coming generations."
+    },
+    {
+      "kind": "text",
+      "arabic": "وَصَلِّ عَلَيْهِ أَفْضَلَ مَا صَلَّيْتَ",
+      "transliteration": "wa salli `alayhi afdala ma sallayta",
+      "english": "And (please do) bless him with the best blessings"
+    },
+    {
+      "kind": "text",
+      "arabic": "عَلَىٰ أَحَدٍ مِنْ أَوْصِيَاءِ أَنْبِيَائِكَ",
+      "transliteration": "`ala ahadin min awsiya'i anbiya'ika",
+      "english": "that You have ever poured on any of Your Prophet’s successors."
+    },
+    {
+      "kind": "text",
+      "arabic": "يَا رَبَّ ٱلْعَالَمِينَ",
+      "transliteration": "ya rabba al`alamina",
+      "english": "O Lord of the worlds!"
+    }
+  ],
+  "urdu": [],
+  "hasUrduTranslation": false,
+  "scanned": false,
+  "images": [],
+  "sources": [
+    {
+      "label": "Duas.org — original recitation reference",
+      "url": "https://www.duas.org/mobile/ziyarat-imam-ali-shrine.html"
+    },
+    {
+      "label": "Ziaraat.Com — text edition and translations",
+      "url": "https://www.ziyaraat.net/ur/ziarat#imam-ali.133"
+    },
+    {
+      "label": "Ziaraat.Com — browse the Ziyarat collection",
+      "url": "https://www.ziyaraat.net/ur/ziarat"
+    }
+  ],
+  "urduGuidance": "یہ صفحہ زیارت امام علی علیہ السلام کے لیے ہے۔ عربی متن اصل قراءت کے لیے ہے اور رومن تلفظ پڑھنے میں مدد دیتا ہے۔ انگریزی معنی الگ درج ہیں۔ ماخذ اور دوسری زیارات کے روابط صفحے کے آخر میں دیے گئے ہیں۔",
+  "translationNote": "Arabic text, transliteration and available translations are reproduced with credit to Ziaraat.Com and the original sources it identifies. Meanings are reading aids; the Arabic remains the reference text.",
+  "related": [
+    {
+      "title": "Ziyarat of Prophet Muhammad",
+      "path": "/ziyarat/ziyarat-prophet-muhammad"
+    },
+    {
+      "title": "Ziyarat of Lady Fatima Zahra",
+      "path": "/ziyarat/ziyarat-fatima-zahra"
+    },
+    {
+      "title": "Ziyarat of Imam Hasan",
+      "path": "/ziyarat/ziyarat-imam-hasan"
+    }
+  ]
+}

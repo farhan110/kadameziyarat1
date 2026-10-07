@@ -1,0 +1,55 @@
+{
+  "slug": "ziyarat-thursday",
+  "title": "Thursday Ziyarat",
+  "urduTitle": "جمعرات کی زیارت",
+  "group": "Weekday Ziyarats",
+  "aliases": "Thursday جمعرات",
+  "edition": "",
+  "path": "/ziyarat/ziyarat-thursday",
+  "intro": "The weekday visitation for Imam Hasan Askari, associated with Thursday.",
+  "description": "Read Thursday Ziyarat with arabic, transliteration, english and urdu meanings, recitation context and source references.",
+  "blocks": [
+    {
+      "kind": "text",
+      "arabic": "جمعرات کے دن امام حسن عسکریؑ کی زیارت\n\nالسَّلامُ عَلَيْكَ يا وَلِيَّ اللهِ \nاَلسَّلامُ عَلَيْكَ يا حُجَّةَ اللهِ وَ خالِصَتَهُ \nاَلسَّلامُ عَلَيْكَ يا اِمامَ الْمُؤْمِنِينَ وَ وارِثَ الْمُرْسَلِينَ وَ حُجَّةَ رَبِّ الْعالَمِينَ \nصَلَّى اللهُ عَلَيْكَ وَ عَلى الِ بَيْتِكَ الطَّيِّبِينَ الطّاهِرِينَ \nيا مَوْلايَ يا اَبا مُحَمَّد الْحَسَنَ بْنَ عَلِيّ \nاَنا مَوْلىً لَكَ وَلِالِ بَيْتِكَ وَ هَذا يَوْمُكَ وَهُوَ يَوْمُ الْخَمِيسِ\nوَ اَنا ضَيْفُكَ فِيهِ وَ مُسْتَجِيرٌ بِكَ فِيهِ فَاَحْسِنْ ضِيافَتى وَ اِجارَتى \nبِحَقِّ الِ بَيْتِكَ الطَّيِّبِينَ الطّاهِرِينَ-",
+      "transliteration": "ALLAAHUMMA S’ALLI A’LAA MUH’AMMADIN’W WA AALI MUH’AMMAD\n\nBISMILLAAHIR- RAHMAANIR-RAH’EEM\n\nASSALAAMU A’LAYKA YAA WALIYYAALLAAH\n\nASSALAAMU A’LAYKA YAA H’JJATALLAAH\nWA KHAALIS’ATAHOO\n\nASSALAAMU A’LAYKA YAA IMAAMUL MOO-MINEENA\nWA WAARITHAL MURSA-LEENA\nWA H’UJJATA RABBIL A’ALAMEEN\n\nS’ALLALLAAHU A’LAYKA\nWA A’LAA AALI BAYTIKAT’ T’AYYIBEENAT’ T’AAHIREEN\n\nYA MAWLAAYA YAA ABAA MUH’AMMAD H’ASANABNA A’LIYY\n\nANAA MAWLAN LAKA\nWA LI-AALI BAYTIKA\nWA HAAD’AA YAWMUKA\nWA HUWA YAWMUL KHAMEES\nWA ANAA Z”AYFUKA FEEHI\nWA MUSTAJEERUN BIKA FEEHEE\nFA-AH’SIN Z”IYAAFATEE\nWA IJAARATEE BI-H’AQQI\nAALI BAYTIKAT’ T’AYYIBEENAT’ T’AAHIREEN\n\nALLAHUMMA S’ALLI A’LAA MUH’AMMADIN’W WA AALI MUH’AMMAD",
+      "english": "Ziarat of Imam Hasan Askari(as) on Thursday\n\nO Allah! Send blessings on Muhammad and on the children of Muhammad.\n\nIn th name of Allah, the Beneficent the Merciful.\n\nPeace be on you, O intimate friend of Allah\n\nPeace be on you, O the decisive argument of Allah,\nsincerely attached to Him\n\nPeace be on you, O Guide Leader of the faithfuls\ninheritor of the Messengers,\nclear convincing sign of the Lord of the worlds,\n\nblessings of Allah be on you,\nand on your pure and pious children\n\nO Mawlaa, O Abaa Muhammad, Hasan son of Ali,\n\nI am your obedient follower\nand of your children,\ntoday is your day,\nThursday,\nI come near you today\nseek your close friendship\nreceive me with open arms,\nand keep me close,\nfor the sake of your pure and pious children.\n\nO Allah! Send blessings on Muhammad and on the children of Muhammad."
+    }
+  ],
+  "urdu": [
+    "جمعرات کے دن امام حسن عسکریؑ کی زیارت\n\nسلام ہو آپ پر اے اللہ کے ولی، \nسلام ہو آپ پر اے اللہ کی حجت اور اس کے مخلص بندے، \nسلام ہو آپ پر اے مومنین کے امام اور رسولوں کے وارث، \nاور جہانوں کے رب کی حجت، \nاللہ کی رحمتیں ہوں آپ پر اور آپ کے پاک و پاکیزہ اہل بیت پر، \nیا مولا، اے ابا محمد حسن بن علی، \nمیں آپ کا اور آپ کے اہل بیت کا غلام ہوں، \nاور یہ آپ کا دن ہے اور یہ جمعرات کا دن ہے\nاور میں اس میں آپ کا مہمان ہوں اور آپ کی پناہ میں ہوں، \nپس میری بہترین مہمان نوازی کیجیے اور مجھے پناہ دیجیے، \nآپ کے پاک و پاکیزہ اہل بیت کے واسطے سے جو کہ طاہرین ہیں۔"
+  ],
+  "hasUrduTranslation": true,
+  "scanned": false,
+  "images": [],
+  "sources": [
+    {
+      "label": "Ziaraat.Com — original recitation reference",
+      "url": "https://www.ziaraat.com/z_weekthue.php"
+    },
+    {
+      "label": "Ziaraat.Com — text edition and translations",
+      "url": "https://www.ziyaraat.net/ur/ziarat#imam-hasan-askari.59"
+    },
+    {
+      "label": "Ziaraat.Com — browse the Ziyarat collection",
+      "url": "https://www.ziyaraat.net/ur/ziarat"
+    }
+  ],
+  "urduGuidance": "یہ صفحہ جمعرات کی زیارت کے لیے ہے۔ عربی متن اصل قراءت کے لیے ہے اور رومن تلفظ پڑھنے میں مدد دیتا ہے۔ انگریزی معنی الگ درج ہیں۔ ماخذ اور دوسری زیارات کے روابط صفحے کے آخر میں دیے گئے ہیں۔",
+  "translationNote": "Arabic text, transliteration and available translations are reproduced with credit to Ziaraat.Com and the original sources it identifies. Meanings are reading aids; the Arabic remains the reference text.",
+  "related": [
+    {
+      "title": "Saturday Ziyarat",
+      "path": "/ziyarat/ziyarat-saturday"
+    },
+    {
+      "title": "Sunday Ziyarat",
+      "path": "/ziyarat/ziyarat-sunday"
+    },
+    {
+      "title": "Monday Ziyarat",
+      "path": "/ziyarat/ziyarat-monday"
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "slug": "ziyarat-friday",
+  "title": "Friday Ziyarat",
+  "urduTitle": "جمعہ کی زیارت",
+  "group": "Weekday Ziyarats",
+  "aliases": "Friday جمعہ",
+  "edition": "",
+  "path": "/ziyarat/ziyarat-friday",
+  "intro": "The weekday visitation for Imam Mahdi, associated with Friday.",
+  "description": "Read Friday Ziyarat with arabic, transliteration, english and urdu meanings, recitation context and source references.",
+  "blocks": [
+    {
+      "kind": "note",
+      "text": "Ziarat of Imam Mahdi (ajtfs) - recommended to be recited on Fridays"
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا حُجَّةَ ٱللَّهِ فِي أَرْضِهِ",
+      "transliteration": "alssalamu `alayka ya hujjata allahi fi ardihi",
+      "english": "Peace be upon you, O argument of Allah in His lands!"
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا عَيْنَ ٱللَّهِ فِي خَلْقِهِ",
+      "transliteration": "alssalamu `alayka ya `ayna allahi fi khalqihi",
+      "english": "Peace be upon you, O sight of Allah on His creatures!"
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا نُورَ ٱللَّهِ",
+      "transliteration": "alssalamu `alayka ya nura allahi",
+      "english": "Peace be upon you, O light of Allah"
+    },
+    {
+      "kind": "text",
+      "arabic": "ٱلَّذِي يَهْتَدِي بِهِ ٱلْمُهْتَدُونَ",
+      "transliteration": "alladhi yahtadi bihi almuhtaduna",
+      "english": "by which those who have been guided [to the true guidance] are guided"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَيُفَرَّجُ بِهِ عَنِ ٱلْمُؤْمِنِينَ",
+      "transliteration": "wa yufarraju bihi `an almu'minina",
+      "english": "and by which the believers are relieved!"
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ أَيُّهَا ٱلْمُهَذَّبُ ٱلْخَائِفُ",
+      "transliteration": "alssalamu `alayka ayyuha almuhadhdhabu alkha'ifu",
+      "english": "Peace be upon you, O polite and fearful!"
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ أَيُّهَا ٱلْوَلِيُّ ٱلنَّاصِحُ",
+      "transliteration": "alssalamu `alayka ayyuha alwaliyyu alnnasihu",
+      "english": "Peace be upon you, O sincere patron!"
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا سَفِينَةَ ٱلنَّجَاةِ",
+      "transliteration": "alssalamu `alayka ya safinata alnnajati",
+      "english": "Peace be upon you, O ark of salvation!"
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا عَيْنَ ٱلْحَيَاةِ",
+      "transliteration": "alssalamu `alayka ya `ayna alhayati",
+      "english": "Peace be upon you, O essence of life!"
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ",
+      "transliteration": "alssalamu `alayka",
+      "english": "Peace be upon you."
+    },
+    {
+      "kind": "text",
+      "arabic": "صَلَّىٰ ٱللَّهُ عَلَيْكَ",
+      "transliteration": "salla allahu `alayka",
+      "english": "May Allah send blessings to you"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَعَلَىٰ آلِ بَيْتِكَ",
+      "transliteration": "wa `ala ali baytika",
+      "english": "and upon your Household,"
+    },
+    {
+      "kind": "text",
+      "arabic": "ٱلطَّيِّبينَ ٱلطَّاهِرِينَ",
+      "transliteration": "alttayyibina alttahirina",
+      "english": "the pure and immaculate."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ",
+      "transliteration": "alssalamu `alayka",
+      "english": "Peace be upon you."
+    },
+    {
+      "kind": "text",
+      "arabic": "عَجَّلَ ٱللَّهُ لَكَ مَا وَعَدَكَ",
+      "transliteration": "`ajjala allahu laka ma wa`adaka",
+      "english": "May Allah hasten that which He has promised you;"
+    },
+    {
+      "kind": "text",
+      "arabic": "مِنَ ٱلنَّصْرِ وَظُهُورِ ٱلأَمْرِ",
+      "transliteration": "mina alnnasri wa zuhuri al-amri",
+      "english": "namely, victory and prevalence of your authority."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلاَمُ عَلَيْكَ يَا مَوْلاَيَ",
+      "transliteration": "alssalamu `alayka ya mawlaya",
+      "english": "Peace be upon you, O my master."
+    },
+    {
+      "kind": "text",
+      "arabic": "أَنَا مَوْلاَكَ",
+      "transliteration": "ana mawlaka",
+      "english": "I am a servant of you"
+    },
+    {
+      "kind": "text",
+      "arabic": "عَارِفٌ بِأُولاَكَ وَأُخْرَاكَ",
+      "transliteration": "`arifun bi'ulaka wa ukhraka",
+      "english": "and I recognize the first and the last of your affair."
+    },
+    {
+      "kind": "text",
+      "arabic": "أَتَقَرَّبُ إِلَىٰ ٱللَّهِ تَعَالَىٰ بِكَ وَبِآلِ بَيْتِكَ",
+      "transliteration": "ataqarrabu ila allahi ta`ala bika wa bi-ali baytika",
+      "english": "I seek nearness to Allah, the Exalted, through your Household and you"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَأَنْتَظِرُ ظُهُورَكَ وَظُهُورَ ٱلْحَقِّ عَلَىٰ يَدَيْكَ",
+      "transliteration": "wa antaziru zuhuraka wa zuhura alhaqqi `ala yadayka",
+      "english": "and I am expecting your advent and the prevalence of the truth at your hands."
+    },
+    {
+      "kind": "text",
+      "arabic": "وَأَسْأَلُ ٱللَّهَ أَنْ يُصَلِّيَ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
+      "transliteration": "wa as'alu allaha an yusalliya `ala muhammadin wa ali muhammadin",
+      "english": "And I beseech Allah to send blessings to Muhammad and the Household of Muhammad,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَأَنْ يَجْعَلَنِي مِنَ ٱلمُنْتَظِرِينَ لَكَ",
+      "transliteration": "wa an yaj`alani mina almuntazirina laka",
+      "english": "and to include me with those who are expecting you,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلتَّابِعِينَ وَٱلنَّاصِرِينَ لَكَ عَلَىٰ أَعْدَائِكَ",
+      "transliteration": "walttabi`ina walnnasirina laka `ala a`da'ika",
+      "english": "those who follow you and support you against your enemies,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلْمُسْتَشْهَدِينَ بَيْنَ يَدَيْكَ فِي جُمْلَةِ أَوْلِيَائِكَ",
+      "transliteration": "walmustash-hadina bayna yadayka fi jumlati awliya'ika",
+      "english": "and those who will be martyred in front of you in the group of your loyalists."
+    },
+    {
+      "kind": "text",
+      "arabic": "يَا مَوْلاَيَ يَا صَاحِبَ ٱلزَّمَانِ",
+      "transliteration": "ya mawlaya ya sahiba alzzamani",
+      "english": "O my master, O Patron of the Age!"
+    },
+    {
+      "kind": "text",
+      "arabic": "صَلَوَاتُ ٱللَّهِ عَلَيْكَ",
+      "transliteration": "salawatu allahi `alayka",
+      "english": "May Allah’s blessings be upon you"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَعَلَىٰ آلِ بَيْتِكَ",
+      "transliteration": "wa `ala ali baytika",
+      "english": "and upon your Household."
+    },
+    {
+      "kind": "text",
+      "arabic": "هٰذَا يَوْمُ ٱلْجُمُعَةِ",
+      "transliteration": "hadha yawmu aljumu`ati",
+      "english": "Today is Friday,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَهُوَ يَوْمُكَ ٱلْمُتَوَقَّعُ فِيهِ ظُهُورُكَ",
+      "transliteration": "wa huwa yawmuka almutawaqqa`u fihi zuhuruka",
+      "english": "which is your day on which your advent is expected"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱلْفَرَجُ فِيهِ لِلْمُؤْمِنِينَ عَلَىٰ يَدَيْكَ",
+      "transliteration": "walfaraju fihi lilmu'minina `ala yadayka",
+      "english": "to bring about relief to the believers at your hands,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَقَتْلُ ٱلْكَافِرِينَ بِسَيْفِكَ",
+      "transliteration": "wa qatlu alkafirina bisayfika",
+      "english": "and killing of the disbelievers with your sword."
+    },
+    {
+      "kind": "text",
+      "arabic": "وَأَنَا يَا مَوْلاَيَ فِيهِ ضَيْفُكَ وَجَارُكَ",
+      "transliteration": "wa ana ya mawlaya fihi dayfuka wa jaruka",
+      "english": "On this day, O my master, I am your guest and in your vicinity"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَأَنْتَ يَا مَوْلاَيَ كَرِيمٌ مِنْ أَوْلاَدِ ٱلْكِرَامِ",
+      "transliteration": "wa anta ya mawlaya karimun min awladi alkirami",
+      "english": "and you, my master, are generous and the descendant of the generous people,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَمَاْمُورٌ بِٱلضِّيَافَةِ وَٱلإِجَارَةِ",
+      "transliteration": "wa ma'murun bilddiyafati wal-ijarati",
+      "english": "and you are commanded to receive your guests and neighbors hospitably;"
+    },
+    {
+      "kind": "text",
+      "arabic": "فَأَضِفْنِي وَأَجِرْنِي",
+      "transliteration": "fa-adifni wa ajirni",
+      "english": "so, receive me as your guest and neighbor."
+    },
+    {
+      "kind": "text",
+      "arabic": "صَلَوَاتُ ٱللَّهِ عَلَيْكَ",
+      "transliteration": "salawatu allahi `alayka",
+      "english": "May Allah’s blessings be upon you"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَعَلىٰ أَهْلِ بَيْتِكَ ٱلطَّاهِرينَ",
+      "transliteration": "wa `ala ahli baytika alttahirina",
+      "english": "and upon your Household, the immaculate."
+    },
+    {
+      "kind": "note",
+      "text": "Reference: Sayyid Ibn Tawus"
+    }
+  ],
+  "urdu": [
+    "جمعہ کے دن امام زمانہؑ کی زیارت\n\nسلام ہو آپ پر اے زمین پر اللہ کی حجت، \nسلام ہو آپ پر اے مخلوقات میں اللہ کی آنکھ (نگران)، \nسلام ہو آپ پر اے اللہ کے وہ نور جس کے ذریعے ہدایت پانے والے ہدایت پاتے ہیں \nاور جس کے ذریعے مومنین کی مشکل کشائی کی جاتی ہے، \nسلام ہو آپ پر اے پاکیزہ صفت اور (خدا سے) خوف رکھنے والے،\nسلام ہو آپ پر اے خیر خواہ سرپرست، \nسلام ہو آپ پر اے نجات کی کشتی، \nسلام ہو آپ پر اے زندگی کے چشمے، \nسلام ہو آپ پر، اللہ کی رحمتیں ہوں آپ پر اور آپ کے پاک و پاکیزہ اہل بیت پر، \nسلام ہو آپ پر، اللہ جلد فرمائے آپ کے لیے اس نصرت اور ظہورِ امر کو \nجس کا اس نے آپ سے وعدہ کیا ہے،  \nسلام ہو آپ پر اے میرے مولا! \nمیں آپ کا چاہنے والا ہوں اور آپ کے اول و آخر کی معرفت رکھنے والا ہوں،\nمیں آپ کے اور آپ کے اہل بیت کے وسیلے سے اللہ تعالیٰ کا قرب حاصل کرتا ہوں، \nاور آپ کے ظہور کا اور آپ کے ہاتھوں حق کے آشکار ہونے کا انتظار کرتا ہوں، \nاور میں اللہ سے سوال کرتا ہوں کہ وہ محمد اور آلِ محمد پر درود نازل فرمائے، \nاور مجھے آپ کا انتظار کرنے والوں، آپ کی پیروی کرنے والوں \nاور آپ کے دشمنوں کے خلاف آپ کا ساتھ دینے والوں میں قرار دے، \nاور آپ کے حضور آپ کے دوستوں کے زمرے میں جامِ شہادت نوش کرنے والوں میں شامل کرے،\nاے میرے مولا! اے صاحبِ زماں!\nاللہ کی رحمتیں ہوں آپ پر اور آپ کے اہل بیت پر۔ \nیہ جمعہ کا دن ہے اور یہ آپ کا دن ہے جس میں آپ کے ظہور کی امید کی جاتی ہے، \nاور اس میں آپ کے ہاتھوں مومنین کے لیے کشائش (فرج) \nاور آپ کی تلوار سے کافروں کی ہلاکت متوقع ہے۔ \nاور اے میرے مولا! میں اس دن میں آپ کا مہمان اور آپ کا ہمسایہ (پناہ گزین) ہوں، \nاور آپ اے میرے مولا! سخیوں کی اولاد میں سے ایک عظیم سخی ہیں، \nاور آپ کو مہمان نوازی کرنے اور پناہ دینے کا حکم دیا گیا ہے، \nپس میری مہمان نوازی فرمائیے اور مجھے پناہ دیجیے، \nاللہ کی رحمتیں ہوں آپ پر اور آپ کے پاکیزہ اہل بیت پر۔"
+  ],
+  "hasUrduTranslation": true,
+  "scanned": false,
+  "images": [],
+  "sources": [
+    {
+      "label": "Duas.org — original recitation reference",
+      "url": "https://www.duas.org/ziyarat-imam-mahdi-friday.html"
+    },
+    {
+      "label": "Ziaraat.Com — text edition and translations",
+      "url": "https://www.ziyaraat.net/ur/ziarat#imam-mahdi.74"
+    },
+    {
+      "label": "Ziaraat.Com — browse the Ziyarat collection",
+      "url": "https://www.ziyaraat.net/ur/ziarat"
+    }
+  ],
+  "urduGuidance": "یہ صفحہ جمعہ کی زیارت کے لیے ہے۔ عربی متن اصل قراءت کے لیے ہے اور رومن تلفظ پڑھنے میں مدد دیتا ہے۔ انگریزی معنی الگ درج ہیں۔ ماخذ اور دوسری زیارات کے روابط صفحے کے آخر میں دیے گئے ہیں۔",
+  "translationNote": "Arabic text, transliteration and available translations are reproduced with credit to Ziaraat.Com and the original sources it identifies. Meanings are reading aids; the Arabic remains the reference text.",
+  "related": [
+    {
+      "title": "Saturday Ziyarat",
+      "path": "/ziyarat/ziyarat-saturday"
+    },
+    {
+      "title": "Sunday Ziyarat",
+      "path": "/ziyarat/ziyarat-sunday"
+    },
+    {
+      "title": "Monday Ziyarat",
+      "path": "/ziyarat/ziyarat-monday"
+    }
+  ]
+}

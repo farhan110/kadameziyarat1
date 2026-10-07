@@ -1,0 +1,137 @@
+{
+  "slug": "prayer-after-ziyarat",
+  "title": "Prayer After Ziyarat Waritha",
+  "urduTitle": "دعا بعد زیارت وارثہ",
+  "group": "Ziyarat Etiquette & Prayers",
+  "aliases": "",
+  "edition": "",
+  "path": "/ziyarat/prayer-after-ziyarat",
+  "intro": "The supplication following Ziyarat Waritha in the selected source edition, presented separately from the main visitation.",
+  "description": "Read Prayer After Ziyarat Waritha with arabic text, transliteration and english meaning, recitation context and source references.",
+  "blocks": [
+    {
+      "kind": "heading",
+      "text": "Dua after Ziyarat Warith"
+    },
+    {
+      "kind": "text",
+      "arabic": "اَللَّهُمَّ إِنِّي صَلَّيْتُ وَرَكَعْتُ وَسَجَدْتُ",
+      "transliteration": "allahumma inni sallaytu wa raka`tu wa sajadtu",
+      "english": "O Allah, I have offered a prayer, genuflected, and prostrated myself"
+    },
+    {
+      "kind": "text",
+      "arabic": "لَكَ وَحْدَكَ لاَ شَرِيكَ لَكَ",
+      "transliteration": "laka wahdaka la sharika laka",
+      "english": "for Your sake purely without setting any partner with You"
+    },
+    {
+      "kind": "text",
+      "arabic": "لِأَنَّ ٱلصَّلاَةَ وَٱلرُّكُوعَ وَٱلسُّجُودَ",
+      "transliteration": "li'anna alssalata walrruku`a walssujuda",
+      "english": "since all prayers, genuflection, and prostration"
+    },
+    {
+      "kind": "text",
+      "arabic": "لاَ تَكُونُ إِلاَّ لَكَ",
+      "transliteration": "la takunu illa laka",
+      "english": "suit none except You."
+    },
+    {
+      "kind": "text",
+      "arabic": "لِأَنَّكَ أَنْتَ ٱللَّهُ لاَ إِلٰهَ إِلاَّ أَنْتَ",
+      "transliteration": "li'annaka anta allahu la ilaha illa anta",
+      "english": "Because You are Allah, there in n0 god save You."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَآلِ مُحَمَّدٍ",
+      "transliteration": "allahumma salli `ala muhammadin wa ali muhammadin",
+      "english": "O Allah, (please) send blessings on Muhammad and the Household of Muhammad,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَأَبْلِغْهُمْ عَنِّي أَفْضَلَ ٱلسَّلاَمِ وَٱلتَّحِيَّةِ",
+      "transliteration": "wa ablighhum `anni afdala alssalami walttahiyyati",
+      "english": "and convey to them my best greetings and compliments"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَٱرْدُدْ عَلَيَّ مِنْهُمُ ٱلسَّلاَمَ",
+      "transliteration": "wardud `alayya minhum alssalama",
+      "english": "and convey to me their replies."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَللَّهُمَّ وَهَاتَانِ ٱلرَّكْعَتَانِ",
+      "transliteration": "allahumma wa hatani alrrak`atani",
+      "english": "O Allah, these two units of prayer"
+    },
+    {
+      "kind": "text",
+      "arabic": "هَدِيَّةٌ مِنِّي إِلَىٰ مَوْلاَيَ",
+      "transliteration": "hadiyyatun minni ila mawlaya",
+      "english": "are present from me to my master"
+    },
+    {
+      "kind": "text",
+      "arabic": "ٱلْحُسَيْنِ بْنِ عَلِيِّ عَلَيْهِمَا ٱلسَّلاَمُ",
+      "transliteration": "alhusayni bni `aliyyin `alayhima alssalamu",
+      "english": "al-Husayn the son of `Ali, peace be upon both of them."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَللَّهُمَّ صَلِّ عَلَىٰ مُحَمَّدٍ وَعَلَيْهِ",
+      "transliteration": "allahumma salli `ala muhammadin wa `alayhi",
+      "english": "O Allah, send blessings on Muhammad and on him,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَتَقَبَّلْ مِنِّي وَأْجُرْنِي عَلَىٰ ذٰلِكَ",
+      "transliteration": "wa taqabbal minni wa'jurni `ala dhalika",
+      "english": "accept my effort, and reward me for it"
+    },
+    {
+      "kind": "text",
+      "arabic": "بِأَفْضَلِ أَمَلِي وَرَجَائِي فِيكَ",
+      "transliteration": "bi'afdali amali wa raja'i fika",
+      "english": "in the best rewarding that I anticipate and hope from You"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَفِي وَلِيِّكَ يَا وَلِيَّ ٱلْمُؤْمِنِينَ",
+      "transliteration": "wa fi waliyyika ya waliyya almu'minina",
+      "english": "and from Your saint, O Guardian of the faithful!"
+    }
+  ],
+  "urdu": [],
+  "hasUrduTranslation": false,
+  "scanned": false,
+  "images": [],
+  "sources": [
+    {
+      "label": "Duas.org — original recitation reference",
+      "url": "https://www.duas.org/ziyarat-waritha-imam-husain.html"
+    },
+    {
+      "label": "Ziaraat.Com — text edition and translations",
+      "url": "https://www.ziyaraat.net/ur/ziarat#imam-hussain.84"
+    },
+    {
+      "label": "Ziaraat.Com — browse the Ziyarat collection",
+      "url": "https://www.ziyaraat.net/ur/ziarat"
+    }
+  ],
+  "urduGuidance": "یہ صفحہ دعا بعد زیارت وارثہ کے لیے ہے۔ عربی متن اصل قراءت کے لیے ہے اور رومن تلفظ پڑھنے میں مدد دیتا ہے۔ انگریزی معنی الگ درج ہیں۔ ماخذ اور دوسری زیارات کے روابط صفحے کے آخر میں دیے گئے ہیں۔",
+  "translationNote": "Arabic text, transliteration and available translations are reproduced with credit to Ziaraat.Com and the original sources it identifies. Meanings are reading aids; the Arabic remains the reference text.",
+  "related": [
+    {
+      "title": "Izn Dukhul: Permission to Enter a Shrine",
+      "path": "/ziyarat/izn-dukhul"
+    },
+    {
+      "title": "Farewell Ziyarat: Wida Recitations",
+      "path": "/ziyarat/farewell-ziyarat"
+    }
+  ]
+}

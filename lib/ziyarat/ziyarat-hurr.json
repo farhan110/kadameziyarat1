@@ -1,0 +1,57 @@
+{
+  "slug": "ziyarat-hurr",
+  "title": "Ziyarat of Hurr ibn Yazid",
+  "urduTitle": "زیارت حر بن یزید",
+  "group": "Ahlul Bayt & Companions",
+  "aliases": "Hur Horr",
+  "edition": "",
+  "path": "/ziyarat/ziyarat-hurr",
+  "intro": "The visitation of Hurr, who joined Imam Husayn at Karbala, preserved in the source’s Arabic and Urdu scanned edition.",
+  "description": "Read Ziyarat of Hurr ibn Yazid with arabic and urdu scanned text, recitation context and source references.",
+  "blocks": [],
+  "urdu": [],
+  "hasUrduTranslation": false,
+  "scanned": true,
+  "images": [
+    {
+      "url": "https://www.ziyaraat.net/images/ziarat/z_hur01.gif",
+      "width": 400,
+      "height": 750
+    },
+    {
+      "url": "https://www.ziyaraat.net/images/ziarat/z_hur02.gif",
+      "width": 400,
+      "height": 716
+    }
+  ],
+  "sources": [
+    {
+      "label": "Ziaraat.Com — original recitation reference",
+      "url": "https://www.ziaraat.com/karhur03.php"
+    },
+    {
+      "label": "Ziaraat.Com — text edition and translations",
+      "url": "https://www.ziyaraat.net/ur/ziarat#z23.42"
+    },
+    {
+      "label": "Ziaraat.Com — browse the Ziyarat collection",
+      "url": "https://www.ziyaraat.net/ur/ziarat"
+    }
+  ],
+  "urduGuidance": "یہ صفحہ زیارت حر بن یزید کے لیے ہے۔ عربی متن اصل قراءت کے لیے ہے اور رومن تلفظ پڑھنے میں مدد دیتا ہے۔ انگریزی معنی الگ درج ہیں۔ ماخذ اور دوسری زیارات کے روابط صفحے کے آخر میں دیے گئے ہیں۔",
+  "translationNote": "Arabic text, transliteration and available translations are reproduced with credit to Ziaraat.Com and the original sources it identifies. Meanings are reading aids; the Arabic remains the reference text.",
+  "related": [
+    {
+      "title": "Ziyarat of Hazrat Abbas",
+      "path": "/ziyarat/ziyarat-hazrat-abbas"
+    },
+    {
+      "title": "Ziyarat of Ali Akbar",
+      "path": "/ziyarat/ziyarat-ali-akbar"
+    },
+    {
+      "title": "Ziyarat of Muslim ibn Aqil & Hani ibn Urwa",
+      "path": "/ziyarat/ziyarat-muslim-ibn-aqil"
+    }
+  ]
+}

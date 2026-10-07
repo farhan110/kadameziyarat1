@@ -1,5 +1,6 @@
 import occasionPages from "@/lib/occasion-pages.json";
 import devotionalContent from "@/lib/devotional-content.json";
+import ziyaratIndex from "@/lib/ziyarat-index.json";
 
 export default function sitemap() {
   const base = "https://www.kadameziyarat.com";
@@ -41,5 +42,11 @@ export default function sitemap() {
     changeFrequency: "monthly",
     priority: 0.6,
   }));
-  return [...existingEntries, ...additions, ...devotionalEntries];
+  const ziyaratEntries = [{ path: "/ziyarat" }, ...ziyaratIndex].map((page) => ({
+    url: `${base}${page.path}`,
+    lastModified: new Date("2026-10-07"),
+    changeFrequency: "monthly",
+    priority: 0.6,
+  }));
+  return [...existingEntries, ...additions, ...devotionalEntries, ...ziyaratEntries];
 }

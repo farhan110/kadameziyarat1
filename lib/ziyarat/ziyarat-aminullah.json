@@ -1,0 +1,475 @@
+{
+  "slug": "ziyarat-aminullah",
+  "title": "Ziyarat Aminullah",
+  "urduTitle": "زیارت امین اللہ",
+  "group": "Major Ziyarats",
+  "aliases": "Aminallah Ameenullah Ameenallah",
+  "edition": "",
+  "path": "/ziyarat/ziyarat-aminullah",
+  "intro": "A visitation of Imam Ali followed by a supplication for a tranquil soul, gratitude and love of Allah.",
+  "description": "Read Ziyarat Aminullah with arabic, transliteration, english and urdu meanings, recitation context and source references.",
+  "blocks": [
+    {
+      "kind": "heading",
+      "text": "Ziyarat Ameenallah"
+    },
+    {
+      "kind": "note",
+      "text": "Allama Majlisi (R.A.) considers this Ziyarat as the best of all Ziyarats in terms of text and the chain of authority; he adds: it is appropriate to recite his Ziyarat in all the holy shrines; just as it has been narrated with reliable authenticity by Jabir, from Imam Baqir (A.S.),\nImam Sajjad (A.S.) went for the Ziyarat of Imam Ali (A.S.), stopped near his grave, wept, and then recited it:"
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلَامُ عَلَیْكَ یَا اَمِیْنَ اللّٰهِ فِیْ اَرْضِهٖ",
+      "transliteration": "alssalamu `alayka ya amina allahi fi ardihi",
+      "english": "Peace be upon you, O trustee of Allah on His lands"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَ حُجَّتَهٗ عَلٰی عِبَادِهٖ",
+      "transliteration": "wa hujjatahu `ala `ibadihi",
+      "english": "and argument of Allah against His servants."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلَامُ عَلَیْكَ یَا اَمِیْرَ الْمُؤْمِنِیْنَ",
+      "transliteration": "alssalamu `alayka ya amira almu'minina",
+      "english": "Peace be upon you, O Commander of the Faithful."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَشْهَدُ اَنَّكَ جَاهَدْتَ فِی اللّٰهِ حَقَّ جِهَادِهٖ",
+      "transliteration": "ashhadu annaka jahadta fi allahi haqqa jihadihi",
+      "english": "I bear witness that you strove for the sake of Allah as it ought to be striven,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَ عَمِلْتَ بِكِتَابِهٖ",
+      "transliteration": "wa `amilta bikitabihi",
+      "english": "acted upon His Book,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَ اتَّبَعْتَ سُنَنَ نَبِیِّهٖ",
+      "transliteration": "wattba`ta sunana nabiyyihi",
+      "english": "and followed the instructions of His Prophet,"
+    },
+    {
+      "kind": "text",
+      "arabic": "صَلَّی اللّٰهُ عَلَیْهِ وَ اٰلِهٖ",
+      "transliteration": "salla allahu `alayhi wa alihi",
+      "english": "peace of Allah be upon him and his Household,"
+    },
+    {
+      "kind": "text",
+      "arabic": "حَتّٰی دَعَاكَ اللّٰهُ اِلیٰ جِوَارِهٖ",
+      "transliteration": "hatta da`aka allahu ila jiwarihi",
+      "english": "until Allah called you to be in His vicinity."
+    },
+    {
+      "kind": "text",
+      "arabic": "فَقَبَضَكَ اِلَیْهِ بِاِخْتِیَارِهٖ",
+      "transliteration": "faqabadaka ilayhi bikhtiyarihi",
+      "english": "So, He grasped you to Him by His will"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَ اَلْزَمَ اَعْدَاۤئَكَ الْحُجَّۃَ",
+      "transliteration": "wa alzama a`da'aka alhujjata",
+      "english": "and put your enemies under the claim"
+    },
+    {
+      "kind": "text",
+      "arabic": "مَعَ مَالَكَ مِنَ الْحُجَجِ الْبَالِغَۃِ عَلٰی جَمِیْعِ خَلْقِهٖ",
+      "transliteration": "ma`a ma laka min alhujaji albalighati `ala jami`i khalqihi",
+      "english": "although you have inclusive claims against all of His creatures."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَللّٰهُمَّ فَاجْعَلْ نَفْسِیْ مُطْمَئِنَّۃً بِقَدَرِكَ",
+      "transliteration": "allahumma faj`al nafsi mutma'innatan biqadarika",
+      "english": "O Allah, (please do) cause my soul to be fully tranquil with Your decrees,"
+    },
+    {
+      "kind": "text",
+      "arabic": "رَاضِیَۃً بِقَضَاۤئِكَ",
+      "transliteration": "radiyatan biqada'ika",
+      "english": "satisfied with Your acts,"
+    },
+    {
+      "kind": "text",
+      "arabic": "مُوْلَعَۃً بِذِكْرِكَ وَ دُعَاۤئِكَ",
+      "transliteration": "mula`atan bidhikrika wa du`a'ika",
+      "english": "fond of mentioning and praying to You,"
+    },
+    {
+      "kind": "text",
+      "arabic": "مُحِبَّۃً لِصَفْوَۃِ اَوْلِیَاۤئِكَ",
+      "transliteration": "muhibbatan lisafwati awliya'ika",
+      "english": "bearing love for the choicest of Your intimate servants,"
+    },
+    {
+      "kind": "text",
+      "arabic": "مَحْبُوْبَۃً فِیْ اَرْضِكَ وَ سَمَاۤئِكَ",
+      "transliteration": "mahbubatan fi ardika wa sama'ika",
+      "english": "beloved in Your lands and heavens,"
+    },
+    {
+      "kind": "text",
+      "arabic": "صَابِرَۃًعَلٰی نُزُوُلِ بَلَاۤئِكَ",
+      "transliteration": "sabiratan `ala nuzuli bala'ika",
+      "english": "steadfast against the affliction of Your tribulations,"
+    },
+    {
+      "kind": "text",
+      "arabic": "شَاكِرَۃً لِفَوَاضِلِ نَعْمَاۤئِكَ",
+      "transliteration": "shakiratan lifawadili na`ma'ika",
+      "english": "thankful for Your graceful bounties,"
+    },
+    {
+      "kind": "text",
+      "arabic": "ذَاكِرَۃً لِسَوَابِغِ اٰلَاۤئِكَ",
+      "transliteration": "dhakiratan lisawabighi ala'ika",
+      "english": "always bearing in mind Your incessant gifts,"
+    },
+    {
+      "kind": "text",
+      "arabic": "مُشْتَاقَۃً اِلیٰ فَرْحَتِ لِقَاۤئِكَ",
+      "transliteration": "mushtaqatan ila farhati liqa'ika",
+      "english": "longing for the gladness of meeting You,"
+    },
+    {
+      "kind": "text",
+      "arabic": "مُتَزَوِّدَۃً التَّقْوٰی لِیَوْمِ جَزَاۤئِكَ",
+      "transliteration": "mutazawwidatan alttaqwa liyawmi jaza'ika",
+      "english": "supplied with piety for the day of Your rewarding,"
+    },
+    {
+      "kind": "text",
+      "arabic": "مُسْتَنَّۃً بِسُنَنِ اَوْلِیَاۤئِكَ",
+      "transliteration": "mustannatan bisunani awliya'ika",
+      "english": "pursuing the morals of Your intimate servants,"
+    },
+    {
+      "kind": "text",
+      "arabic": "مُفَارِقَۃً لِاَخْلَاقِ اَعْدَاۤئِكَ",
+      "transliteration": "mufariqatan li'akhlaqi a`da'ika",
+      "english": "quitting the conducts of Your enemies,"
+    },
+    {
+      "kind": "text",
+      "arabic": "مَشْغُوْلَۃً عَنِ الدُّنْیَا بِحَمْدِكَ وَ ثَنَاۤئِكَ۔",
+      "transliteration": "mashghulatan `an alddunya bihamdika wa thana'ika",
+      "english": "and distracted from this world by praising and thanking You."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَللّٰهُمَّ اِنَّ قُلُوْبَ الْمُخْبِتِیْنَ اِلَیْكَ وَالِهَۃٌ",
+      "transliteration": "allahumma inna quluba almukhbitina ilayka walihatun",
+      "english": "O Allah, the hearts of those humbling themselves to You are fascinated,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَ سُبُلَ الرَّاغِبِیْنَ اِلَیْكَ شَارِعَۃٌ",
+      "transliteration": "wa subula alrraghibina ilayka shari`atun",
+      "english": "the paths of those desiring for You are open,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَ اَعْلَامَ الْقَاصِدِیْنَ اِلَیْكَ وَاضِحَۃٌ",
+      "transliteration": "wa a`lama alqasidina ilayka wadihatun",
+      "english": "the sings of those directing to You are evident,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَ اَفْئِدَۃَ الْعَارِفِیْنَ مِنْكَ فَازِعَۃٌ",
+      "transliteration": "wa af'idata al`arifina minka fazi`atun",
+      "english": "the hearts of those having recognition of You are resorting to You,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَ اَصْوَاتَ الدَّاعِیْنَ اِلَیْكَ صَاعِدَۃٌ",
+      "transliteration": "wa aswata aldda`ina ilayka sa`idatun",
+      "english": "the voices of those beseeching You are mounting up to You,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَ اَبْوَابَ الْاِجَابَۃِ لَهُمْ مُفَتَّحَۃٌ",
+      "transliteration": "wa abwaba al-ijabati lahum mufattahatun",
+      "english": "the doors of responding to them are wide open,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَ دَعْوَۃَ مَنْ نَاجَاكَ مُسْتَجَابَۃٌ",
+      "transliteration": "wa da`wata man najaka mustajabatun",
+      "english": "the prayer of him who speaks to You confidentially is responded,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَ تَوْبَۃَ مَنْ اَنَابَ اِلَیْكَ مَقْبُوْلَۃٌ",
+      "transliteration": "wa tawbata man anaba ilayka maqbulatun",
+      "english": "the repentance of him who turns to You modestly is admitted,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَ عَبْرَۃَ مَنْ بَكٰی مِنْ خَوْفِكَ مَرْحُوْمَۃٌ",
+      "transliteration": "wa `abrata man baka min khawfika marhumatun",
+      "english": "the tear of him who weeps on account of fear from You is compassionated,"
+    },
+    {
+      "kind": "text",
+      "arabic": "و وَ الْاِغَاثَۃَ لِمَنِ اسْتَغَاثَ بِكَ مَوْجُوْدَۃٌ",
+      "transliteration": "wal-ighathata liman istaghatha bika mawjudatun",
+      "english": "the aid of him who seeks Your aid is available,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَ الْاِعَانَۃَ لِمَنِ اسْتَعَانَ بِكَ مَبْذُوْلَۃٌ",
+      "transliteration": "wal-i`anata liman ista`ana bika mabdhulatun",
+      "english": "the help of him who seeks Your help is obtainable,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَ عِدَاتِكَ لِعِبَادِكَ مُنْجَزَۃٌ",
+      "transliteration": "wa `idatika li`ibadika munjazatun",
+      "english": "Your promises to Your servants are fulfilled,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَ زَلَلَ مَنِ اسْتَقَالَكَ مُقَالَۃٌ",
+      "transliteration": "wa zalala man istaqalaka muqalatun",
+      "english": "the slips of him who implore You to excuse him are forgivable,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَ اَعْمَالَ الْعَامِلِیْنَ لَدَیْكَ مَحْفُوْظَۃٌ",
+      "transliteration": "wa a`mala al`amilina ladayka mahfuzatun",
+      "english": "the deeds of those who act for You are preserved,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَ اَرْزَاقَكَ اِلَی الْخَلَاۤئِقِ مِنْ لَّدُنْكَ نَازِلَۃٌ",
+      "transliteration": "wa arzaqaka ila alkhala'iqi min ladunka nazilatun",
+      "english": "Your sustenance to the creatures are descending from You,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَ عَوَاۤئِدَ الْمَزِیْدِ اِلَیْھِمْ وَاصِلَۃٌ",
+      "transliteration": "wa `awa'ida almazidi ilayhim wasilatun",
+      "english": "Your gifts for further conferrals are reaching them,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَ ذُنُوْبَ الْمُسْتَغْفِرِیْنَ مَغْفُوْرَۃٌ",
+      "transliteration": "wa dhunuba almustaghfirina maghfuratun",
+      "english": "the sins of those imploring Your forgiveness are forgiven,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَ حَوَاۤئِجِ خَلْقِكَ عِنْدَكَ مَقْضِیَّۃٌ",
+      "transliteration": "wa hawa'ija khalqika `indaka maqdiyyatun",
+      "english": "the requests of Your creatures are granted by You,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَ جَوَاۤئِزَ السَّاۤئِلِیْنَ عِنْدَكَ مُوَفَّرَۃٌ",
+      "transliteration": "wa jawa'iza alssa'ilina `indaka muwaffaratun",
+      "english": "the prizes of those begging You are offered,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَ عَوَاۤئِدَ الْمَزِیْدِ مُتَوَاْتِرَۃٌ",
+      "transliteration": "wa `awa'ida almazidi mutawatiratun",
+      "english": "Your gifts for further conferrals are uninterrupted,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَ مَوَاۤئِدَ الْمُسْتَطْعِمِیْنَ مُعَدَّۃٌ",
+      "transliteration": "wa mawa'ida almustat`imina mu`addatun",
+      "english": "the dining tables for those seeking Your feeding are prepared,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَ مَنَاهِلَ الظِّمَاۤئِ مُتْرَعَۃٌ",
+      "transliteration": "wa manahila alzzama'i mutra`atun",
+      "english": "and the springs of quenching their thirst are brimful."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَللّٰهُمَّ فَاسْتَجِبْ دُعَاۤئِیْ",
+      "transliteration": "allahumma fastajib du`a'i",
+      "english": "O Allah, (so) respond to my prayer,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَ اقْبَلْ ثَنَاۤئِیْ",
+      "transliteration": "waqbal thana'i",
+      "english": "accept my thanksgiving for You,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَ اجْمَعْ بَیْنِیْ وَ بَیْنَ اَوْلِیَاۤئِیْ",
+      "transliteration": "wajma` bayni wa bayna awliya'i",
+      "english": "and join me to my masters,"
+    },
+    {
+      "kind": "text",
+      "arabic": "بِحَقِّ مُحَمَّدٍ وَّ عَلِیٍّ",
+      "transliteration": "bihaqqi muhammadin wa `aliyyin",
+      "english": "[I beseech You] in the name of Muhammad, `Ali,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَ فَاطِمَۃَوَٱلْحَسَنِ وَٱلْحُسَيْنِ",
+      "transliteration": "wa fatimata walhasani walhusayni",
+      "english": "Fatimah, al-Hasan, and al-Husayn."
+    },
+    {
+      "kind": "text",
+      "arabic": "اِنَّكَ وَلِیُّ نَعْمَاۤئِیْ",
+      "transliteration": "innaka waliyyu na`ma'i",
+      "english": "You are verily the only source of my boons,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَ مُنْتَهٰی مُنَایَ",
+      "transliteration": "wa muntaha munaya",
+      "english": "the ultimate goal of my wishes,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَ غَایَۃُ رَجَاۤئِیْ فِیْ مُنْقَلَبِیْ وَ مَثْوَایَ۔",
+      "transliteration": "wa ghayatu raja'i fi munqalabi wa mathwaya",
+      "english": "and the target of my hope in my recourses and settlement."
+    },
+    {
+      "kind": "note",
+      "text": "Reference: 2] Mafateeh ul Jinaan: p. 698; Misbah ul Mutahajjid: p. 738; and in Misbah uz Zaaer: p. 474, and the Mazaar of Agha Jamaal Khwansaari: p. 98 with slight difference."
+    },
+    {
+      "kind": "note",
+      "text": "In the book of Kamil al-Ziyarat, the following statements are added to this form of Ziyarah:"
+    },
+    {
+      "kind": "text",
+      "arabic": "اَنْتَ اِلٰهِیْ وَ سَیَّدِیْ وَ مَوْلَایَ",
+      "transliteration": "anta ilahi wa sayyidi wa mawlaya",
+      "english": "You are verily my God, Master, and Lord."
+    },
+    {
+      "kind": "text",
+      "arabic": "اغْفِرْ لِاَوْلِیَاۤئِنَا",
+      "transliteration": "ighfir li-awliya'ina",
+      "english": "(Please) forgive our friend,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَ كُفَّ عَنَّا اَعْدَاۤئَنَا",
+      "transliteration": "wa kuffa `anna a`da'ana",
+      "english": "prevent our enemies against us,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَ اشْغَلْهُمْ عَنْ اَذَانَا",
+      "transliteration": "wa ashghilhum `an adhana",
+      "english": "distract them from harming us,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَ اَظْهِرْ كَلِمَۃَ الْحَقِّ",
+      "transliteration": "wa azhir kalimata alhaqqi",
+      "english": "give prevalence to the Word of Truth"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَ اجْعَلْهَا الْعُلْیَا",
+      "transliteration": "waj`alha al`ulya",
+      "english": "and make it the supreme,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَ اَدْحِضْ كَلِمَۃَ الْبَاطِلِ",
+      "transliteration": "wa adhid kalimata albatili",
+      "english": "and frustrate the word of falsehood"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَ اجْعَلْهَا السُّفْلیٰ",
+      "transliteration": "waj`alha alssufla",
+      "english": "and make it the lowliest."
+    },
+    {
+      "kind": "text",
+      "arabic": "اِنَّكَ عَلٰی كُلِّ شَیْئٍ قَدِیْرٌ۔",
+      "transliteration": "innaka `ala kulli shay'in qadirun",
+      "english": "Verily, You have power over all things."
+    },
+    {
+      "kind": "note",
+      "text": "Farewell Ziyarat to be Recited after Ziyaarat-e-Ameenullah (Whenever you depart from the shrine of the Holy Imams (a.s.))"
+    },
+    {
+      "kind": "text",
+      "arabic": "اَلسَّلَامُ عَلَيْكَ اَيُّهَا الْاِمَامُ وَ رَحْمَةُ اللهِ وَ بَرَكَاتُهٗ اَسْتَوْدِعُكَ اللهَ وَ عَلَيْكَ السَّلَامُ وَ رَحْمَةُ اللهِ وَ بَرَكَاتُہٗ.",
+      "transliteration": "assalaamo a’layka ayyohal emaamo wa rahmatul laahe wa barakaatohu as-tawde-o’kal laaha wa a’laykas salaamo wa rahmatul laahe wa barakaatoh.",
+      "english": "Peace be on you, O the Imam and mercy of Allah and His blessings, I entrust you with Allah and upon you is peace and mercy of Allah and His blessings."
+    },
+    {
+      "kind": "text",
+      "arabic": "اٰمَنَّا بِالرَّسُوْلِ وَ بِمَا جِئْتُمْ بِهٖ وَ دَعَوْتُمْ اِلَيْهِ.",
+      "transliteration": "aamannaa bir-rasoole wa bemaa jeatum behi da-a’wtum elayhe.",
+      "english": "We believe in the Messenger, and in whatever you have come with and called to."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَللّٰهُمَّ لَا تَجْعَلْهُ اٰخِرَ الْعَهْدِ مِنْ زِيَارَتِيْ وَلِيَّكَ.",
+      "transliteration": "allaahumma laa taj-a’lho aakheral a’hde min zeyaaratee waliyyaka.",
+      "english": "O Allah! Do not make this my last visitation of Your master."
+    },
+    {
+      "kind": "text",
+      "arabic": "اَللّٰهُمَّ لَا تَحْرِمْنِيْ ثَوَابَ مَزَارِهِ الَّذِيْ اَوْجَبْتَ لَهٗ وَ يَسِّرْ لَنَا الْعَوْدَ اِلَیْہِ اِنْ شَآءَ اللهُ تَعَالٰى‏.",
+      "transliteration": "allaahumma laa tahrimnee sawaaba mazaarehil lazee awjabta lahu wa yassir lanal a’wda elayhe in shaaa allaaho ta-a’alaa.",
+      "english": "O Allah! Do not deprive me of the reward of his shrine which You have decided for him and make our returning to visit it easy for us, if Allah – the High – wish."
+    }
+  ],
+  "urdu": [
+    "آپ پر سلام ہو، اے اللہ کی زمین میں اس کے امین اور اس کے بندوں پر اس کی حجت! آپ پر سلام ہو، اے امیر المؤمنین! میں گواہی دیتا ہوں کہ آپ نے اللہ کی راہ میں جہاد کا حق ادا کیا، اس کی کتاب پر عمل کیا اور اس کے نبی صلی اللہ علیہ وآلہ وسلم کی سنت کی پیروی کی، یہاں تک کہ اللہ نے آپ کو اپنے قرب میں بلایا۔ اس نے اپنی مرضی سے آپ کو اپنے پاس لے لیا اور آپ کے دشمنوں پر حجت قائم کر دی، جبکہ آپ کو اس کی تمام مخلوق پر کامل حجت حاصل ہے۔",
+    "اے اللہ! میری جان کو اپنی تقدیر پر مطمئن، اپنے فیصلے پر راضی، اپنے ذکر اور دعا کی مشتاق، اپنے برگزیدہ اولیا سے محبت کرنے والی، اپنی زمین اور آسمان میں محبوب، اپنی آزمائشوں کے نزول پر صابر، اپنی نعمتوں پر شکر گزار، اپنے مسلسل احسانات کو یاد رکھنے والی، اپنی ملاقات کی خوشی کی مشتاق، جزا کے دن کے لیے تقویٰ کا زادِ راہ لینے والی، اپنے اولیا کی روش کی پیروی کرنے والی، اپنے دشمنوں کی روش سے الگ اور اپنی حمد و ثنا میں مشغول ہو کر دنیا سے بے نیاز بنا دے۔",
+    "اے اللہ! تیری طرف عاجزی کرنے والوں کے دل تیرے شوق میں سرشار ہیں، تیری طرف رغبت کرنے والوں کے راستے کھلے ہیں، تیرا قصد کرنے والوں کے نشان واضح ہیں، تجھے پہچاننے والوں کے دل تیری پناہ میں ہیں، دعا کرنے والوں کی آوازیں تیری طرف بلند ہوتی ہیں، ان کے لیے قبولیت کے دروازے کھلے ہیں، تجھ سے راز و نیاز کرنے والے کی دعا قبول ہے، تیری طرف رجوع کرنے والے کی توبہ مقبول ہے، تیرے خوف میں رونے والے کے آنسو پر رحم ہوتا ہے، تجھ سے فریاد کرنے والے کی مدد موجود ہے، تجھ سے مدد مانگنے والے کو مدد ملتی ہے اور اپنے بندوں سے تیرے وعدے پورے ہوتے ہیں۔ تجھ سے درگزر مانگنے والے کی لغزشیں معاف ہوتی ہیں، تیرے لیے عمل کرنے والوں کے اعمال محفوظ ہیں، مخلوق کے رزق تیری طرف سے نازل ہوتے ہیں، مزید عطائیں ان تک پہنچتی ہیں، بخشش مانگنے والوں کے گناہ معاف ہوتے ہیں، مخلوق کی حاجتیں تیرے ہاں پوری ہوتی ہیں، مانگنے والوں کو عطائیں ملتی ہیں، تیرے مزید احسانات مسلسل جاری ہیں، تجھ سے رزق چاہنے والوں کے لیے دسترخوان تیار ہیں اور ان کی پیاس بجھانے کے چشمے بھرے ہوئے ہیں۔",
+    "اے اللہ! میری دعا قبول فرما، میری شکر گزاری قبول کر اور مجھے میرے آقاؤں کے ساتھ ملا دے، حضرت محمد، علی، فاطمہ، حسن اور حسین علیہم السلام کے واسطے سے۔ تو میری نعمتوں کا مالک، میری آرزوؤں کی انتہا اور میرے آنے جانے اور قیام میں میری امید کا مقصود ہے۔ تو میرا معبود، میرا آقا اور میرا رب ہے۔ ہمارے دوستوں کو بخش دے، ہمارے دشمنوں کو ہم سے روک دے اور ہمیں نقصان پہنچانے سے انہیں باز رکھ۔ کلمۂ حق کو غالب اور بلند فرما اور کلمۂ باطل کو ناکام اور پست کر دے۔ بے شک تو ہر چیز پر قدرت رکھتا ہے۔",
+    "آپ پر سلام ہو، اے امام، اور اللہ کی رحمت اور اس کی برکتیں! میں آپ کو اللہ کے سپرد کرتا ہوں اور آپ پر سلام، اللہ کی رحمت اور اس کی برکتیں بھیجتا ہوں۔ ہم رسول پر اور اس پر ایمان رکھتے ہیں جو آپ لائے اور جس کی طرف آپ نے دعوت دی۔ اے اللہ! اپنے ولی کی اس زیارت کو میری آخری زیارت نہ بنا۔ اس کے مزار کی زیارت کا جو ثواب تو نے مقرر کیا ہے مجھے اس سے محروم نہ کر اور اپنی مشیت سے ہماری دوبارہ حاضری آسان بنا۔"
+  ],
+  "hasUrduTranslation": true,
+  "scanned": false,
+  "images": [],
+  "sources": [
+    {
+      "label": "Duas.org — original recitation reference",
+      "url": "https://www.duas.org/ziyarat-ameenallah.html"
+    },
+    {
+      "label": "Ziaraat.Com — text edition and translations",
+      "url": "https://www.ziyaraat.net/ur/ziarat#imam-ali.65"
+    },
+    {
+      "label": "Ziaraat.Com — browse the Ziyarat collection",
+      "url": "https://www.ziyaraat.net/ur/ziarat"
+    }
+  ],
+  "urduGuidance": "یہ صفحہ زیارت امین اللہ کے لیے ہے۔ عربی متن اصل قراءت کے لیے ہے اور رومن تلفظ پڑھنے میں مدد دیتا ہے۔ انگریزی معنی الگ درج ہیں۔ ماخذ اور دوسری زیارات کے روابط صفحے کے آخر میں دیے گئے ہیں۔",
+  "translationNote": "English and Urdu meanings are explanatory renderings; consult the Arabic text and cited edition. Urdu meanings on this page were prepared for this library.",
+  "related": [
+    {
+      "title": "Ziyarat Ashura",
+      "path": "/ziyarat/ziyarat-ashura"
+    },
+    {
+      "title": "Ziyarat Waritha",
+      "path": "/ziyarat/ziyarat-waritha"
+    },
+    {
+      "title": "Ziyarat Aal Yasin",
+      "path": "/ziyarat/ziyarat-aal-yasin"
+    }
+  ]
+}

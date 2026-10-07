@@ -1,0 +1,55 @@
+{
+  "slug": "ziyarat-sunday",
+  "title": "Sunday Ziyarat",
+  "urduTitle": "اتوار کی زیارت",
+  "group": "Weekday Ziyarats",
+  "aliases": "Sunday اتوار",
+  "edition": "",
+  "path": "/ziyarat/ziyarat-sunday",
+  "intro": "The weekday visitation for Imam Ali; Lady Fatima’s separate ziyarat is linked below, associated with Sunday.",
+  "description": "Read Sunday Ziyarat with arabic, transliteration, english and urdu meanings, recitation context and source references.",
+  "blocks": [
+    {
+      "kind": "text",
+      "arabic": "اتوار کے دن زیارتِ امام علیؑ و جنابِ فاطمہ زہراؑ\n\nاَلسَّلامُ عَلى شَجَرَةِ النُّبُوَّةِ وَالدَّوْحَةِ الْهَاشِمِيَّةِ\nالْمُضِيئَةِ الْمُثْمِرَةِ بِالنُّبُوَّةِ الْمُونِقَةِ بِالْإِمَامَةِ وَ عَلى\nضَجِيعَيْكَ آدَمَ وَ نُوحٍ عَلَيْهِمَا \nالسَّلامُ اَلسَّلامُ عَلَيْكَ وَ عَلى أَهْلِ بَيْتِكَ الطَّيِّبِينَ الطَّاهِرِينَ\nاَلسَّلامُ عَلَيْكَ وَ عَلى الْمَلائِكَةِ الْمُحْدِقِينَ بِكَ\nوَالْحَافِّينَ بِقَبْرِكَ يَا مَوْلايَ يَا أَمِيرَ الْمُؤْمِنِينَ \nهَذَا يَوْمُ الْأَحَدِ وَ هُوَ يَوْمُكَ وَ بِاسْمِكَ \nوَ أَنَا ضَيْفُكَ فِيهِ وَ جَارُكَ فَأَضِفْنِي يَا مَوْلايَ \nوَ أَجِرْنِي فَإِنَّكَ كَرِيمٌ تُحِبُّ الضِّيافَةَ \nوَ مَأْمُورٌ بِالْإِجَارَةِ فَافْعَلْ مَا رَغِبْتُ إِلَيْكَ فِيهِ \nوَ رَجَوْتُهُ مِنْكَ بِمَنْزِلَتِكَ وَ آلِ بَيْتِكَ عِنْدَ اللهِ \nوَ مَنْزِلَتِهِ عِنْدَكُمْ وَ بِحَقِّ ابْنِ عَمِّكَ رَسُولِ اللهِ صَلَّى اللهُ عَلَيْهِ وَ آلِهِ وَ سَلَّمَ \nوَ عَلَيْهِمْ أَجْمَعِينَ۔\nاَلسَّلامُ عَلَيْكِ يَا مُمْتَحَنَةُ امْتَحَنَكِ الَّذِي خَلَقَكِ\nفَوَجَدَكِ لِمَا امْتَحَنَكِ صَابِرَةً \nأَنَا لَكِ مُصَدِّقٌ صَابِرٌ عَلى مَا أَتَى بِهِ أَبُوكِ وَ وَصِيُّهُ \nصَلَوَاتُ اللهِ عَلَيْهِمَا \nوَ أَنَا أَسْأَلُكِ إِنْ كُنْتُ صَدَّقْتُكِ إِلاَّ أَلْحَقْتِنِي\nبِتَصْدِيقِي لَهُمَا لِتُسَرَّ نَفْسِي فَاشْهَدِي أَنِّي ظَاهِرٌ\nبِوِلايَتِكِ وَ وِلايَةِ آلِ بَيْتِكِ صَلَوَاتُ اللهِ عَلَيْهِمْ أَجْمَعِينَ۔",
+      "transliteration": "ALLAAHUMMA S’ALLI A’LAA MUH’AMMADIN’W WA AALI MUH’AMMAD\n\nBISMILLAAHIR- RAHMAANIR-RAH’EEM\n\nASSALAMU A’LASH SHAJARATIN NABAWIYYATI\nWAD DAWH’ATIL\nHAASHIMIYYATIL\nMUZ’EEE-ATIL\nMUTHMIRATI BIN-NUBUWWATIL\nMOONIQATI BIL IMAAMATI\nWA A’LAA Z”AJEE-A’YKA\nAADAMA\nWA NOOH’IN ALAYHIMAS SALAAM\n\nASSALAAMU A’LAYKA\nWA A’LAA AHLI BAYTIKAT’ T’AYYIBEENAT’ TAAHIREEN\n\nASSALAAMU A’LAYKA\nWA ‘A ’LAL MALAAA-IKATIL MUH’DIQEENA BIKA\nWAL H’AAAFFEENA BIQABRIKA\nYAA MAWLAAYA\nYAA AMEERAL MOO-MINEEN\n\nHAAD’AA YAWMUL AH’ADI\nWA HUWA YAWMUKA\nWA BIS-MIKA\nWA ANAA Z’AYFUKA\nFEEHI WA JAARUKA\n\nFA-AZ’IFNEE YAA MAWLAAYA\nWA AJIRNEE\nFA-INNAKA KAREEMUN TUH’IBBUZ” Z”IYAAFATI\nWA MAAMOORUN BIL-IJAARATI\n\nFAF-A’L MAA RAGHIBTU ILAYKA FEEHI\nWA RAJAWTUHOO MINKA\nBI-MANZILATIKA\nWA AALI BAYTIKA I’NDALLAHI\nWA MANZILATIHEE I’NDAKUM\nWA BI-H’AQQIBNI A’MMIKA\nRASOOLILLAAHI S’ALLALLAAHU A’LAYHI\nWA AALIHEE\nWA SALLAMA\nWA A’LAYHIM AJMA-E’EN\n\nALLAHUMMA S’ALLI A’LAA MUH’AMMADIN’W WA AALI MUH’AMMAD\n\nALLAAHUMMA S’ALLI A’LAA MUH’AMMADIN’W WA AALI MUH’AMMAD\n\nBISMILLAAHIR- RAHMAANIR-RAH’EEM\n\nASSALAAMU A’LAYKI\nYAA MUMTAH’ANATUM-TAH’ANAKILLAD’EE\nKALAQAKI FAWAJADAKI\nLIMAM-TAH’ANAKI S’AABIRATAN\n\nANAA LAKI MUS’ADDIQUN\nS’AABIRUN A’LAA MAA ATAA BIHEE\nABOOKI\nWA WAS’IYYUHOO\nS’ALAWATULLAAHI A’LAYHIMAA\n\nWA ANAA AS-ALUKI\nIN KUNTU\nS’ADDAQTUKI ILLAA\nAL-H’AQTINEE BI-TAS’DEEQEE\nLAHUMAA LITUSARRA NAFSEE\n\nFASH-HADEE ANNEE Z’AAHIRUN BI-WALAAYATIKI\n\nWA WALAAYATI AALI BAYTIKI\nS’ALAWAATULLAAHI A’LAYHIM AJMA-E’EN\n\nALLAHUMMA S’ALLI A’LAA MUH’AMMADIN’W WA AALI MUH’AMMAD",
+      "english": "Ziarat of Imam Ali(as) and Hazrat Fatima Zehra(sa) on Sunday\n\nO Allah! Send blessings on Muhammad and on the children of Muhammad.\n\nIn th name of Allah, the Beneficent the Merciful.\n\nPeace be on the Tree (inseparable tied up with ) of prophethood,\ntall and strong trunk (mainstay) of “Bani Hashim” (the family)\npregnant\nand fertile with prophethood,\nrefined and blossomed with Imamat;\n(on account of) you being the colleague of Adam\nand Nooh, peace be on them both,\n\nPeace be on you,\nand your pure and pious children.\n\nPeace be on you,\nand on the Angels who stand (around you) at your beck and call,\nand, ever alert, move about near your resting place\nO Mawlaa!\nO Ameer Al Momineen !\n\nToday is Sunday,\nyour day,\nrefers to you,\nand I , in its hours, take refuge with you,\nseek your nearness,\n\ntherefore make me feel at home. O Mawlaa!\nTake me in under your shelter\nbecause you are very kind, love to be hospitable,\nchosen and assigned to give asylum and refuge,\n\ntherefore do that for which I have come unto you in this hour,\nand have turned to you, in the name and for the sake of your belief,\nand your children’s belief, in Allah,\nand the status He has assigned to you (all),\nfor the sake of your brother (cousin),\nthe Messenger of Allah, blessings of Allah be on him\nand on his children\nand peace be on them all.\n\nO Allah! Send blessings on Muhammad and on the children of Muhammad.\n\nO Allah! Send blessings on Muhammad and on the children of Muhammad.\n\nIn th name of Allah, the Beneficent the Merciful.\n\nPeace be on you, O the carefully examined,\ntried and measured by Him who created you,\nand found you, in your test, cool\nand compact, steady and stable,\n\nI tell the truth about you; calm and quiet,\nwith self-control and composure (you) put up with all that which your father\nand his “Wasi” (successor) came across,\nblessings of Allah be on them.\n\nI beseech you, (If I have stated the truth),\nto bind me together with the testimony,\nconcerning both of them, in order to give joy\nand satisfaction to my heart and soul.\n\nSo bear witness that truly I, by heart made evident your,\n\nand your children’s “wilayat” (superintendent guardianship),\nblessings of Allah be on them all.\n\nO Allah! Send blessings on Muhammad and on the children of Muhammad."
+    }
+  ],
+  "urdu": [
+    "اتوار کے دن زیارتِ امام علیؑ و جنابِ فاطمہ زہراؑ\n\nسلام ہو شجرہِ نبوت پر اور ہاشمی خاندان کے اس روشن درخت پر \nجو نبوت سے پھلدار اور امامت سے سرسبز و شاداب ہے، \nاور سلام ہو آپ کے پہلو میں آرام کرنے والے (حضرت) آدم اور (حضرت) نوح علیہما السلام پر، \nسلام ہو آپ پر اور آپ کے پاک و پاکیزہ اہل بیت پر،\nسلام ہو آپ پر اور ان فرشتوں پر جو آپ کو گھیرے ہوئے ہیں\nاور آپ کی قبرِ مطہر کا طواف کر رہے ہیں، \nاے میرے مولا! اے امیر المؤمنین! یہ اتوار کا دن ہے اور یہ آپ کا دن ہے \nاور آپ ہی کے نام سے منسوب ہے، اور میں اس میں آپ کا مہمان اور آپ کا ہمسایہ (پناہ گزین) ہوں، \nپس میری مہمان نوازی فرمائیے اے میرے مولا! اور مجھے پناہ دیجیے، کیونکہ آپ صاحبِ کرم ہیں، \nمہمان نوازی کو پسند کرتے ہیں، اور پناہ دینے پر مامور ہیں، \nپس وہ سب کچھ کیجیے جس کی میں نے آپ سے خواہش کی ہے اور جس کی آپ سے امید رکھی ہے، \nاس منزلت کے واسطے سے جو اللہ کے ہاں آپ کی اور آپ کے اہل بیت کی ہے، \nاور جو منزلت اللہ کی آپ کے ہاں ہے، اور آپ کے چچا زاد بھائی رسول اللہ صلی اللہ علیہ وآلہ وسلم کے \nحق کے واسطے سے، اور ان سب پر اللہ کی رحمتیں ہوں۔\n\nزیارتِ سیدہ فاطمہ زہرا سلام اللہ علیہا\nسلام ہو آپ پر اے وہ آزمائی ہوئی بی بی! جنہیں اس ذات نے آزمایا جس نے آپ کو پیدا کیا،\nتو اس نے آپ کو اس آزمائش میں پورا اترنے والا اور صابر پایا۔ \nمیں آپ کی تصدیق کرنے والا ہوں، اور اس سب پر صبر کرنے والا ہوں\nجو آپ کے والدِ گرامی اور ان کے وصی (علیہما السلام) لے کر آئے۔ \nاللہ کی رحمتیں ہوں ان دونوں پر۔\nاور میں آپ سے سوال کرتا ہوں کہ اگر میں نے آپ کی تصدیق کی ہے، \nتو آپ مجھے بھی ان دونوں کی تصدیق کرنے والوں کے ساتھ ملا دیجیے تاکہ میرا نفس شادمان ہو جائے، \nپس آپ گواہ رہیے کہ میں آشکار طور پر آپ کی ولایت اور آپ کے اہل بیت کی ولایت پر قائم ہوں، \nاللہ کی رحمتیں ہوں ان سب پر"
+  ],
+  "hasUrduTranslation": true,
+  "scanned": false,
+  "images": [],
+  "sources": [
+    {
+      "label": "Ziaraat.Com — original recitation reference",
+      "url": "https://www.ziaraat.com/z_weeksune.php"
+    },
+    {
+      "label": "Ziaraat.Com — text edition and translations",
+      "url": "https://www.ziyaraat.net/ur/ziarat#fatima-zahra.55"
+    },
+    {
+      "label": "Ziaraat.Com — browse the Ziyarat collection",
+      "url": "https://www.ziyaraat.net/ur/ziarat"
+    }
+  ],
+  "urduGuidance": "یہ صفحہ اتوار کی زیارت کے لیے ہے۔ عربی متن اصل قراءت کے لیے ہے اور رومن تلفظ پڑھنے میں مدد دیتا ہے۔ انگریزی معنی الگ درج ہیں۔ ماخذ اور دوسری زیارات کے روابط صفحے کے آخر میں دیے گئے ہیں۔",
+  "translationNote": "Arabic text, transliteration and available translations are reproduced with credit to Ziaraat.Com and the original sources it identifies. Meanings are reading aids; the Arabic remains the reference text.",
+  "related": [
+    {
+      "title": "Ziyarat Aminullah",
+      "path": "/ziyarat/ziyarat-aminullah"
+    },
+    {
+      "title": "Ziyarat of Lady Fatima Zahra",
+      "path": "/ziyarat/ziyarat-fatima-zahra"
+    },
+    {
+      "title": "Ziyarat of Imam Ali at Najaf",
+      "path": "/ziyarat/ziyarat-imam-ali"
+    }
+  ]
+}

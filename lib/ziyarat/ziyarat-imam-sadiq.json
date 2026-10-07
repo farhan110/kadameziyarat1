@@ -1,0 +1,119 @@
+{
+  "slug": "ziyarat-imam-sadiq",
+  "title": "Ziyarat of Imam Jafar Sadiq",
+  "urduTitle": "زیارت امام جعفر صادق علیہ السلام",
+  "group": "Prophet & Imams",
+  "aliases": "Jafer Sadeq",
+  "edition": "",
+  "path": "/ziyarat/ziyarat-imam-sadiq",
+  "intro": "The individual visitation of Imam Jafar al-Sadiq, the sixth Imam, whose resting place is in Baqi.",
+  "description": "Read Ziyarat of Imam Jafar Sadiq with arabic text, transliteration and english meaning, recitation context and source references.",
+  "blocks": [
+    {
+      "kind": "text",
+      "arabic": "السَّلَامُ عَلَيْكَ يَا إِمَامَ الْوَرَى",
+      "transliteration": "As-salāmu ʿalayka yā imāma al-warā",
+      "english": "Peace be upon you, O Leader of mankind"
+    },
+    {
+      "kind": "text",
+      "arabic": "السَّلَامُ عَلَيْكَ أَيُّهَا الْعُرْوَةُ الْوُثْقَى",
+      "transliteration": "As-salāmu ʿalayka ayyuhā al-ʿurwatul-wuthqā",
+      "english": "Peace be upon you, O firmest handhold"
+    },
+    {
+      "kind": "text",
+      "arabic": "السَّلَامُ عَلَيْكَ يَا حَبْلَ اللَّهِ الْمَتِينُ",
+      "transliteration": "As-salāmu ʿalayka yā ḥabla Allāhi al-matīn",
+      "english": "Peace be upon you, O strong rope of Allah"
+    },
+    {
+      "kind": "text",
+      "arabic": "السَّلَامُ عَلَيْكَ يَا نُورَهُ الْمُبِينُ",
+      "transliteration": "As-salāmu ʿalayka yā nūrahu al-mubīn",
+      "english": "Peace be upon you, O His clear light"
+    },
+    {
+      "kind": "text",
+      "arabic": "السَّلَامُ عَلَيْكَ أَيُّهَا الصَّادِقُ",
+      "transliteration": "As-salāmu ʿalayka ayyuhā aṣ-ṣādiq",
+      "english": "Peace be upon you, O Truthful one"
+    },
+    {
+      "kind": "text",
+      "arabic": "جَعْفَرُ بْنُ مُحَمَّدٍ، خَازِنُ الْعِلْمِ، الدَّاعِي",
+      "transliteration": "Jaʿfar ibn Muḥammad, khāzin al-ʿilm, ad-dāʿī",
+      "english": "Ja'far, son of Muhammad, the keeper of knowledge, the caller"
+    },
+    {
+      "kind": "text",
+      "arabic": "إِلَى اللَّهِ بِالْحَقِّ",
+      "transliteration": "Ilā Allāhi bil-ḥaqq",
+      "english": "To Allah with truth"
+    },
+    {
+      "kind": "text",
+      "arabic": "اللَّهُمَّ كَمَا جَعَلْتَهُ مَعْدِنَ كَلَامِكَ وَوَحْيِكَ، وَخَازِنَ عِلْمِكَ،",
+      "transliteration": "Allāhumma kamā jaʿaltahu maʿdina kalāmika wa waḥyika, wa khāzina ʿilmik",
+      "english": "O Allah, just as You made him the source of Your words and revelations, and the keeper of Your knowledge,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَلِسَانَ تَوْحِيدِكَ، وَوَالِيَ أَمْرِكَ،",
+      "transliteration": "wa lisāna tawḥīdik, wa wāliya amrik",
+      "english": "And the tongue of Your oneness, and the guardian of Your command,"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَمُسْتَحْفِظَ دِينِكَ، فَصَلِّ عَلَيْهِ أَفْضَلَ",
+      "transliteration": "wa mustaḥfiẓa dīnik, faṣalli ʿalayhi afḍala",
+      "english": "And the protector of Your religion, then send blessings upon him— the best"
+    },
+    {
+      "kind": "text",
+      "arabic": "مَا صَلَّيْتَ عَلَى أَحَدٍ مِنْ أَوْصِيَائِكَ",
+      "transliteration": "mā ṣallayta ʿalā aḥadin min awṣiyāʾik",
+      "english": "That You have sent upon any of Your successors (awliyāʾ)"
+    },
+    {
+      "kind": "text",
+      "arabic": "وَحُجَجِكَ، إِنَّكَ حَمِيدٌ مَجِيدٌ",
+      "transliteration": "wa ḥujajik, innaka ḥamīdun majīd",
+      "english": "And proofs, truly You are Praiseworthy, Glorious"
+    }
+  ],
+  "urdu": [],
+  "hasUrduTranslation": false,
+  "scanned": false,
+  "images": [],
+  "sources": [
+    {
+      "label": "Duas.org — original recitation reference",
+      "url": "https://www.duas.org/mobile/imam-jafar-sadiq-as.html"
+    },
+    {
+      "label": "Ziaraat.Com — text edition and translations",
+      "url": "https://www.ziyaraat.net/ur/ziarat#imam-jafar-sadiq.95"
+    },
+    {
+      "label": "Ziaraat.Com — browse the Ziyarat collection",
+      "url": "https://www.ziyaraat.net/ur/ziarat"
+    }
+  ],
+  "urduGuidance": "یہ صفحہ زیارت امام جعفر صادق علیہ السلام کے لیے ہے۔ عربی متن اصل قراءت کے لیے ہے اور رومن تلفظ پڑھنے میں مدد دیتا ہے۔ انگریزی معنی الگ درج ہیں۔ ماخذ اور دوسری زیارات کے روابط صفحے کے آخر میں دیے گئے ہیں۔",
+  "translationNote": "Arabic text, transliteration and available translations are reproduced with credit to Ziaraat.Com and the original sources it identifies. Meanings are reading aids; the Arabic remains the reference text.",
+  "related": [
+    {
+      "title": "Ziyarat of Prophet Muhammad",
+      "path": "/ziyarat/ziyarat-prophet-muhammad"
+    },
+    {
+      "title": "Ziyarat of Lady Fatima Zahra",
+      "path": "/ziyarat/ziyarat-fatima-zahra"
+    },
+    {
+      "title": "Ziyarat of Imam Ali at Najaf",
+      "path": "/ziyarat/ziyarat-imam-ali"
+    }
+  ]
+}
