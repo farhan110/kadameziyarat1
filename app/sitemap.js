@@ -1,4 +1,5 @@
 import occasionPages from "@/lib/occasion-pages.json";
+import devotionalContent from "@/lib/devotional-content.json";
 
 export default function sitemap() {
   const base = "https://www.kadameziyarat.com";
@@ -31,5 +32,14 @@ export default function sitemap() {
     changeFrequency: "monthly",
     priority: page.kind === "package" ? 0.8 : 0.6,
   }));
-  return [...existingEntries, ...additions];
+  const devotionalEntries = [
+    ...["duas", "tasbih", "amaal"].map((section) => ({ path: `/${section}` })),
+    ...devotionalContent,
+  ].map((page) => ({
+    url: `${base}${page.path}`,
+    lastModified: new Date("2026-10-07"),
+    changeFrequency: "monthly",
+    priority: 0.6,
+  }));
+  return [...existingEntries, ...additions, ...devotionalEntries];
 }

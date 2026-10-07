@@ -42,6 +42,9 @@ export default function Footer() {
               <li><Link href="/contact" className="text-sand transition-colors hover:text-goldbright">Contact Us</Link></li>
               <li><Link href="/terms" className="text-sand transition-colors hover:text-goldbright">Terms &amp; Conditions</Link></li>
               <li><Link href="/privacy" className="text-sand transition-colors hover:text-goldbright">Privacy Policy</Link></li>
+              <li><Link href="/duas" className="text-sand transition-colors hover:text-goldbright">Dua Library</Link></li>
+              <li><Link href="/tasbih" className="text-sand transition-colors hover:text-goldbright">Tasbih &amp; Dhikr</Link></li>
+              <li><Link href="/amaal" className="text-sand transition-colors hover:text-goldbright">Amaal Guides</Link></li>
             </ul>
           </div>
 

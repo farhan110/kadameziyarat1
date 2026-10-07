@@ -12,6 +12,10 @@ export const metadata = {
   },
   description:
     "Book affordable Iraq and Iran Ziyarat packages with Kadam-e-Ziyarat. Guided tours to Karbala, Najaf, Mashhad, and Qom. Visa assistance, hotels near holy shrines, and 24/7 support for pilgrims worldwide.",
+  icons: {
+    icon: [{ url: "/site-icons/favicon", sizes: "any", type: "image/x-icon" }, { url: "/icon.svg", type: "image/svg+xml" }],
+    apple: [{ url: "/site-icons/apple", sizes: "180x180", type: "image/png" }],
+  },
   keywords: [
     "ziyarat packages",
     "iraq ziyarat",
